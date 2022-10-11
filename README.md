@@ -26,6 +26,7 @@ This is a list of resources for engineering students. This list is maintained by
 3. [Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA) (Youtube Channel).
 4.  [The Basics by Tom Scott](https://youtube.com/playlist?list=PL96C35uN7xGLLeET0dOWaKHkAlPsrkcha)
 5.  [Data Structures and Algorithms Visualiser](https://visualgo.net/en) - Provides visulation for different data structures and algorithms like sorting, linked lists, hash table etc. Also allows some customizations.
+6. [Complete DSA using C++ ](https://www.youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA) - Complete DSA course using C++ language by Love babbar on (Youtube)
 
 ## Machine Learning Resources <a name="machine-learning"></a>
 1. [Google's Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/ml-intro)
