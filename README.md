@@ -8,6 +8,8 @@ List of resources and project samples for Engineering Students
   - [Student Offers <a name="student-programs"></a>](#student-offers-)
   - [CS Resources <a name="education"></a>](#cs-resources-)
   - [Machine Learning Resources <a name="machine-learning"></a>](#machine-learning-resources-)
+  - [Competitive Programming <a name="competitive-programming"></a>](#competitive-programming-)
+  
 
 
 ## Introduction
@@ -33,3 +35,12 @@ This is a list of resources for engineering students. This list is maintained by
 3. [Data Science Handbook](https://tanthiamhuat.files.wordpress.com/2018/04/pythondatasciencehandbook.pdf)
 4. [CRISP-DM PyData 2015](https://www.youtube.com/watch?v=civLio11SjQ)
 5. [Kaggle](https://www.kaggle.com/)
+
+## Competitive Programming <a name="competitive-programming"></a>
+1. [CP playlist (Hindi) by Luv ](https://www.youtube.com/playlist?list=PLauivoElc3ggagradg8MfOZreCMmXMmJ-)
+2. [CP playlist (English) by ProgrammingWithHarry ](https://www.youtube.com/watch?v=_MF8L7ZxwRE)
+3. [Algorithms Playlist by Errichto ](https://www.youtube.com/playlist?list=PLl0KD3g-oDOHpWRyyGBUJ9jmul0lUOD80)
+4. [Beginner Topics For CP by COPS IIT-(BHU) ](https://www.youtube.com/playlist?list=PLLt4yMoVgczX0qAe_Q1ZHpDdd3_IRrCx6)
+5. [C++ STL by Utkarsh gupta ](https://youtu.be/PZogbfU4X5E)
+6. [C++ STL(Full Course) by Luv ](https://www.youtube.com/playlist?list=PLauivoElc3gh3RCiQA82MDI-gJfXQQVnn)
+
