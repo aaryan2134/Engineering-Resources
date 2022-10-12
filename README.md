@@ -63,8 +63,7 @@ This is a list of resources for engineering students. This list is maintained by
                QUEUE:
                 <a href="https://www.youtube.com/watch?v=zp6pBNbUB2U">CLICK</a>
                 TREE:
-                <a href="https://www.youtube.com/watch?v=-DzowlcaUmE">CLICK</a>
-              
+                <a href="https://www.youtube.com/watch?v=-DzowlcaUmE">CLICK</a>  
                 GRAPH:
                 <a href="https://www.youtube.com/watch?v=TwdjOQMTaQ4">CLICK</a>
                GREEDY ALGORITHMS:
@@ -74,8 +73,7 @@ This is a list of resources for engineering students. This list is maintained by
            OOPS:
             OOP stands for Object-Oriented Programming. Procedural programming is about writing procedures or methods
                 that perform operations on the data, while object-oriented programming is about creating objects that
-                contain both data and methods.
-            
+                contain both data and methods.    
             <a href="https://www.youtube.com/watch?v=a199KZGMNxk">LETS DO IT</a>
        CORE SUBJECTS
        OS:
@@ -90,8 +88,7 @@ This is a list of resources for engineering students. This list is maintained by
             DBMS:
             The database is a collection of inter-related data which is used to retrieve, insert and delete the data
                 efficiently. It is also used to organize the data in the form of a table, schema, views, and reports,
-                etc.
-           
+                etc
             <a href="https://www.youtube.com/watch?v=c5HAwKX-suM">ENJOY THE ESSENCE OF DATA-BASE</a>
         PRACTISE APTITUDES FOR APTITUDE ROUND:
         <a href="https://www.youtube.com/watch?v=LJ0_SmwFzgg">APTI WORKS</a>
@@ -105,11 +102,7 @@ This is a list of resources for engineering students. This list is maintained by
             Analytical thinking. ...
             Ability to work independently. ...
             Flexibility
-        
-
-      
        PRACTISE COMPETETIVE PROGRAMMING:
-       
         <a href="https://www.geeksforgeeks.org/">GFG</a>
         <a href="https://www.hackerrank.com/">HR</a>
         <a href="https://leetcode.com/">L.C</a>
