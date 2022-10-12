@@ -44,3 +44,9 @@ This is a list of resources for engineering students. This list is maintained by
 5. [C++ STL by Utkarsh gupta ](https://youtu.be/PZogbfU4X5E)
 6. [C++ STL(Full Course) by Luv ](https://www.youtube.com/playlist?list=PLauivoElc3gh3RCiQA82MDI-gJfXQQVnn)
 
+## Open Source Resources <a name="open-sourcen"></a>
+1. [Roadmap for beginners](https://towardsdatascience.com/getting-started-with-open-source-roadmap-35c6f76682b7)
+2. [Beginner's Course on Git & Github](https://youtu.be/RGOj5yH7evk).
+3. [Git & GitHub Tutorial For Beginners (Hindi)](https://www.youtube.com/watch?v=gwWKnnCMQ5c&ab_channel=CodeWithHarry) (Youtube Channel).
+4. [Git Documentation](https://git-scm.com/doc).
+5. [Git and Github Learning Resources](https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources).
