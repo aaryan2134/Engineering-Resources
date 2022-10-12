@@ -28,6 +28,9 @@ This is a list of resources for engineering students. This list is maintained by
 3. [Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA) (Youtube Channel).
 4.  [The Basics by Tom Scott](https://youtube.com/playlist?list=PL96C35uN7xGLLeET0dOWaKHkAlPsrkcha)
 5.  [Data Structures and Algorithms Visualiser](https://visualgo.net/en) - Provides visulation for different data structures and algorithms like sorting, linked lists, hash table etc. Also allows some customizations.
+6. [Algorithms Playlist by Abdul Bari](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O).
+7. [Learn C++ - A bit more in depth](https://www.youtube.com/watch?v=18c3MTX0PK0&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb).
+8. [Neso Academy - Learn CS Theory](https://www.youtube.com/c/nesoacademy/playlists?view=50&sort=dd&shelf_id=2).
 
 ## Machine Learning Resources <a name="machine-learning"></a>
 1. [Google's Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/ml-intro)
@@ -43,4 +46,6 @@ This is a list of resources for engineering students. This list is maintained by
 4. [Beginner Topics For CP by COPS IIT-(BHU) ](https://www.youtube.com/playlist?list=PLLt4yMoVgczX0qAe_Q1ZHpDdd3_IRrCx6)
 5. [C++ STL by Utkarsh gupta ](https://youtu.be/PZogbfU4X5E)
 6. [C++ STL(Full Course) by Luv ](https://www.youtube.com/playlist?list=PLauivoElc3gh3RCiQA82MDI-gJfXQQVnn)
+7. [Dynamic Programming (Hindi) by Aditya Verma](https://youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go).
+8. [Graphs by Striver](https://youtube.com/playlist?list=PLgUwDviBIf0rGEWe64KWas0Nryn7SCRWw).
 
