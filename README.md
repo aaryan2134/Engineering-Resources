@@ -49,3 +49,9 @@ This is a list of resources for engineering students. This list is maintained by
 7. [Dynamic Programming (Hindi) by Aditya Verma](https://youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go).
 8. [Graphs by Striver](https://youtube.com/playlist?list=PLgUwDviBIf0rGEWe64KWas0Nryn7SCRWw).
 
+## Java Programming <a name="java-programming"></a>
+1. [Core Java Tutorial for Beginners](https://www.youtube.com/watch?v=8cm1x4bC610)
+2. [Spring Framework](https://www.youtube.com/playlist?list=PLC97BDEFDCDD169D7)
+3. [Spring Security Basics](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTYTEooakHchTGglSvkZAjnE)
+4. [Hibernate Tutorial](https://www.youtube.com/playlist?list=PL4AFF701184976B25)
+5. [Spring Boot Quick Start](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTbx8p2oCgcAQGQyqN8XeA1x)
