@@ -51,18 +51,24 @@ This is a list of resources for engineering students. This list is maintained by
 
  ## ROADMAP <a name="PROGRAMMING LANGUAGES:"></a>
      1.  [DATA STRUCTURE AND ALGORITHMS ](https://www.youtube.com/watch?v=8hly31xKli0)
+     DO THIS IN SEQUENCE OF:
      2. [ARRAYS](https://www.youtube.com/watch?v=E2nXEuOkG48)
-     3. [LL](https://www.youtube.com/watch?v=oAja8-Ulz6o)
+     3. [LL](https://www.youtube.com/watch?v=oAja8-Ulz6o) 
     4. [STACK](https://www.youtube.com/watch?v=7m1DMYAbdiY)
      5.[QUEUE](https://www.youtube.com/watch?v=zp6pBNbUB2U)
                 6.[TREE](https://www.youtube.com/watch?v=-DzowlcaUmE)
                 7.[GRAPH](https://www.youtube.com/watch?v=TwdjOQMTaQ4)
                8.[GREEDY ALGORITHMS](https://www.youtube.com/watch?v=w1t_ZDwLPwg)
                 9.[DYNAMIC PROGRAMMING](https://www.youtube.com/watch?v=xZKqH7ZcS_Y)
+                THEN DO:
            10.[OOPS](https://www.youtube.com/watch?v=a199KZGMNxk)
+           FOLLOWED BY:
        11[OS](https://www.youtube.com/watch?v=mXw9ruZaxzQ)
+       AND
            12[CN](https://www.youtube.com/watch?v=Bvdz24orMhQ)
+           WITH 
             13[DBMS](https://www.youtube.com/watch?v=c5HAwKX-suM)
+            AND PLZ
        14 [PRACTISE APTITUDES FOR APTITUDE ROUND](https://www.javatpoint.com/aptitude/quantitative)
        15[PRACTISE COMPETETIVE PROGRAMMING](https://leetcode.com/)
        
