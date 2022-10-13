@@ -49,61 +49,35 @@ This is a list of resources for engineering students. This list is maintained by
 7. [Dynamic Programming (Hindi) by Aditya Verma](https://youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go).
 8. [Graphs by Striver](https://youtube.com/playlist?list=PLgUwDviBIf0rGEWe64KWas0Nryn7SCRWw).
 
- #ROADMAP<a name="PROGRAMMING LANGUAGES:"></a>
-       DATA STRUCTURE AND ALGORITHMS
-           A data structure is a named location that can be used to store and organize data. And, an algorithm is a
-                collection of steps to solve a particular problem
-            <a href="https://www.youtube.com/watch?v=8hly31xKli0">CLICK HERE TO KNOW BRIEFLY</a>
-            ARRAYS
-                <a href="https://www.youtube.com/watch?v=E2nXEuOkG48">CLICK</a>
-                LINKED LISTS:
-                <a href="https://www.youtube.com/watch?v=oAja8-Ulz6o">CLICK</a>
-                STACK:
-                <a href="https://www.youtube.com/watch?v=7m1DMYAbdiY">CLICK</a>
-               QUEUE:
-                <a href="https://www.youtube.com/watch?v=zp6pBNbUB2U">CLICK</a>
-                TREE:
-                <a href="https://www.youtube.com/watch?v=-DzowlcaUmE">CLICK</a>  
-                GRAPH:
-                <a href="https://www.youtube.com/watch?v=TwdjOQMTaQ4">CLICK</a>
-               GREEDY ALGORITHMS:
-                <a href="https://www.youtube.com/watch?v=w1t_ZDwLPwg">CLICK</a>
-                DYNAMIC PROGRAMMING:
-                <a href="https://www.youtube.com/watch?v=xZKqH7ZcS_Y">CLICK</a>
-           OOPS:
-            OOP stands for Object-Oriented Programming. Procedural programming is about writing procedures or methods
-                that perform operations on the data, while object-oriented programming is about creating objects that
-                contain both data and methods.    
-            <a href="https://www.youtube.com/watch?v=a199KZGMNxk">LETS DO IT</a>
-       CORE SUBJECTS
-       OS:
-            An operating system (OS) is system software that manages computer hardware, software resources, and
-                provides common services for computer programs.
-            <a href="https://www.youtube.com/watch?v=mXw9ruZaxzQ">OS HERE WE COME</a>
-           CN:
-            A computer network is a set of devices connected through links. A node can be computer, printer, or any
-                other device capable of sending or receiving the data. The links connecting the nodes are known as
-                communication channels
-            <a href="https://www.youtube.com/watch?v=Bvdz24orMhQ">START THIS RIDE WITH CN</a>
-            DBMS:
-            The database is a collection of inter-related data which is used to retrieve, insert and delete the data
-                efficiently. It is also used to organize the data in the form of a table, schema, views, and reports,
-                etc
-            <a href="https://www.youtube.com/watch?v=c5HAwKX-suM">ENJOY THE ESSENCE OF DATA-BASE</a>
-        PRACTISE APTITUDES FOR APTITUDE ROUND:
-        <a href="https://www.youtube.com/watch?v=LJ0_SmwFzgg">APTI WORKS</a>
-        <a href="https://www.javatpoint.com/aptitude/quantitative">PRACTISE!1</a>
-   ADVICE:
-        PRACTISE SOFT COMMUNICATION SKILLS:
-     Customer service. ...
-            Scheduling. ...
-            Time management skills. ...
-            Project management. ...
-            Analytical thinking. ...
-            Ability to work independently. ...
-            Flexibility
-       PRACTISE COMPETETIVE PROGRAMMING:
-        <a href="https://www.geeksforgeeks.org/">GFG</a>
-        <a href="https://www.hackerrank.com/">HR</a>
-        <a href="https://leetcode.com/">L.C</a>
-     THANK YOU AND ALL THE VERY BEST!!!
+ ## ROADMAP <a name="PROGRAMMING LANGUAGES:"></a>
+     1.  [DATA STRUCTURE AND ALGORITHMS ](https://www.youtube.com/watch?v=8hly31xKli0)
+     2. [ARRAYS](https://www.youtube.com/watch?v=E2nXEuOkG48)
+     3. [LL](https://www.youtube.com/watch?v=oAja8-Ulz6o)
+    4. [STACK](https://www.youtube.com/watch?v=7m1DMYAbdiY)
+               5.[QUEUE]
+               (https://www.youtube.com/watch?v=zp6pBNbUB2U)
+                6.[TREE]
+               (https://www.youtube.com/watch?v=-DzowlcaUmE)
+                7.[GRAPH]
+              (https://www.youtube.com/watch?v=TwdjOQMTaQ4)
+               8.[GREEDY ALGORITHMS]
+               (https://www.youtube.com/watch?v=w1t_ZDwLPwg)
+                9.[DYNAMIC PROGRAMMING]
+               (https://www.youtube.com/watch?v=xZKqH7ZcS_Y)
+           10.[OOPS]
+             (https://www.youtube.com/watch?v=a199KZGMNxk)
+       11[OS]
+            (https://www.youtube.com/watch?v=mXw9ruZaxzQ)
+           12[CN]
+           (https://www.youtube.com/watch?v=Bvdz24orMhQ)
+            13[DBMS]
+            (https://www.youtube.com/watch?v=c5HAwKX-suM)
+       14 [PRACTISE APTITUDES FOR APTITUDE ROUND]
+        (https://www.youtube.com/watch?v=LJ0_SmwFzgg)
+      (https://www.javatpoint.com/aptitude/quantitative)
+   
+       15[PRACTISE COMPETETIVE PROGRAMMING]
+      (https://www.geeksforgeeks.org/)
+       (https://www.hackerrank.com/)
+       (https://leetcode.com/)
+       
