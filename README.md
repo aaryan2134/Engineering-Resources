@@ -50,3 +50,10 @@ If the PR is not according to the guidelines then it will not be accepted.
 7. [Dynamic Programming (Hindi) by Aditya Verma](https://youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go).
 8. [Graphs by Striver](https://youtube.com/playlist?list=PLgUwDviBIf0rGEWe64KWas0Nryn7SCRWw).
 
+
+## Operating System <a name="Operating System"></a>
+1. [Operating System Playlist by Gate Smashers (Hindi) ](https://youtube.com/playlist?list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p)
+2. [Operating System Playlist by Neso Academy (English)](https://youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O)
+3. [Operating System Last Minute Notes by GFG](https://www.geeksforgeeks.org/last-minute-notes-operating-systems/)
+4. [Operating System Notes of Gate Smashers Playlist  ](https://drive.google.com/file/d/1Qpc_gzY-M0mCLU9Nm6rZdycOkqvHBYPD/view)
+5. [operating System Sheet by Arsh Goyal ](https://docs.google.com/document/d/1QwJwTH85QtxIOq-mRb3kPequDnD5qy54HS_UU_hEbOw/edit)
