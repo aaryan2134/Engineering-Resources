@@ -42,7 +42,7 @@ This is a list of resources for engineering students. This list is maintained by
 3. [Data Science Handbook](https://tanthiamhuat.files.wordpress.com/2018/04/pythondatasciencehandbook.pdf)
 4. [CRISP-DM PyData 2015](https://www.youtube.com/watch?v=civLio11SjQ)
 5. [Kaggle](https://www.kaggle.com/)
-6. [Machine Learning Specialization (you can mail coursera and get courses free)] (https://www.coursera.org/specializations/machine-learning-introduction)
+6. [Machine Learning Specialization (you can mail coursera and get courses free)](https://www.coursera.org/specializations/machine-learning-introduction)
 
 ## Competitive Programming <a name="competitive-programming"></a>
 
