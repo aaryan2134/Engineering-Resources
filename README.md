@@ -34,8 +34,6 @@ This is a list of resources for engineering students. This list is maintained by
 9.  [freeCodeCamp.org ](https://www.youtube.com/c/Freecodecamp).
 10. [Jenny's lectures CS/IT NET&JRF](https://www.youtube.com/c/JennyslecturesCSITNETJRF).
 11. [thenewboston](https://www.youtube.com/user/thenewboston).
-12. [Fireship](https://www.youtube.com/c/Fireship).
-13. [Programming with Mosh](https://www.youtube.com/c/programmingwithmosh).
 
 ## Machine Learning Resources <a name="machine-learning"></a>
 1. [Google's Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/ml-intro)
