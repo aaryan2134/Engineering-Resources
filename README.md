@@ -54,30 +54,15 @@ This is a list of resources for engineering students. This list is maintained by
      2. [ARRAYS](https://www.youtube.com/watch?v=E2nXEuOkG48)
      3. [LL](https://www.youtube.com/watch?v=oAja8-Ulz6o)
     4. [STACK](https://www.youtube.com/watch?v=7m1DMYAbdiY)
-               5.[QUEUE]
-               (https://www.youtube.com/watch?v=zp6pBNbUB2U)
-                6.[TREE]
-               (https://www.youtube.com/watch?v=-DzowlcaUmE)
-                7.[GRAPH]
-              (https://www.youtube.com/watch?v=TwdjOQMTaQ4)
-               8.[GREEDY ALGORITHMS]
-               (https://www.youtube.com/watch?v=w1t_ZDwLPwg)
-                9.[DYNAMIC PROGRAMMING]
-               (https://www.youtube.com/watch?v=xZKqH7ZcS_Y)
-           10.[OOPS]
-             (https://www.youtube.com/watch?v=a199KZGMNxk)
-       11[OS]
-            (https://www.youtube.com/watch?v=mXw9ruZaxzQ)
-           12[CN]
-           (https://www.youtube.com/watch?v=Bvdz24orMhQ)
-            13[DBMS]
-            (https://www.youtube.com/watch?v=c5HAwKX-suM)
-       14 [PRACTISE APTITUDES FOR APTITUDE ROUND]
-        (https://www.youtube.com/watch?v=LJ0_SmwFzgg)
-      (https://www.javatpoint.com/aptitude/quantitative)
-   
-       15[PRACTISE COMPETETIVE PROGRAMMING]
-      (https://www.geeksforgeeks.org/)
-       (https://www.hackerrank.com/)
-       (https://leetcode.com/)
+     5.[QUEUE](https://www.youtube.com/watch?v=zp6pBNbUB2U)
+                6.[TREE](https://www.youtube.com/watch?v=-DzowlcaUmE)
+                7.[GRAPH](https://www.youtube.com/watch?v=TwdjOQMTaQ4)
+               8.[GREEDY ALGORITHMS](https://www.youtube.com/watch?v=w1t_ZDwLPwg)
+                9.[DYNAMIC PROGRAMMING](https://www.youtube.com/watch?v=xZKqH7ZcS_Y)
+           10.[OOPS](https://www.youtube.com/watch?v=a199KZGMNxk)
+       11[OS](https://www.youtube.com/watch?v=mXw9ruZaxzQ)
+           12[CN](https://www.youtube.com/watch?v=Bvdz24orMhQ)
+            13[DBMS](https://www.youtube.com/watch?v=c5HAwKX-suM)
+       14 [PRACTISE APTITUDES FOR APTITUDE ROUND](https://www.javatpoint.com/aptitude/quantitative)
+       15[PRACTISE COMPETETIVE PROGRAMMING](https://leetcode.com/)
        
