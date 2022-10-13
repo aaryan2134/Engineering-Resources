@@ -50,3 +50,9 @@ If the PR is not according to the guidelines then it will not be accepted.
 7. [Dynamic Programming (Hindi) by Aditya Verma](https://youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go).
 8. [Graphs by Striver](https://youtube.com/playlist?list=PLgUwDviBIf0rGEWe64KWas0Nryn7SCRWw).
 
+## Database Management System <a name="Database-Management-System"></a>
+1. [DBMS playlist (Hindi) by Gate Smasher ](https://www.youtube.com/playlist?list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y)
+2. [DBMS playlist (English) by Neso Academy ](https://www.youtube.com/playlist?list=PLBlnK6fEyqRi_CUQ-FXxgzKQ1dwr_ZJWZ)
+3. [DBMS Notes(Gate Smasher) by Riti Kumari ](https://drive.google.com/file/d/1XGU4dusm9IV2DzBnuKhrrM_o7hUIt7NT/view?usp=sharing)
+4. [DBMS Cheatsheet](https://drive.google.com/file/d/1UvK-mULAirwcyT2K2S0DMev_BF40d1mW/view?usp=sharing)
+5. [DBMS Articles by Tutorialspoint](https://www.tutorialspoint.com/dbms/index.htm)
