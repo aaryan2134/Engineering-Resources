@@ -75,7 +75,9 @@ Javascript
 
 React
 
-1.  [React Redux tutorial by code evaluation](https://www.youtube.com/playlist?list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK)
+1.  [Best React course for beginner highly recommended](https://www.youtube.com/watch?v=bMknfKXIFA8&t=4s&ab_channel=freeCodeCamp.org). 
+2.  [React tutorial by code evaluation ](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3).
+3.  [checkout courses on udemy ].
 
 Git and Github
 
