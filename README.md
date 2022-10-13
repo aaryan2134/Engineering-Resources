@@ -9,7 +9,7 @@ List of resources and project samples for Engineering Students
   - [CS Resources <a name="education"></a>](#cs-resources-)
   - [Machine Learning Resources <a name="machine-learning"></a>](#machine-learning-resources-)
   - [Competitive Programming <a name="competitive-programming"></a>](#competitive-programming-)
-  - [DSA Sheets <a name="DSA-Sheet"></a>](#DSA-Sheet)
+
   
 
 
@@ -32,6 +32,7 @@ This is a list of resources for engineering students. This list is maintained by
 6. [Algorithms Playlist by Abdul Bari](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O).
 7. [Learn C++ - A bit more in depth](https://www.youtube.com/watch?v=18c3MTX0PK0&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb).
 8. [Neso Academy - Learn CS Theory](https://www.youtube.com/c/nesoacademy/playlists?view=50&sort=dd&shelf_id=2).
+9. [Love Babbar DSA Sheet](https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view) - A 450 Questions DSA Sheet for Placements
 
 ## Machine Learning Resources <a name="machine-learning"></a>
 1. [Google's Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/ml-intro)
@@ -50,8 +51,8 @@ This is a list of resources for engineering students. This list is maintained by
 7. [Dynamic Programming (Hindi) by Aditya Verma](https://youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go).
 8. [Graphs by Striver](https://youtube.com/playlist?list=PLgUwDviBIf0rGEWe64KWas0Nryn7SCRWw).
 
-## DSA Sheets <a name="DSA-Sheet"></a>
-1.) [Love Babbar DSA Sheet](https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view)
+
+
 
 
 
