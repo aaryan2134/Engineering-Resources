@@ -58,25 +58,25 @@ This is a list of resources for engineering students. This list is maintained by
 
 ## Web Development <a name="web-development"></a>
 
-#Html
+Html
 
 1. [Learn HTML](https://www.youtube.com/watch?v=kUMe1FH4CHE).
 
-#CSS
+CSS
 
 1. [CSS](https://www.youtube.com/watch?v=1Rs2ND1ryYc&t=15526s).
 2. [CSS for amazing tricks and tips](https://www.youtube.com/kepowob).
 
-#Javascript
+Javascript
 
 1. [Namaste Javascript by Akshay saini] (https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP).
 2. [Javascript by geeky shows] (https://www.youtube.com/playlist?list=PLbGui_ZYuhihZ-pDxNZuQ7xOQ8IS2z3XI)
 
-#React
+React
 
 1.  [React Redux tutorial by code evaluation](https://www.youtube.com/playlist?list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK)
 
-#Git and Github
+Git and Github
 
 1.  [Git for beginners](https://www.youtube.com/playlist?list=PLozRqGzj97d02YjR5JVqDwN2K0cAiT7VK).
 2.  [Git and Github ](https://www.youtube.com/watch?v=apGV9Kg7ics). 3.[Git for professional](https://www.youtube.com/watch?v=Uszj_k0DGsg)
