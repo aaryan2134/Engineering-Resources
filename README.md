@@ -9,6 +9,7 @@ List of resources and project samples for Engineering Students
   - [CS Resources <a name="education"></a>](#cs-resources-)
   - [Machine Learning Resources <a name="machine-learning"></a>](#machine-learning-resources-)
   - [Competitive Programming <a name="competitive-programming"></a>](#competitive-programming-)
+  - [Java Programming <a name="java-programming"></a>](#java-programming)
   
 
 
