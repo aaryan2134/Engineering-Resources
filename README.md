@@ -14,6 +14,7 @@ List of resources and project samples for Engineering Students
 
 ## Introduction
 This is a list of resources for engineering students. This list is maintained by students for students. If you wish to contribute, please read the [contributing guidelines](CONTRIBUTING.md).
+If the PR is not according to the guidelines then it will not be accepted. 
 
 ## Student Offers <a name="student-programs"></a>
 1. [Github Student Pack](https://education.github.com/pack) - A pack of free software and services for students.
