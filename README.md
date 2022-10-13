@@ -79,4 +79,5 @@ React
 Git and Github
 
 1.  [Git for beginners](https://www.youtube.com/playlist?list=PLozRqGzj97d02YjR5JVqDwN2K0cAiT7VK).
-2.  [Git and Github ](https://www.youtube.com/watch?v=apGV9Kg7ics). 3.[Git for professional](https://www.youtube.com/watch?v=Uszj_k0DGsg)
+2.  [Git and Github ](https://www.youtube.com/watch?v=apGV9Kg7ics). 
+3.  [Git for professional](https://www.youtube.com/watch?v=Uszj_k0DGsg)
