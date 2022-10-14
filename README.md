@@ -43,6 +43,7 @@ If the PR is not according to the guidelines then it will not be accepted.
 11. [thenewboston](https://www.youtube.com/user/thenewboston).
 12. [Fireship](https://www.youtube.com/c/Fireship).
 13. [Programming with Mosh](https://www.youtube.com/c/programmingwithmosh).
+14. [Visualise your code](https://pythontutor.com/cpp.html#mode=edit) - Provides visualaion of your code written in *cpp/c/python/java/javascript* by providing step by step execution of code
 
 ## Machine Learning Resources <a name="machine-learning"></a>
 
@@ -92,6 +93,7 @@ Git and Github
 1.  [Git for beginners](https://www.youtube.com/playlist?list=PLozRqGzj97d02YjR5JVqDwN2K0cAiT7VK).
 2.  [Git and Github ](https://www.youtube.com/watch?v=apGV9Kg7ics). 
 3.  [Git for professional](https://www.youtube.com/watch?v=Uszj_k0DGsg)
+4.  [Git cheatsheet by GitHub](https://education.github.com/git-cheat-sheet-education.pdf)
 
 SQL
 
