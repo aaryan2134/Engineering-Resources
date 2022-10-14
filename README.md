@@ -65,12 +65,14 @@ If the PR is not according to the guidelines then it will not be accepted.
 7. [Dynamic Programming (Hindi) by Aditya Verma](https://youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go).
 8. [Graphs by Striver](https://youtube.com/playlist?list=PLgUwDviBIf0rGEWe64KWas0Nryn7SCRWw).
 9. [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1).
+10.[Recursion by Striver](https://www.youtube.com/watch?v=yVdKa8dnKiE&list=PLgUwDviBIf0rGlzIn_7rsaR2FQ5e6ZOL9).
 
 ## Web Development <a name="web-development"></a>
 
 Html
 
 1. [Learn HTML](https://www.youtube.com/watch?v=kUMe1FH4CHE).
+2. [HTML in Hindi](https://www.youtube.com/watch?v=BsDoLVMnmZs).
 
 CSS
 
@@ -89,6 +91,7 @@ React
 1.  [Best React course for beginner highly recommended](https://www.youtube.com/watch?v=bMknfKXIFA8&t=4s&ab_channel=freeCodeCamp.org). 
 2.  [React tutorial by code evaluation ](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3).
 3.  checkout courses on udemy .
+4.  [React tutorial in Hindi](https://www.youtube.com/playlist?list=PL8p2I9GklV47BCAjiCtuV_liN9IwAl8pM).
 
 Git and Github
 
@@ -110,6 +113,7 @@ NextJs
 
 1.  [NextJS](https://www.youtube.com/watch?v=1WmNXEVia8I).
 2.  [documentry ](https://www.w3schools.io/learn/nextjs-tutorial/). 
+3.  [NextJs](https://www.youtube.com/playlist?list=PLu0W_9lII9agtWvR_TZdb_r0dNI8-lDwG).
 
 Django
 
@@ -131,3 +135,4 @@ Django
 3. [Spring Security Basics](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTYTEooakHchTGglSvkZAjnE)
 4. [Hibernate Tutorial](https://www.youtube.com/playlist?list=PL4AFF701184976B25)
 5. [Spring Boot Quick Start](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTbx8p2oCgcAQGQyqN8XeA1x)
+6. [java tutorial in Hindi](https://www.youtube.com/watch?v=ntLJmHOJ0ME&list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q)
