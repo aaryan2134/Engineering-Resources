@@ -13,6 +13,7 @@ List of resources and project samples for Engineering Students
   - [Competitive Programming <a name="competitive-programming"></a>](#competitive-programming-)
   - [Web Development <a name="web-development"></a>](#web-development-)
   - [Database Management System <a name="Database-Management-System"></a>](#Database-Management-System-)
+  - [Java Programming <a name="java-programming"></a>](#java-programming-)
 
 ## Introduction
 
@@ -99,3 +100,10 @@ Git and Github
 4. [DBMS Cheatsheet by Interviewbit](https://drive.google.com/file/d/1UvK-mULAirwcyT2K2S0DMev_BF40d1mW/view?usp=sharing)
 5. [DBMS Articles by Tutorialspoint](https://www.tutorialspoint.com/dbms/index.htm)
 
+## Java Programming <a name="java-programming"></a>
+
+1. [Core Java Tutorial for Beginners](https://www.youtube.com/watch?v=8cm1x4bC610)
+2. [Spring Framework](https://www.youtube.com/playlist?list=PLC97BDEFDCDD169D7)
+3. [Spring Security Basics](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTYTEooakHchTGglSvkZAjnE)
+4. [Hibernate Tutorial](https://www.youtube.com/playlist?list=PL4AFF701184976B25)
+5. [Spring Boot Quick Start](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTbx8p2oCgcAQGQyqN8XeA1x)
