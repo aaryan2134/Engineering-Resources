@@ -76,11 +76,13 @@ CSS
 
 1. [CSS](https://www.youtube.com/watch?v=1Rs2ND1ryYc&t=15526s).
 2. [CSS for amazing tricks and tips](https://www.youtube.com/kepowob).
+3. [CSS Tutorial in Hindi](https://youtu.be/Edsxf_NBFrw).
 
 Javascript
 
 1. [Namaste Javascript by Akshay saini](https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP).
 2. [Javascript by geeky shows](https://www.youtube.com/playlist?list=PLbGui_ZYuhihZ-pDxNZuQ7xOQ8IS2z3XI)
+3. [javascript](https://youtu.be/PkZNo7MFNFg).
 
 React
 
