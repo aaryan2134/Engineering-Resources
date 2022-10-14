@@ -9,6 +9,9 @@ List of resources and project samples for Engineering Students
   - [Introduction](#introduction)
   - [Student Offers <a name="student-programs"></a>](#student-offers-)
   - [CS Resources <a name="education"></a>](#cs-resources-)
+  - [EE Resources <a name="education"></a>](#ee-resources-)
+  - [ME Resources <a name="education"></a>](#me-resources-)
+  - [CHE Resources <a name="education"></a>](#che-resources-)
   - [Machine Learning Resources <a name="machine-learning"></a>](#machine-learning-resources-)
   - [Competitive Programming <a name="competitive-programming"></a>](#competitive-programming-)
   - [Web Development <a name="web-development"></a>](#web-development-)
@@ -43,6 +46,24 @@ If the PR is not according to the guidelines then it will not be accepted.
 11. [thenewboston](https://www.youtube.com/user/thenewboston).
 12. [Fireship](https://www.youtube.com/c/Fireship).
 13. [Programming with Mosh](https://www.youtube.com/c/programmingwithmosh).
+
+## EE Resources <a name="education"></a>
+
+1. [Electrical Machines Playlist](https://www.youtube.com/watch?v=PmBqB-4hgW4&list=PLs5_Rtf2P2r5YY5b23uDGrtpo42ezMmGp).
+2. [Power System Playlist](https://www.youtube.com/watch?v=zeSEFsR-jZA&list=PLs5_Rtf2P2r5tl_TgUqApSbUX720qkBTL).
+3. [Power Electronics Playlist](https://www.youtube.com/watch?v=jw3ji4WpMm8&list=PLs5_Rtf2P2r5KREX_ijxw2Sz-ISNhAgH4) (Youtube Channel).
+4. [Network Analysis Playlist](https://www.youtube.com/watch?v=FF-rLTSynBQ&list=PL4zFSWGjyVv5uxvzbVLkn40vV42IQYB3y)
+5. [Signals and Systems Playlist](https://www.youtube.com/watch?v=s8rsR_TStaA&list=PLBlnK6fEyqRhG6s3jYIU48CqsT5cyiDTO) 
+6. [digital and Analog Playlist](https://www.youtube.com/watch?v=qhjj6WG7Rgc&list=PLwjK_iyK4LLArUHRm3SvPLT0XWlVhpl4h).
+
+## ME Resources <a name="education"></a>
+
+1. [Engineering Physics Playlist](https://www.youtube.com/watch?v=7anz9qHLbIQ&list=PL-JvKqQx2Atc-7gw0SglqTajukZhc6Azu).
+2. [FLUID MECHANCS PLAYLIST](https://www.youtube.com/watch?v=iTanaNwMDKo&list=PL9RcWoqXmzaLnlGN39w2-1jyFyI_ALVa3).
+3. [SOLID MECHANICS PLAYLIST](https://www.youtube.com/watch?v=geqRGNIZGq8&list=PL9RcWoqXmzaLlfmNg2Ku1SdZtvXnYrLbc) (Youtube Channel).
+4. [MACHINE DESIGN PLAYLIST](https://www.youtube.com/watch?v=K0CgcBYYHA4&list=PLiSPNzs4fD9sZKMUSbSzcb9iAMBX2mQj1)
+5. [THEORY OF MACHINES PLAYLIST](https://www.youtube.com/watch?v=RYzE6EXTGB0&list=PLiSPNzs4fD9v3sQhMMuihEDothsOAKJ-a) 
+6. [THERMODYNAMICS PLAYLIST](https://www.youtube.com/watch?v=VIY8Bbv_VHw&list=PLDDfbf7FIeqsPqMnCiU6dvkb6TbG21ucz).
 
 ## Machine Learning Resources <a name="machine-learning"></a>
 
