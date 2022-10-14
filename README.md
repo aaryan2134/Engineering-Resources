@@ -93,6 +93,26 @@ Git and Github
 2.  [Git and Github ](https://www.youtube.com/watch?v=apGV9Kg7ics). 
 3.  [Git for professional](https://www.youtube.com/watch?v=Uszj_k0DGsg)
 
+SQL
+
+1.  [PostgreSQL](https://www.youtube.com/watch?v=qw--VYLpxG4).
+2.  [MySQL ](https://www.w3schools.com/mySQl/default.asp). 
+
+API
+
+1.  [PostgreSQL](https://www.youtube.com/watch?v=GZvSYJDk-us).
+
+NextJs
+
+1.  [NextJS](https://www.youtube.com/watch?v=1WmNXEVia8I).
+2.  [documentry ](https://www.w3schools.io/learn/nextjs-tutorial/). 
+
+Django
+
+1.  [BDjango comprehensive video rsource](https://www.youtube.com/watch?v=F5mRW0jo-U4). 
+2.  [Django Documentation ](https://docs.djangoproject.com/en/4.1/).
+3.  checkout courses on udemy .
+
 ## Database Management System <a name="Database-Management-System"></a>
 1. [DBMS playlist (Hindi) by Gate Smasher ](https://www.youtube.com/playlist?list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y)
 2. [DBMS playlist (English) by Neso Academy ](https://www.youtube.com/playlist?list=PLBlnK6fEyqRi_CUQ-FXxgzKQ1dwr_ZJWZ)
