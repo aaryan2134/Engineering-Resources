@@ -12,8 +12,10 @@ List of resources and project samples for Engineering Students
   - [Machine Learning Resources <a name="machine-learning"></a>](#machine-learning-resources-)
   - [Competitive Programming <a name="competitive-programming"></a>](#competitive-programming-)
   - [Web Development <a name="web-development"></a>](#web-development-)
+  - [Operating-System <a name="Operating-System"></a>](#Operating-System-)
   - [Database Management System <a name="Database-Management-System"></a>](#Database-Management-System-)
   - [Java Programming <a name="java-programming"></a>](#java-programming-)
+
 
 ## Introduction
 
@@ -66,6 +68,7 @@ If the PR is not according to the guidelines then it will not be accepted.
 8. [Graphs by Striver](https://youtube.com/playlist?list=PLgUwDviBIf0rGEWe64KWas0Nryn7SCRWw).
 9. [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1).
 
+
 ## Web Development <a name="web-development"></a>
 
 Html
@@ -89,7 +92,6 @@ React
 3.  checkout courses on udemy .
 
 Git and Github
-
 1.  [Git for beginners](https://www.youtube.com/playlist?list=PLozRqGzj97d02YjR5JVqDwN2K0cAiT7VK).
 2.  [Git and Github ](https://www.youtube.com/watch?v=apGV9Kg7ics). 
 3.  [Git for professional](https://www.youtube.com/watch?v=Uszj_k0DGsg)
@@ -115,6 +117,7 @@ Django
 2.  [Django Documentation ](https://docs.djangoproject.com/en/4.1/).
 3.  checkout courses on udemy .
 
+
 ## Database Management System <a name="Database-Management-System"></a>
 1. [DBMS playlist (Hindi) by Gate Smasher ](https://www.youtube.com/playlist?list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y)
 2. [DBMS playlist (English) by Neso Academy ](https://www.youtube.com/playlist?list=PLBlnK6fEyqRi_CUQ-FXxgzKQ1dwr_ZJWZ)
@@ -129,3 +132,10 @@ Django
 3. [Spring Security Basics](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTYTEooakHchTGglSvkZAjnE)
 4. [Hibernate Tutorial](https://www.youtube.com/playlist?list=PL4AFF701184976B25)
 5. [Spring Boot Quick Start](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTbx8p2oCgcAQGQyqN8XeA1x)
+
+## Operating-System <a name="Operating-System"></a>
+1. [Operating System Playlist by Gate Smashers (Hindi) ](https://youtube.com/playlist?list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p)
+2. [Operating System Playlist by Neso Academy (English)](https://youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O)
+3. [Operating System Last Minute Notes by GFG](https://www.geeksforgeeks.org/last-minute-notes-operating-systems/)
+4. [Operating System Notes of Gate Smashers Playlist  ](https://drive.google.com/file/d/1Qpc_gzY-M0mCLU9Nm6rZdycOkqvHBYPD/view)
+5. [operating System Sheet by Arsh Goyal ](https://docs.google.com/document/d/1QwJwTH85QtxIOq-mRb3kPequDnD5qy54HS_UU_hEbOw/edit)
