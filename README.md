@@ -139,3 +139,18 @@ Django
 3. [Operating System Last Minute Notes by GFG](https://www.geeksforgeeks.org/last-minute-notes-operating-systems/)
 4. [Operating System Notes of Gate Smashers Playlist  ](https://drive.google.com/file/d/1Qpc_gzY-M0mCLU9Nm6rZdycOkqvHBYPD/view)
 5. [operating System Sheet by Arsh Goyal ](https://docs.google.com/document/d/1QwJwTH85QtxIOq-mRb3kPequDnD5qy54HS_UU_hEbOw/edit)
+
+
+## Links to College Subjects <a name="college-subjects"></a>
+1. [Compiler Design Playlist by Neso Academy (English)](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjT3oJxFXRgjPNzeS-LFY-q)
+2. [Compiler Design Playlist by Unacademy (English)](https://www.youtube.com/playlist?list=PLG9aCp4uE-s1NGf_6tQbDBsjLRjquKBE1)
+3. [Compiler Design Playlist by Gate Smashers (Hindi)](https://www.youtube.com/playlist?list=PLxCzCOWd7aiEKtKSIHYusizkESC42diyc)
+4. [Computer Organization and Architecture Playlist by Gate Smashers (Hindi)](https://www.youtube.com/playlist?list=PLxCzCOWd7aiHMonh3G6QNKq53C6oNXGrX)
+5. [Computer Organization and Architecture Playlist by Neso Academy (English)](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgLLlzdgiTUKULKJPYc0A4q)
+6. [Computer Organization and Architecture Playlist by Unacademy (Hindi)](https://www.youtube.com/playlist?list=PLG9aCp4uE-s3WzvFW1nI-7hHWNC8s2RdI)
+7. [Theory of Computation Playlist by Gate Smashers (Hindi)](https://www.youtube.com/playlist?list=PLxCzCOWd7aiFM9Lj5G9G_76adtyb4ef7i)
+8. [Theory of Computation Playlist by Neso Academy (English)](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgp46KUv4ZY69yXmpwKOIev)
+9. [Theory of Computation Playlist by Unacademy (English)](https://www.youtube.com/playlist?list=PLG9aCp4uE-s1P6Z73Gbbh-kdDWwq5Bg7f)
+10. [Programming in MATLAB by NPTEL](https://www.youtube.com/playlist?list=PLRWKj4sFG7-6_Xr9yqg6SMr_F80KdFVhN)
+11. [Software Engineering Playlist by Sanchit Jain (Hindi)](https://www.youtube.com/playlist?list=PLomWmd9eRGvrT9XAfwxdWTnrgACqkSFRD)
+12. [Software Engineering Playlist by Gate Smashers (Hindi)](https://www.youtube.com/playlist?list=PLxCzCOWd7aiEed7SKZBnC6ypFDWYLRvB2)
