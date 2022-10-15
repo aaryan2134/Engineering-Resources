@@ -105,6 +105,7 @@ Javascript
 
 1. [Namaste Javascript by Akshay saini](https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP).
 2. [Javascript by geeky shows](https://www.youtube.com/playlist?list=PLbGui_ZYuhihZ-pDxNZuQ7xOQ8IS2z3XI)
+3. [The Modern JavaScript Tutorial](https://javascript.info/)
 
 React
 
