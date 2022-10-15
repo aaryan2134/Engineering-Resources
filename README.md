@@ -19,11 +19,10 @@ List of resources and project samples for Engineering Students
   - [Database Management System <a name="Database-Management-System"></a>](#Database-Management-System-)
   - [Java Programming <a name="java-programming"></a>](#java-programming-)
 
-
 ## Introduction
 
 This is a list of resources for engineering students. This list is maintained by students for students. If you wish to contribute, please read the [contributing guidelines](CONTRIBUTING.md).
-If the PR is not according to the guidelines then it will not be accepted. 
+If the PR is not according to the guidelines then it will not be accepted.
 
 ## Student Offers <a name="student-programs"></a>
 
@@ -43,12 +42,16 @@ If the PR is not according to the guidelines then it will not be accepted.
 6. [Algorithms Playlist by Abdul Bari](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O).
 7. [Learn C++ - A bit more in depth](https://www.youtube.com/watch?v=18c3MTX0PK0&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb).
 8. [Neso Academy - Learn CS Theory](https://www.youtube.com/c/nesoacademy/playlists?view=50&sort=dd&shelf_id=2).
-9.  [freeCodeCamp.org ](https://www.youtube.com/c/Freecodecamp).
+9. [freeCodeCamp.org ](https://www.youtube.com/c/Freecodecamp).
 10. [Jenny's lectures CS/IT NET&JRF](https://www.youtube.com/c/JennyslecturesCSITNETJRF).
 11. [thenewboston](https://www.youtube.com/user/thenewboston).
 12. [Fireship](https://www.youtube.com/c/Fireship).
 13. [Programming with Mosh](https://www.youtube.com/c/programmingwithmosh).
-14. [Visualise your code](https://pythontutor.com/cpp.html#mode=edit) - Provides visualaion of your code written in *cpp/c/python/java/javascript* by providing step by step execution of code
+14. [Visualise your code](https://pythontutor.com/cpp.html#mode=edit) - Provides visualaion of your code written in _cpp/c/python/java/javascript_ by providing step by step execution of code
+15. [MIT OpenCourceWare](https://ocw.mit.edu/).
+16. [W3Schools](https://www.w3schools.com/default.asp).
+17. [Gate Smashers](https://www.youtube.com/c/GateSmashers/playlists).
+18. [Apna College](https://www.youtube.com/c/ApnaCollegeOfficial/playlists).
 
 ## EE Resources <a name="education"></a>
 
@@ -56,7 +59,7 @@ If the PR is not according to the guidelines then it will not be accepted.
 2. [Power System Playlist](https://www.youtube.com/watch?v=zeSEFsR-jZA&list=PLs5_Rtf2P2r5tl_TgUqApSbUX720qkBTL).
 3. [Power Electronics Playlist](https://www.youtube.com/watch?v=jw3ji4WpMm8&list=PLs5_Rtf2P2r5KREX_ijxw2Sz-ISNhAgH4) (Youtube Channel).
 4. [Network Analysis Playlist](https://www.youtube.com/watch?v=FF-rLTSynBQ&list=PL4zFSWGjyVv5uxvzbVLkn40vV42IQYB3y)
-5. [Signals and Systems Playlist](https://www.youtube.com/watch?v=s8rsR_TStaA&list=PLBlnK6fEyqRhG6s3jYIU48CqsT5cyiDTO) 
+5. [Signals and Systems Playlist](https://www.youtube.com/watch?v=s8rsR_TStaA&list=PLBlnK6fEyqRhG6s3jYIU48CqsT5cyiDTO)
 6. [digital and Analog Playlist](https://www.youtube.com/watch?v=qhjj6WG7Rgc&list=PLwjK_iyK4LLArUHRm3SvPLT0XWlVhpl4h).
 
 ## ME Resources <a name="education"></a>
@@ -65,7 +68,7 @@ If the PR is not according to the guidelines then it will not be accepted.
 2. [FLUID MECHANCS PLAYLIST](https://www.youtube.com/watch?v=iTanaNwMDKo&list=PL9RcWoqXmzaLnlGN39w2-1jyFyI_ALVa3).
 3. [SOLID MECHANICS PLAYLIST](https://www.youtube.com/watch?v=geqRGNIZGq8&list=PL9RcWoqXmzaLlfmNg2Ku1SdZtvXnYrLbc) (Youtube Channel).
 4. [MACHINE DESIGN PLAYLIST](https://www.youtube.com/watch?v=K0CgcBYYHA4&list=PLiSPNzs4fD9sZKMUSbSzcb9iAMBX2mQj1)
-5. [THEORY OF MACHINES PLAYLIST](https://www.youtube.com/watch?v=RYzE6EXTGB0&list=PLiSPNzs4fD9v3sQhMMuihEDothsOAKJ-a) 
+5. [THEORY OF MACHINES PLAYLIST](https://www.youtube.com/watch?v=RYzE6EXTGB0&list=PLiSPNzs4fD9v3sQhMMuihEDothsOAKJ-a)
 6. [THERMODYNAMICS PLAYLIST](https://www.youtube.com/watch?v=VIY8Bbv_VHw&list=PLDDfbf7FIeqsPqMnCiU6dvkb6TbG21ucz).
 
 ## Machine Learning Resources <a name="machine-learning"></a>
@@ -88,7 +91,7 @@ If the PR is not according to the guidelines then it will not be accepted.
 7. [Dynamic Programming (Hindi) by Aditya Verma](https://youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go).
 8. [Graphs by Striver](https://youtube.com/playlist?list=PLgUwDviBIf0rGEWe64KWas0Nryn7SCRWw).
 9. [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1).
-
+10. [CP Algorithms](https://cp-algorithms.web.app/index.html).
 
 ## Web Development <a name="web-development"></a>
 
@@ -108,20 +111,21 @@ Javascript
 
 React
 
-1.  [Best React course for beginner highly recommended](https://www.youtube.com/watch?v=bMknfKXIFA8&t=4s&ab_channel=freeCodeCamp.org). 
+1.  [Best React course for beginner highly recommended](https://www.youtube.com/watch?v=bMknfKXIFA8&t=4s&ab_channel=freeCodeCamp.org).
 2.  [React tutorial by code evaluation ](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3).
 3.  checkout courses on udemy .
 
 Git and Github
+
 1.  [Git for beginners](https://www.youtube.com/playlist?list=PLozRqGzj97d02YjR5JVqDwN2K0cAiT7VK).
-2.  [Git and Github ](https://www.youtube.com/watch?v=apGV9Kg7ics). 
+2.  [Git and Github ](https://www.youtube.com/watch?v=apGV9Kg7ics).
 3.  [Git for professional](https://www.youtube.com/watch?v=Uszj_k0DGsg)
 4.  [Git cheatsheet by GitHub](https://education.github.com/git-cheat-sheet-education.pdf)
 
 SQL
 
 1.  [PostgreSQL](https://www.youtube.com/watch?v=qw--VYLpxG4).
-2.  [MySQL ](https://www.w3schools.com/mySQl/default.asp). 
+2.  [MySQL ](https://www.w3schools.com/mySQl/default.asp).
 
 API
 
@@ -130,16 +134,16 @@ API
 NextJs
 
 1.  [NextJS](https://www.youtube.com/watch?v=1WmNXEVia8I).
-2.  [documentry ](https://www.w3schools.io/learn/nextjs-tutorial/). 
+2.  [documentry ](https://www.w3schools.io/learn/nextjs-tutorial/).
 
 Django
 
-1.  [BDjango comprehensive video rsource](https://www.youtube.com/watch?v=F5mRW0jo-U4). 
+1.  [BDjango comprehensive video rsource](https://www.youtube.com/watch?v=F5mRW0jo-U4).
 2.  [Django Documentation ](https://docs.djangoproject.com/en/4.1/).
 3.  checkout courses on udemy .
 
-
 ## Database Management System <a name="Database-Management-System"></a>
+
 1. [DBMS playlist (Hindi) by Gate Smasher ](https://www.youtube.com/playlist?list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y)
 2. [DBMS playlist (English) by Neso Academy ](https://www.youtube.com/playlist?list=PLBlnK6fEyqRi_CUQ-FXxgzKQ1dwr_ZJWZ)
 3. [DBMS Notes(Gate Smasher) by Riti Kumari ](https://drive.google.com/file/d/1XGU4dusm9IV2DzBnuKhrrM_o7hUIt7NT/view?usp=sharing)
@@ -155,14 +159,15 @@ Django
 5. [Spring Boot Quick Start](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTbx8p2oCgcAQGQyqN8XeA1x)
 
 ## Operating-System <a name="Operating-System"></a>
+
 1. [Operating System Playlist by Gate Smashers (Hindi) ](https://youtube.com/playlist?list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p)
 2. [Operating System Playlist by Neso Academy (English)](https://youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O)
 3. [Operating System Last Minute Notes by GFG](https://www.geeksforgeeks.org/last-minute-notes-operating-systems/)
-4. [Operating System Notes of Gate Smashers Playlist  ](https://drive.google.com/file/d/1Qpc_gzY-M0mCLU9Nm6rZdycOkqvHBYPD/view)
+4. [Operating System Notes of Gate Smashers Playlist ](https://drive.google.com/file/d/1Qpc_gzY-M0mCLU9Nm6rZdycOkqvHBYPD/view)
 5. [operating System Sheet by Arsh Goyal ](https://docs.google.com/document/d/1QwJwTH85QtxIOq-mRb3kPequDnD5qy54HS_UU_hEbOw/edit)
 
-
 ## Links to College Subjects <a name="college-subjects"></a>
+
 1. [Compiler Design Playlist by Neso Academy (English)](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjT3oJxFXRgjPNzeS-LFY-q)
 2. [Compiler Design Playlist by Unacademy (English)](https://www.youtube.com/playlist?list=PLG9aCp4uE-s1NGf_6tQbDBsjLRjquKBE1)
 3. [Compiler Design Playlist by Gate Smashers (Hindi)](https://www.youtube.com/playlist?list=PLxCzCOWd7aiEKtKSIHYusizkESC42diyc)
