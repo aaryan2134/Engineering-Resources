@@ -8,7 +8,7 @@ Samples of projects for engineering students. This list is maintained by student
 4. Please add a link to your project in the [Projects](./Projects/PROJECTS.md) page. (Example: [Project Name](./Projects/ProjectName/README.md) - Description of the project.)
 
 ## Projects
-1. []()
+1. [TODO List](./Projects/TODO List/README.md) - TODO List is made with HTML, CSS, Javascript. It is a place where you can keep a track of your tasks.
 2. []()
 3. []()
 4. []()
