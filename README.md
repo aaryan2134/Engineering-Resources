@@ -142,6 +142,15 @@ Django
 2.  [Django Documentation ](https://docs.djangoproject.com/en/4.1/).
 3.  checkout courses on udemy .
 
+
+Flutter
+
+1. [Flutter original documentation](https://docs.flutter.dev/)
+2. [Dart language](https://www.youtube.com/watch?v=5xlVP04905w)
+3. [Flutter edureka tutorial](https://www.youtube.com/watch?v=9XMt2hChbRo)
+4. [Flutter guide repo](https://github.com/onecompiler/cheatsheets/blob/master/flutter.md)
+5. [Flutter projects](https://www.youtube.com/watch?v=YEJPg2jwzI8&list=PLxUBb2A_UUy8OlaNZpS2mfL8xpHcnd_Af)
+
 ## Database Management System <a name="Database-Management-System"></a>
 
 1. [DBMS playlist (Hindi) by Gate Smasher ](https://www.youtube.com/playlist?list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y)
