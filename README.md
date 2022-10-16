@@ -18,7 +18,7 @@ List of resources and project samples for Engineering Students
   - [Operating-System <a name="Operating-System"></a>](#Operating-System-)
   - [Database Management System <a name="Database-Management-System"></a>](#Database-Management-System-)
   - [Java Programming <a name="java-programming"></a>](#java-programming-)
-  - [Cyber Security Resources <a name="Cyber-Security-Resources"></a>](#Cyber-Security-Resources-)
+  - [Cyber Security Resources <a name="cyber-security-resources"></a>](#cyber-security-resources-)
 
 
 ## Introduction
@@ -177,7 +177,7 @@ Django
 11. [Software Engineering Playlist by Sanchit Jain (Hindi)](https://www.youtube.com/playlist?list=PLomWmd9eRGvrT9XAfwxdWTnrgACqkSFRD)
 12. [Software Engineering Playlist by Gate Smashers (Hindi)](https://www.youtube.com/playlist?list=PLxCzCOWd7aiEed7SKZBnC6ypFDWYLRvB2)
 
-## Cyber Security Resources  <a name="Cyber-Security-Resources"></a>
+## Cyber Security Resources <a name="cyber-security-resources"></a>
 
 ### Must:
 1.[PicoCTF](https://picoctf.org/)<br/>
