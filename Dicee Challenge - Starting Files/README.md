@@ -1,6 +1,6 @@
 ##Dice Game
- A beginn![Screenshot (33)](https://user-images.githubusercontent.com/100128956/196253003-91b7c51e-be92-45e2-88d6-05215f5ebca5.png)
-er Friendly Mini project using Html,CSS and Javascript.
+ A beginner er Friendly Mini project using Html,CSS and Javascript.
+
  
  ##Description
  
