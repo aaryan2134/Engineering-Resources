@@ -30,7 +30,7 @@ If the PR is not according to the guidelines then it will not be accepted.
 4. [AWS Educate](https://aws.amazon.com/education/awseducate/) - Free AWS credits for students.
 5. [Digital Ocean Student Pack](https://www.digitalocean.com/community/tutorials/how-to-claim-your-free-digitalocean-student-credits) - Free Digital Ocean credits for students.
 
-## CS Resources <a name="education"></a>
+## CS(Computer Sciences) Resources <a name="education"></a>
 
 1. [Data Structures Playlist](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P).
 2. [Harvard CS50x](https://cs50.harvard.edu).
@@ -46,7 +46,7 @@ If the PR is not according to the guidelines then it will not be accepted.
 12. [Fireship](https://www.youtube.com/c/Fireship).
 13. [Programming with Mosh](https://www.youtube.com/c/programmingwithmosh).
 
-## EE Resources <a name="education"></a>
+## EE(Electrical Engineering) Resources <a name="education"></a>
 
 1. [Electrical Machines Playlist](https://www.youtube.com/watch?v=PmBqB-4hgW4&list=PLs5_Rtf2P2r5YY5b23uDGrtpo42ezMmGp).
 2. [Power System Playlist](https://www.youtube.com/watch?v=zeSEFsR-jZA&list=PLs5_Rtf2P2r5tl_TgUqApSbUX720qkBTL).
@@ -55,7 +55,7 @@ If the PR is not according to the guidelines then it will not be accepted.
 5. [Signals and Systems Playlist](https://www.youtube.com/watch?v=s8rsR_TStaA&list=PLBlnK6fEyqRhG6s3jYIU48CqsT5cyiDTO) 
 6. [digital and Analog Playlist](https://www.youtube.com/watch?v=qhjj6WG7Rgc&list=PLwjK_iyK4LLArUHRm3SvPLT0XWlVhpl4h).
 
-## ME Resources <a name="education"></a>
+## ME(Mechanical Engineering) Resources <a name="education"></a>
 
 1. [Engineering Physics Playlist](https://www.youtube.com/watch?v=7anz9qHLbIQ&list=PL-JvKqQx2Atc-7gw0SglqTajukZhc6Azu).
 2. [FLUID MECHANCS PLAYLIST](https://www.youtube.com/watch?v=iTanaNwMDKo&list=PL9RcWoqXmzaLnlGN39w2-1jyFyI_ALVa3).
