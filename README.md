@@ -18,6 +18,7 @@ List of resources and project samples for Engineering Students
   - [Operating-System <a name="Operating-System"></a>](#Operating-System-)
   - [Database Management System <a name="Database-Management-System"></a>](#Database-Management-System-)
   - [Java Programming <a name="java-programming"></a>](#java-programming-)
+  - [App development <a name="app-development"></a>](#app-development-)
 
 ## Introduction
 
@@ -190,6 +191,14 @@ Flutter
 3. [Operating System Last Minute Notes by GFG](https://www.geeksforgeeks.org/last-minute-notes-operating-systems/)
 4. [Operating System Notes of Gate Smashers Playlist ](https://drive.google.com/file/d/1Qpc_gzY-M0mCLU9Nm6rZdycOkqvHBYPD/view)
 5. [operating System Sheet by Arsh Goyal ](https://docs.google.com/document/d/1QwJwTH85QtxIOq-mRb3kPequDnD5qy54HS_UU_hEbOw/edit)
+
+## App Development <a name="app-development"></a>
+
+1. [Android App Development for Beginners by Free Code Camp](https://www.youtube.com/watch?v=fis26HvvDII&ab_channel=freeCodeCamp.org)
+2. [Android Development Tutorials in Hindi by Code with Harry](https://www.youtube.com/playlist?list=PLu0W_9lII9aiL0kysYlfSOUgY5rNlOhUd)
+3. [Android Basics by Google](https://developer.android.com/courses)
+4. [Learn Android Application Development by Udemy](https://www.udemy.com/course/learn-android-application-development-y/)
+5. [Developing Android Apps by Udacity](https://www.udacity.com/course/new-android-fundamentals--ud851)
 
 ## Links to College Subjects <a name="college-subjects"></a>
 
