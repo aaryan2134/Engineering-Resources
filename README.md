@@ -63,10 +63,7 @@ If the PR is not according to the guidelines then it will not be accepted.
 4. [MACHINE DESIGN PLAYLIST](https://www.youtube.com/watch?v=K0CgcBYYHA4&list=PLiSPNzs4fD9sZKMUSbSzcb9iAMBX2mQj1)
 5. [THEORY OF MACHINES PLAYLIST](https://www.youtube.com/watch?v=RYzE6EXTGB0&list=PLiSPNzs4fD9v3sQhMMuihEDothsOAKJ-a) 
 6. [THERMODYNAMICS PLAYLIST](https://www.youtube.com/watch?v=VIY8Bbv_VHw&list=PLDDfbf7FIeqsPqMnCiU6dvkb6TbG21ucz).
-6. [ENGINEERING MATH](https://www.youtube.com/watch?v=WZMfFqIXKlw&list=PLiSPNzs4fD9vGQD-aUVKpDuzsRaXekgjj).
-6. [ENGINEERING MATHEMATS](https://www.youtube.com/watch?v=WZMfFqIXKlw&list=PLiSPNzs4fD9vGQD-aUVKpDuzsRaXekgjj).
-6. [ENGINEERING MATHEMATIC](https://www.youtube.com/watch?v=WZMfFqIXKlw&list=PLiSPNzs4fD9vGQD-aUVKpDuzsRaXekgjj).
-6. [ENGINEERING MATHEMATIC](https://www.youtube.com/watch?v=WZMfFqIXKlw&list=PLiSPNzs4fD9vGQD-aUVKpDuzsRaXekgjj).
+6. [ENGINEERING MATHEMATICS](https://www.youtube.com/watch?v=WZMfFqIXKlw&list=PLiSPNzs4fD9vGQD-aUVKpDuzsRaXekgjj).
 
 ## Machine Learning Resources <a name="machine-learning"></a>
 
@@ -94,6 +91,7 @@ If the PR is not according to the guidelines then it will not be accepted.
 Html
 
 1. [Learn HTML](https://www.youtube.com/watch?v=kUMe1FH4CHE).
+1. [Learn HTML documentry](https://www.w3schools.com/htmL/html_head.asp).
 
 CSS
 
