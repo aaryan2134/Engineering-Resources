@@ -104,6 +104,22 @@ CSS
 1. [CSS](https://www.youtube.com/watch?v=1Rs2ND1ryYc&t=15526s).
 2. [CSS for amazing tricks and tips](https://www.youtube.com/kepowob).
 
+Bootstrap
+
+1. [Bootstrap course for beginners by Free Code Camp](https://www.youtube.com/watch?v=-qfEOE4vtxE&ab_channel=freeCodeCamp.org).
+2. [Bootstrap tutorial in hindi by Code With Harry](https://www.youtube.com/watch?v=vpAJ0s5S2t0&ab_channel=CodeWithHarry).
+3. [Bootstrap 5 tutorial by Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9joIM91nLzd_qaH_AimmdAR).
+4. [Bootstrap 5 tutorial by w3schools](https://www.w3schools.com/bootstrap5/index.php).
+5. [Bootstrap docs](https://getbootstrap.com/).
+
+Tailwind CSS
+
+1. [Tailwind crash course by Traversy Media](https://www.youtube.com/watch?v=dFgzHOX84xQ&ab_channel=TraversyMedia).
+2. [Tailwind tutorial in hindi by Code With Harry](https://www.youtube.com/playlist?list=PLu0W_9lII9ahwFDuExCpPFHAK829Wto2O).
+3. [Tailwind CSS tutorial by Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw).
+4. [Tailwind CSS by Geeks for Geeks](https://www.geeksforgeeks.org/introduction-to-tailwind-css/).
+5. [Tailwind CSS docs](https://tailwindcss.com/).
+
 Javascript
 
 1. [Namaste Javascript by Akshay saini](https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP).
