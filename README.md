@@ -9,6 +9,7 @@ List of resources and project samples for Engineering Students
   - [CS Resources <a name="education"></a>](#cs-resources-)
   - [Machine Learning Resources <a name="machine-learning"></a>](#machine-learning-resources-)
   - [Competitive Programming <a name="competitive-programming"></a>](#competitive-programming-)
+  - [Open Source <a name="open-source"></a>](#open-source-)
   
 
 
@@ -42,9 +43,8 @@ This is a list of resources for engineering students. This list is maintained by
 3. [Algorithms Playlist by Errichto ](https://www.youtube.com/playlist?list=PLl0KD3g-oDOHpWRyyGBUJ9jmul0lUOD80)
 4. [Beginner Topics For CP by COPS IIT-(BHU) ](https://www.youtube.com/playlist?list=PLLt4yMoVgczX0qAe_Q1ZHpDdd3_IRrCx6)
 5. [C++ STL by Utkarsh gupta ](https://youtu.be/PZogbfU4X5E)
-6. [C++ STL(Full Course) by Luv ](https://www.youtube.com/playlist?list=PLauivoElc3gh3RCiQA82MDI-gJfXQQVnn)
 
-## Open Source Resources <a name="open-sourcen"></a>
+## Open Source <a name="open-source"></a>
 1. [Roadmap for beginners](https://towardsdatascience.com/getting-started-with-open-source-roadmap-35c6f76682b7)
 2. [Beginner's Course on Git & Github](https://youtu.be/RGOj5yH7evk).
 3. [Git & GitHub Tutorial For Beginners (Hindi)](https://www.youtube.com/watch?v=gwWKnnCMQ5c&ab_channel=CodeWithHarry) (Youtube Channel).
