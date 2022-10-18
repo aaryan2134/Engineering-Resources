@@ -16,8 +16,7 @@ List of resources and project samples for Engineering Students
   - [Competitive Programming <a name="competitive-programming"></a>](#competitive-programming-)
   - [Web Development <a name="web-development"></a>](#web-development-)
   - [Operating-System <a name="Operating-System"></a>](#Operating-System-)
-  - [Database Management System <a name="Database-Management-System"></a>](#Database-Management-System-)![Screenshot 2022-10-18 091759](https://user-images.githubusercontent.com/101515827/196331051-28ef9966-5cda-435e-9d54-6241aa1f9680.png)
-
+  - [Database Management System <a name="Database-Management-System"></a>](#Database-Management-System-)
   - [Java Programming <a name="java-programming"></a>](#java-programming-)
   - [Cyber Security Resources <a name="cyber-security-resources"></a>](#cyber-security-resources-)
   - [Shell Scripting <a name="shell-scripting"></a>](#shell-scripting-)
