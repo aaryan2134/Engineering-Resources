@@ -16,9 +16,13 @@ List of resources and project samples for Engineering Students
   - [Competitive Programming <a name="competitive-programming"></a>](#competitive-programming-)
   - [Web Development <a name="web-development"></a>](#web-development-)
   - [Operating-System <a name="Operating-System"></a>](#Operating-System-)
-  - [Database Management System <a name="Database-Management-System"></a>](#Database-Management-System-)
+  - [Database Management System <a name="Database-Management-System"></a>](#Database-Management-System-)![Screenshot 2022-10-18 091759](https://user-images.githubusercontent.com/101515827/196331051-28ef9966-5cda-435e-9d54-6241aa1f9680.png)
+
   - [Java Programming <a name="java-programming"></a>](#java-programming-)
   - [Cyber Security Resources <a name="cyber-security-resources"></a>](#cyber-security-resources-)
+  - [Shell Scripting <a name="shell-scripting"></a>](#shell-scripting-)
+    
+  
 
 ## Introduction
 
@@ -230,3 +234,14 @@ Flutter
 8. [Computerphile](https://www.youtube.com/user/Computerphile)<br/>
 9. [TheHackerStuff](https://www.youtube.com/c/TheHackerStuff)<br/>
 10. [HackerSploit](https://www.youtube.com/c/HackerSploit)<br/>
+
+## Shell Scripting <a name="shell-scripting"></a>
+
+1. [Shell Scripting Tutorial for Beginners](https://www.youtube.com/watch?v=cQepf9fY6cE&list=PLS1QulWo1RIYmaxcEqw5JhK3b-6rgdWO_)<br/>
+2. [Basic Shell Scripting by Hackerspoilt](https://www.youtube.com/playlist?list=PLBf0hzazHTGMJzHon4YXGscxUvsFpxrZT)<br/>
+3. [Shell Scripting Tutorials by Simplified](https://www.youtube.com/playlist?list=PL7B7FA4E693D8E790)<br/>
+4. [Shell Scripting Tutorials for Beginners](https://www.youtube.com/playlist?list=PL7B7FA4E693D8E790)<br/>
+5. [Linux Command Line Tutorial for Beginners](https://www.youtube.com/playlist?list=PLS1QulWo1RIb9WVQGJ_vh-RQusbZgO_As)<br/>
+6. [Linux Tutorial for Beginners CodeWithHarry](https://www.youtube.com/watch?v=_tCY-c-sPZc)<br/>
+7. [Shell Script Tutorials by Gaurav Sharma](https://www.youtube.com/playlist?list=PL6XT0grm_TfgvfQH58GEoEZrTyVl0ABnH)<br/>
+8. [Shell Script Complete Tutorials CyberSpoilt](https://www.youtube.com/playlist?list=PL9A0tISr5Ow5nZSY8-ICNAyXHJKesl_XL)<br/>
