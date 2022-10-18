@@ -20,7 +20,7 @@ List of resources and project samples for Engineering Students
   - [Java Programming <a name="java-programming"></a>](#java-programming-)
   - [Cyber Security Resources <a name="cyber-security-resources"></a>](#cyber-security-resources-)
   - [Shell Scripting <a name="shell-scripting"></a>](#shell-scripting-)
-    
+  - [DEV OPS <a name="dev-ops"></a>](#dev-ops-) 
   
 
 ## Introduction
@@ -244,3 +244,13 @@ Flutter
 6. [Linux Tutorial for Beginners CodeWithHarry](https://www.youtube.com/watch?v=_tCY-c-sPZc)<br/>
 7. [Shell Script Tutorials by Gaurav Sharma](https://www.youtube.com/playlist?list=PL6XT0grm_TfgvfQH58GEoEZrTyVl0ABnH)<br/>
 8. [Shell Script Complete Tutorials CyberSpoilt](https://www.youtube.com/playlist?list=PL9A0tISr5Ow5nZSY8-ICNAyXHJKesl_XL)<br/>
+
+## DEV OPS <a name="dev-ops"></a>
+
+1.[Simplilearn 9 hours DevOps Course](https://www.youtube.com/watch?v=lpk7VpGqkKw) <br/>
+2. [freeCodeCamp.org 2 hours DevOps Engineering Course](https://www.youtube.com/watch?v=j5Zsa_eOXeY) <br/>
+3. [Tech World with Nana's Youtube channel](https://www.youtube.com/c/TechWorldwithNana) <br/>
+4. [Learn DevOps playlist by Cloud Advocate](https://www.youtube.com/playlist?list=PLBRBRV08tHh1W6F9ijILxGJZNfzFuytZo) <br/>
+5. [Kunal Kushwaha's DevOps Bootcamp](https://www.youtube.com/playlist?list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak) <br/>
+6. [Computer Networking 4 hours Course](https://www.youtube.com/watch?v=IPvYjXCsTg8)<br/>
+
