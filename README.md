@@ -52,7 +52,7 @@ If the PR is not according to the guidelines then it will not be accepted.
 16. [W3Schools](https://www.w3schools.com/default.asp).
 17. [Gate Smashers](https://www.youtube.com/c/GateSmashers/playlists).
 18. [Apna College](https://www.youtube.com/c/ApnaCollegeOfficial/playlists).
-19. [Data Structures and Algorithms - Self Paced](https://practice.geeksforgeeks.org/courses/dsa-self-paced?source=google&medium=cpc&device=c&keyword=dsa%20course&matchtype=b&campaignid=9546568041&adgroup=97966155295&gclid=Cj0KCQjwy5maBhDdARIsAMxrkw2CYYsEPj_qJvhY0TMazmQPfrB7J-4dJNOCstzMwomO0hWc8Ye6E58aAkw9EALw_wcB)
+19. [Data Structures and Algorithms in Java](https://www.youtube.com/watch?v=6iCHf7OZn6c&list=PL6Zs6LgrJj3tDXv8a_elC6eT_4R5gfX4d)
 20. [Data Structures Easy to Advanced Course-FreeCodeCamp](https://www.youtube.com/watch?v=RBSGKlAvoiM)
 
 ## EE Resources <a name="education"></a>
