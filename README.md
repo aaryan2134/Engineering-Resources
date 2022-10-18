@@ -18,6 +18,8 @@ List of resources and project samples for Engineering Students
   - [Operating-System <a name="Operating-System"></a>](#Operating-System-)
   - [Database Management System <a name="Database-Management-System"></a>](#Database-Management-System-)
   - [Java Programming <a name="java-programming"></a>](#java-programming-)
+  - [Kotlin Programming <a name="kotlin-programming"></a>](#kotlin-programming-)
+  - [R Programming <a name="r-programming"></a>](#r-programming-)
   - [Cyber Security Resources <a name="cyber-security-resources"></a>](#cyber-security-resources-)
   - [Shell Scripting <a name="shell-scripting"></a>](#shell-scripting-)
   - [DEV OPS <a name="dev-ops"></a>](#dev-ops-) 
@@ -196,6 +198,22 @@ Flutter
 3. [Spring Security Basics](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTYTEooakHchTGglSvkZAjnE)
 4. [Hibernate Tutorial](https://www.youtube.com/playlist?list=PL4AFF701184976B25)
 5. [Spring Boot Quick Start](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTbx8p2oCgcAQGQyqN8XeA1x)
+
+## Kotlin Programming <a name="kotlin-programming"></a>
+
+1. [Kotlin Tutorial for beginners (Hindi)](https://www.youtube.com/playlist?list=PLRKyZvuMYSIMW3-rSOGCkPlO1z_IYJy3G)
+2. [Kotlin Tutorial for beginners (English)](https://www.youtube.com/watch?v=F9UC9DY-vIU)
+3. [Kotlin Multiplatform Tutorial](https://www.youtube.com/watch?v=l_tK1Zf4c64)
+4. [Kotlin for server-side Development](https://www.youtube.com/playlist?list=PLlFc5cFwUnmx-dpq9nkdaVJX0GnrM1Mp1)
+5. [Android Application Development using Kotlin: Beginners Tutorials](https://www.youtube.com/playlist?list=PLlxmoA0rQ-Lw5k_QCqVl3rsoJOnb_00UV)
+
+## R Programming <a name="r-programming"></a>
+
+1. [R Tutorial for beginners by freeCodeCamp.org](https://www.youtube.com/watch?v=_V8eKsto3Ug)
+2. [Data Analytics using R](https://www.youtube.com/watch?v=I4NRCN9DPTI&t=6s)
+3. [Machine Learning using R](https://www.youtube.com/watch?v=6dEUTmoXz0w)
+4. [Data Science using R](https://www.youtube.com/watch?v=iROHLA_TXQM)
+5. [Basic Analytical Techniques with R](https://www.youtube.com/watch?v=rqrrTfy-z-c)
 
 ## Operating-System <a name="Operating-System"></a>
 
