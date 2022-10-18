@@ -18,7 +18,10 @@ List of resources and project samples for Engineering Students
   - [Operating-System <a name="Operating-System"></a>](#Operating-System-)
   - [Database Management System <a name="Database-Management-System"></a>](#Database-Management-System-)
   - [Java Programming <a name="java-programming"></a>](#java-programming-)
+  - [Cyber Security Resources <a name="cyber-security-resources"></a>](#cyber-security-resources-)
+ main
   - [App development <a name="app-development"></a>](#app-development-)
+ main
 
 ## Introduction
 
@@ -214,3 +217,27 @@ Flutter
 10. [Programming in MATLAB by NPTEL](https://www.youtube.com/playlist?list=PLRWKj4sFG7-6_Xr9yqg6SMr_F80KdFVhN)
 11. [Software Engineering Playlist by Sanchit Jain (Hindi)](https://www.youtube.com/playlist?list=PLomWmd9eRGvrT9XAfwxdWTnrgACqkSFRD)
 12. [Software Engineering Playlist by Gate Smashers (Hindi)](https://www.youtube.com/playlist?list=PLxCzCOWd7aiEed7SKZBnC6ypFDWYLRvB2)
+
+## Cyber Security Resources <a name="cyber-security-resources"></a>
+
+### Must:
+1. [PicoCTF](https://picoctf.org/)<br/>
+2. [The Web in Depth](https://www.hacker101.com/sessions/web_in_depth)<br/>
+3. [Digital Ocean - Networking Basics](https://www.digitalocean.com/community/tutorials/an-introduction-to-networking-terminology-interfaces-and-protocols)
+
+### Free Resources:
+1. [TryHackMe](https://tryhackme.com/about)<br/>
+2. [HACKTHEBOX](https://www.hackthebox.com/)<br/>
+3. [CyberAces](https://www.sans.org/cyberaces/)<br/>
+
+### Youtube Playlists:
+1. [Webroot](https://www.youtube.com/user/WebrootSoftware)<br/>
+2. [The PC Security Channel](https://www.youtube.com/c/thepcsecuritychannel)<br/>
+3. [Kaspersky](https://www.youtube.com/c/KasperskyLab/playlists)<br/>
+4. [Security Now](https://www.youtube.com/c/securitynow)<br/>
+5. [Security Weekly](https://www.youtube.com/c/SecurityWeekly)<br/>
+6. [LiveOverflow](https://www.youtube.com/c/LiveOverflow)<br/>
+7. [13Cubed](https://www.youtube.com/c/13cubed)<br/>
+8. [Computerphile](https://www.youtube.com/user/Computerphile)<br/>
+9. [TheHackerStuff](https://www.youtube.com/c/TheHackerStuff)<br/>
+10. [HackerSploit](https://www.youtube.com/c/HackerSploit)<br/>
