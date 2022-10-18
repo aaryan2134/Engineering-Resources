@@ -56,6 +56,8 @@ If the PR is not according to the guidelines then it will not be accepted.
 16. [W3Schools](https://www.w3schools.com/default.asp).
 17. [Gate Smashers](https://www.youtube.com/c/GateSmashers/playlists).
 18. [Apna College](https://www.youtube.com/c/ApnaCollegeOfficial/playlists).
+19. [Data Structures and Algorithms in Java](https://www.youtube.com/watch?v=6iCHf7OZn6c&list=PL6Zs6LgrJj3tDXv8a_elC6eT_4R5gfX4d)
+20. [Data Structures Easy to Advanced Course-FreeCodeCamp](https://www.youtube.com/watch?v=RBSGKlAvoiM)
 
 ## EE Resources <a name="education"></a>
 
@@ -83,6 +85,9 @@ If the PR is not according to the guidelines then it will not be accepted.
 4. [CRISP-DM PyData 2015](https://www.youtube.com/watch?v=civLio11SjQ)
 5. [Kaggle](https://www.kaggle.com/)
 6. [Machine Learning Specialization (you can mail coursera and get courses free)](https://www.coursera.org/specializations/machine-learning-introduction)
+7. [Josh Starmer's Machine Learning Playlist](https://www.youtube.com/watch?v=Gv9_4yMHFhI&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF)
+8. [100 Days of Machine Learning](https://www.youtube.com/watch?v=ZftI2fEz0Fw&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH)
+9. [Machine Learning Course by Andrew NG](https://see.stanford.edu/Course/CS229)
 
 ## Competitive Programming <a name="competitive-programming"></a>
 
