@@ -12,18 +12,19 @@ A beginner er Friendly Mini project using Html,CSS and Javascript.
   
   ## CS fundamentals
  
- - In this Project some CS Fundamental Concepts are used like [variable](https://www.w3schools.com/js/js_variables.asp) , function ,If and else statement .
+ - In this Project some CS Fundamental Concepts are used like [variable](https://www.w3schools.com/js/js_variables.asp) , [function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions) ,[If and else statement](https://www.w3schools.com/js/js_if_else.asp) .
 - In javascript's section a funtion is created in which  if-else statement is used for considering 3 consequences of the game result (Draw,P-1 won, P-1 won)
- When anyone Click the "start" button(button tag is used inside html and call the function) it will call the function and in user side game result will be visible.
+ When anyone Click the "start" button ([button](https://www.w3schools.com/tags/tag_button.asp) tag is used inside html and call the function) it will call the function and in user side game result will be visible.
  
  ## Web development
  
- - From HTML portion anyone can understand how to write a simple code in "body" tag using it, <div> tag is used as a container for HTML elements,it helps to define a  division or section in Html,
- - In every div section classes are used ,which helps in styling,When we select this class in CSS.
+ - From HTML portion anyone can understand how to write a simple code in ["body"](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/body) tag using it,[div](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/div) tag is used as a container for HTML elements,it helps to define a  division or section in Html,
+ - In every div section classes are used ,which helps in styling When we select this class in CSS.
  - for adding image in HTMl img-src is used,and also class is added for each image to style it.
- - "button" tag is used to create a simple button,In which "Onclick" event is called,(In HTML event will occur when user click in element,Here element is button)
+ - "button" tag is used to create a simple button,In which ["Onclick"](https://www.w3schools.com/JSREF/event_onclick.asp) event is called,(In HTML event will occur when user click in element,Here element is button)
  - In CSS every class is styled using CSS properies(Background color,font-size,font-color etc),
- - Here HTML DOM (Document Object Model) is used to create changes in JS,like QuerySelector() and QueryselectorAll()method are used to connect javascript attributes with HTML
+ - Here HTML [DOM] (https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction) is used to create changes in JS,like [QuerySelector](https://www.w3schools.com/jsref/met_document_queryselector.asp) and [QueryselectorAll](https://www.w3schools.com/jsref/met_document_queryselectorall.asp)method are used to connect javascript attributes with HTML
+ 
  ![Screenshot (33)](https://user-images.githubusercontent.com/100128956/196253108-2c757369-5e2c-4ef0-b589-1df4452de47e.png)
 
  
