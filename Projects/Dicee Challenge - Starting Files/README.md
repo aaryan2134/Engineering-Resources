@@ -1,5 +1,5 @@
 ## Dice game
-A beginner er Friendly Mini project using Html,CSS and Javascript.
+A Beginner  Friendly Mini project using Html,CSS and Javascript.
 
  ## Description
  
