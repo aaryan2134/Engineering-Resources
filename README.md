@@ -18,6 +18,8 @@ List of resources and project samples for Engineering Students
   - [Operating-System <a name="Operating-System"></a>](#Operating-System-)
   - [Database Management System <a name="Database-Management-System"></a>](#Database-Management-System-)
   - [Java Programming <a name="java-programming"></a>](#java-programming-)
+  - [Kotlin Programming <a name="kotlin-programming"></a>](#kotlin-programming-)
+  - [R Programming <a name="r-programming"></a>](#r-programming-)
   - [Cyber Security Resources <a name="cyber-security-resources"></a>](#cyber-security-resources-)
 
 ## Introduction
