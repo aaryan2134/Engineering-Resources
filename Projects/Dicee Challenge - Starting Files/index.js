@@ -21,8 +21,7 @@ document.querySelector("h1").innerHTML="Player 1 won!🚩";
 }
 }
 
-/* the protyusha name
-studied in class 3rd year*/
+
 
 
 
