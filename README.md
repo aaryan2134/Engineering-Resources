@@ -107,6 +107,8 @@ CSS
 
 1. [CSS](https://www.youtube.com/watch?v=1Rs2ND1ryYc&t=15526s).
 2. [CSS for amazing tricks and tips](https://www.youtube.com/kepowob).
+3. [css-tricks](https://css-tricks.com/)
+4. [flexboxfroggy](https://flexboxfroggy.com/)
 
 Bootstrap
 
@@ -128,6 +130,9 @@ Javascript
 
 1. [Namaste Javascript by Akshay saini](https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP).
 2. [Javascript by geeky shows](https://www.youtube.com/playlist?list=PLbGui_ZYuhihZ-pDxNZuQ7xOQ8IS2z3XI)
+3. [The Modern JavaScript Tutorial](https://javascript.info/)
+4. [fullstack open](https://fullstackopen.com/en/)
+5. [You Dont Know JS yet](https://github.com/getify/You-Dont-Know-JS)
 
 React
 
