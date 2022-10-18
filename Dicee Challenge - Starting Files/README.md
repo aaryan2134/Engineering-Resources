@@ -12,8 +12,8 @@ A beginner er Friendly Mini project using Html,CSS and Javascript.
   
   ## CS fundamentals
  
- - In this Project some CS Fundamental Concepts are used like variable , function ,If and else statement,And also basics Webdevelopment
-- In javascript's section a funtion is created in which  if-else statement is used for considering 3 consequences of the game result(Draw,P-1 won, P-1 won)
+ - In this Project some CS Fundamental Concepts are used like [variable](https://www.w3schools.com/js/js_variables.asp) , function ,If and else statement .
+- In javascript's section a funtion is created in which  if-else statement is used for considering 3 consequences of the game result (Draw,P-1 won, P-1 won)
  When anyone Click the "start" button(button tag is used inside html and call the function) it will call the function and in user side game result will be visible.
  
  ## Web development
