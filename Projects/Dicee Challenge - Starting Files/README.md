@@ -25,6 +25,7 @@ A Beginner  Friendly Mini project using Html,CSS and Javascript.
  - In CSS every class is styled using CSS properies(Background color,font-size,font-color etc),
  - Here HTML [DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction) is used to create changes in JS,like [QuerySelector](https://www.w3schools.com/jsref/met_document_queryselector.asp) and [QueryselectorAll](https://www.w3schools.com/jsref/met_document_queryselectorall.asp) method are used to connect javascript attributes with HTML.
  
-  ![Screenshot (33)](https://user-images.githubusercontent.com/100128956/196253108-2c757369-5e2c-4ef0-b589-1df4452de47e.png)
+  ![Screenshot (35)](https://user-images.githubusercontent.com/100128956/196407057-078aff18-e1fc-49af-a22a-a86e69acd672.png)
+
 
  
