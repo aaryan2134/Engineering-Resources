@@ -23,7 +23,7 @@ A Beginner  Friendly Mini project using Html,CSS and Javascript.
  - for adding image in HTMl img-src is used,and also class is added for each image to style it.
  - "button" tag is used to create a simple button,In which ["Onclick"](https://www.w3schools.com/JSREF/event_onclick.asp) event is called,(In HTML event will occur when user click in element,Here element is button)
  - In CSS every class is styled using CSS properies(Background color,font-size,font-color etc),
- - Here HTML [DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction) is used to create changes in JS,like [QuerySelector](https://www.w3schools.com/jsref/met_document_queryselector.asp) and [QueryselectorAll](https://www.w3schools.com/jsref/met_document_queryselectorall.asp)method are used to connect javascript attributes with HTML.
+ - Here HTML [DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction) is used to create changes in JS,like [QuerySelector](https://www.w3schools.com/jsref/met_document_queryselector.asp) and [QueryselectorAll](https://www.w3schools.com/jsref/met_document_queryselectorall.asp) method are used to connect javascript attributes with HTML.
  
   ![Screenshot (33)](https://user-images.githubusercontent.com/100128956/196253108-2c757369-5e2c-4ef0-b589-1df4452de47e.png)
 
