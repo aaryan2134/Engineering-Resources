@@ -22,6 +22,10 @@ List of resources and project samples for Engineering Students
   - [Kotlin Programming <a name="kotlin-programming"></a>](#kotlin-programming-)
   - [R Programming <a name="r-programming"></a>](#r-programming-)
   - [Cyber Security Resources <a name="cyber-security-resources"></a>](#cyber-security-resources-)
+  - [Shell Scripting <a name="shell-scripting"></a>](#shell-scripting-)
+  - [App Development <a name="app-development"></a>](#app-development-)
+  - [DEV OPS <a name="dev-ops"></a>](#dev-ops-)
+  
 
 ## Introduction
 
@@ -57,6 +61,8 @@ If the PR is not according to the guidelines then it will not be accepted.
 17. [W3Schools](https://www.w3schools.com/default.asp).
 18. [Gate Smashers](https://www.youtube.com/c/GateSmashers/playlists).
 19. [Apna College](https://www.youtube.com/c/ApnaCollegeOfficial/playlists).
+20. [Data Structures and Algorithms in Java](https://www.youtube.com/watch?v=6iCHf7OZn6c&list=PL6Zs6LgrJj3tDXv8a_elC6eT_4R5gfX4d)
+21. [Data Structures Easy to Advanced Course-FreeCodeCamp](https://www.youtube.com/watch?v=RBSGKlAvoiM)
 
 ## EE Resources <a name="education"></a>
 
@@ -84,6 +90,9 @@ If the PR is not according to the guidelines then it will not be accepted.
 4. [CRISP-DM PyData 2015](https://www.youtube.com/watch?v=civLio11SjQ)
 5. [Kaggle](https://www.kaggle.com/)
 6. [Machine Learning Specialization (you can mail coursera and get courses free)](https://www.coursera.org/specializations/machine-learning-introduction)
+7. [Josh Starmer's Machine Learning Playlist](https://www.youtube.com/watch?v=Gv9_4yMHFhI&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF)
+8. [100 Days of Machine Learning](https://www.youtube.com/watch?v=ZftI2fEz0Fw&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH)
+9. [Machine Learning Course by Andrew NG](https://see.stanford.edu/Course/CS229)
 
 ## Competitive Programming <a name="competitive-programming"></a>
 
@@ -109,6 +118,8 @@ CSS
 
 1. [CSS](https://www.youtube.com/watch?v=1Rs2ND1ryYc&t=15526s).
 2. [CSS for amazing tricks and tips](https://www.youtube.com/kepowob).
+3. [css-tricks](https://css-tricks.com/)
+4. [flexboxfroggy](https://flexboxfroggy.com/)
 
 Bootstrap
 
@@ -131,6 +142,9 @@ Javascript
 1. [Javascript Documentation](https://javascript.info/)<br/>
 2. [Namaste Javascript by Akshay saini](https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP).
 3. [Javascript by geeky shows](https://www.youtube.com/playlist?list=PLbGui_ZYuhihZ-pDxNZuQ7xOQ8IS2z3XI)
+4. [The Modern JavaScript Tutorial](https://javascript.info/)
+5. [fullstack open](https://fullstackopen.com/en/)
+6. [You Dont Know JS yet](https://github.com/getify/You-Dont-Know-JS)
 
 React
 
@@ -264,3 +278,32 @@ Flutter
 8. [Computerphile](https://www.youtube.com/user/Computerphile)<br/>
 9. [TheHackerStuff](https://www.youtube.com/c/TheHackerStuff)<br/>
 10. [HackerSploit](https://www.youtube.com/c/HackerSploit)<br/>
+
+## Shell Scripting <a name="shell-scripting"></a>
+
+1. [Shell Scripting Tutorial for Beginners](https://www.youtube.com/watch?v=cQepf9fY6cE&list=PLS1QulWo1RIYmaxcEqw5JhK3b-6rgdWO_)<br/>
+2. [Basic Shell Scripting by Hackerspoilt](https://www.youtube.com/playlist?list=PLBf0hzazHTGMJzHon4YXGscxUvsFpxrZT)<br/>
+3. [Shell Scripting Tutorials by Simplified](https://www.youtube.com/playlist?list=PL7B7FA4E693D8E790)<br/>
+4. [Shell Scripting Tutorials for Beginners](https://www.youtube.com/playlist?list=PL7B7FA4E693D8E790)<br/>
+5. [Linux Command Line Tutorial for Beginners](https://www.youtube.com/playlist?list=PLS1QulWo1RIb9WVQGJ_vh-RQusbZgO_As)<br/>
+6. [Linux Tutorial for Beginners CodeWithHarry](https://www.youtube.com/watch?v=_tCY-c-sPZc)<br/>
+7. [Shell Script Tutorials by Gaurav Sharma](https://www.youtube.com/playlist?list=PL6XT0grm_TfgvfQH58GEoEZrTyVl0ABnH)<br/>
+8. [Shell Script Complete Tutorials CyberSpoilt](https://www.youtube.com/playlist?list=PL9A0tISr5Ow5nZSY8-ICNAyXHJKesl_XL)<br/>
+
+## App Development <a name="app-development"></a>
+
+1. [Android App Development for Beginners by Free Code Camp](https://www.youtube.com/watch?v=fis26HvvDII&ab_channel=freeCodeCamp.org)
+2. [Android Development Tutorials in Hindi by Code with Harry](https://www.youtube.com/playlist?list=PLu0W_9lII9aiL0kysYlfSOUgY5rNlOhUd)
+3. [Android Basics by Google](https://developer.android.com/courses)
+4. [Learn Android Application Development by Udemy](https://www.udemy.com/course/learn-android-application-development-y/)
+5. [Developing Android Apps by Udacity](https://www.udacity.com/course/new-android-fundamentals--ud851)
+
+## DEV OPS <a name="dev-ops"></a>
+
+1.[Simplilearn 9 hours DevOps Course](https://www.youtube.com/watch?v=lpk7VpGqkKw) <br/>
+2. [freeCodeCamp.org 2 hours DevOps Engineering Course](https://www.youtube.com/watch?v=j5Zsa_eOXeY) <br/>
+3. [Tech World with Nana's Youtube channel](https://www.youtube.com/c/TechWorldwithNana) <br/>
+4. [Learn DevOps playlist by Cloud Advocate](https://www.youtube.com/playlist?list=PLBRBRV08tHh1W6F9ijILxGJZNfzFuytZo) <br/>
+5. [Kunal Kushwaha's DevOps Bootcamp](https://www.youtube.com/playlist?list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak) <br/>
+6. [Computer Networking 4 hours Course](https://www.youtube.com/watch?v=IPvYjXCsTg8)<br/>
+
