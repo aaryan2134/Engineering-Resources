@@ -24,6 +24,7 @@ List of resources and project samples for Engineering Students
   - [Shell Scripting <a name="shell-scripting"></a>](#shell-scripting-)
   - [App Development <a name="app-development"></a>](#app-development-)
   - [DEV OPS <a name="dev-ops"></a>](#dev-ops-)
+  - [Python <a name="python"></a>](#python-)
   
 
 ## Introduction
@@ -290,4 +291,14 @@ Flutter
 4. [Learn DevOps playlist by Cloud Advocate](https://www.youtube.com/playlist?list=PLBRBRV08tHh1W6F9ijILxGJZNfzFuytZo) <br/>
 5. [Kunal Kushwaha's DevOps Bootcamp](https://www.youtube.com/playlist?list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak) <br/>
 6. [Computer Networking 4 hours Course](https://www.youtube.com/watch?v=IPvYjXCsTg8)<br/>
+
+## Python <a name="python"></a>
+
+1. [Python tutorial by Programming with Mosh](https://www.youtube.com/watch?v=_uQrJ0TkZlc&ab_channel=ProgrammingwithMosh)
+2. [Python Tutorial for Beginners in Hindi by Code with Harry](https://www.youtube.com/watch?v=gfDE2a7MKjA&ab_channel=CodeWithHarry)
+3. [Learn Python by Free Code Camp](https://www.youtube.com/watch?v=rfscVS0vtbw&ab_channel=freeCodeCamp.org)
+4. [Python for Beginners by Telusko](https://www.youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3)
+5. [A Byte of Python](https://python.swaroopch.com/)
+6. [A beginner-friendly Python tutorial](https://python.land/python-tutorial)
+7. [Python Beginners guide](https://wiki.python.org/moin/BeginnersGuide/Programmers)
 
