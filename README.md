@@ -21,7 +21,6 @@ List of resources and project samples for Engineering Students
   - [Kotlin Programming <a name="kotlin-programming"></a>](#kotlin-programming-)
   - [R Programming <a name="r-programming"></a>](#r-programming-)
   - [Cyber Security Resources <a name="cyber-security-resources"></a>](#cyber-security-resources-)
-  - [Official Documentations <a name="official-documentations"></a>](#official-documentations-)
 
 ## Introduction
 
@@ -47,15 +46,16 @@ If the PR is not according to the guidelines then it will not be accepted.
 7. [Learn C++ - A bit more in depth](https://www.youtube.com/watch?v=18c3MTX0PK0&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb).
 8. [Neso Academy - Learn CS Theory](https://www.youtube.com/c/nesoacademy/playlists?view=50&sort=dd&shelf_id=2).
 9. [freeCodeCamp.org ](https://www.youtube.com/c/Freecodecamp).
-10. [Jenny's lectures CS/IT NET&JRF](https://www.youtube.com/c/JennyslecturesCSITNETJRF).
-11. [thenewboston](https://www.youtube.com/user/thenewboston).
-12. [Fireship](https://www.youtube.com/c/Fireship).
-13. [Programming with Mosh](https://www.youtube.com/c/programmingwithmosh).
-14. [Visualise your code](https://pythontutor.com/cpp.html#mode=edit) - Provides visualaion of your code written in _cpp/c/python/java/javascript_ by providing step by step execution of code
-15. [MIT OpenCourceWare](https://ocw.mit.edu/).
-16. [W3Schools](https://www.w3schools.com/default.asp).
-17. [Gate Smashers](https://www.youtube.com/c/GateSmashers/playlists).
-18. [Apna College](https://www.youtube.com/c/ApnaCollegeOfficial/playlists).
+10. [C Documentation](https://devdocs.io/c/)<br/>
+11. [Jenny's lectures CS/IT NET&JRF](https://www.youtube.com/c/JennyslecturesCSITNETJRF).
+12. [thenewboston](https://www.youtube.com/user/thenewboston).
+13. [Fireship](https://www.youtube.com/c/Fireship).
+14. [Programming with Mosh](https://www.youtube.com/c/programmingwithmosh).
+15. [Visualise your code](https://pythontutor.com/cpp.html#mode=edit) - Provides visualaion of your code written in _cpp/c/python/java/javascript_ by providing step by step execution of code
+16. [MIT OpenCourceWare](https://ocw.mit.edu/).
+17. [W3Schools](https://www.w3schools.com/default.asp).
+18. [Gate Smashers](https://www.youtube.com/c/GateSmashers/playlists).
+19. [Apna College](https://www.youtube.com/c/ApnaCollegeOfficial/playlists).
 
 ## EE Resources <a name="education"></a>
 
@@ -88,14 +88,15 @@ If the PR is not according to the guidelines then it will not be accepted.
 
 1. [CP playlist (Hindi) by Luv ](https://www.youtube.com/playlist?list=PLauivoElc3ggagradg8MfOZreCMmXMmJ-)
 2. [CP playlist (English) by ProgrammingWithHarry ](https://www.youtube.com/watch?v=_MF8L7ZxwRE)
-3. [Algorithms Playlist by Errichto ](https://www.youtube.com/playlist?list=PLl0KD3g-oDOHpWRyyGBUJ9jmul0lUOD80)
-4. [Beginner Topics For CP by COPS IIT-(BHU) ](https://www.youtube.com/playlist?list=PLLt4yMoVgczX0qAe_Q1ZHpDdd3_IRrCx6)
-5. [C++ STL by Utkarsh gupta ](https://youtu.be/PZogbfU4X5E)
-6. [C++ STL(Full Course) by Luv ](https://www.youtube.com/playlist?list=PLauivoElc3gh3RCiQA82MDI-gJfXQQVnn)
-7. [Dynamic Programming (Hindi) by Aditya Verma](https://youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go).
-8. [Graphs by Striver](https://youtube.com/playlist?list=PLgUwDviBIf0rGEWe64KWas0Nryn7SCRWw).
-9. [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1).
-10. [CP Algorithms](https://cp-algorithms.web.app/index.html).
+3. [C++ Documentation](https://devdocs.io/cpp/)<br/>
+4. [Algorithms Playlist by Errichto ](https://www.youtube.com/playlist?list=PLl0KD3g-oDOHpWRyyGBUJ9jmul0lUOD80)
+5. [Beginner Topics For CP by COPS IIT-(BHU) ](https://www.youtube.com/playlist?list=PLLt4yMoVgczX0qAe_Q1ZHpDdd3_IRrCx6)
+6. [C++ STL by Utkarsh gupta ](https://youtu.be/PZogbfU4X5E)
+7. [C++ STL(Full Course) by Luv ](https://www.youtube.com/playlist?list=PLauivoElc3gh3RCiQA82MDI-gJfXQQVnn)
+8. [Dynamic Programming (Hindi) by Aditya Verma](https://youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go).
+9. [Graphs by Striver](https://youtube.com/playlist?list=PLgUwDviBIf0rGEWe64KWas0Nryn7SCRWw).
+10. [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1).
+11. [CP Algorithms](https://cp-algorithms.web.app/index.html).
 
 ## Web Development <a name="web-development"></a>
 
@@ -126,8 +127,9 @@ Tailwind CSS
 
 Javascript
 
-1. [Namaste Javascript by Akshay saini](https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP).
-2. [Javascript by geeky shows](https://www.youtube.com/playlist?list=PLbGui_ZYuhihZ-pDxNZuQ7xOQ8IS2z3XI)
+1. [Javascript Documentation](https://javascript.info/)<br/>
+2. [Namaste Javascript by Akshay saini](https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP).
+3. [Javascript by geeky shows](https://www.youtube.com/playlist?list=PLbGui_ZYuhihZ-pDxNZuQ7xOQ8IS2z3XI)
 
 React
 
@@ -181,27 +183,30 @@ Flutter
 
 ## Java Programming <a name="java-programming"></a>
 
-1. [Core Java Tutorial for Beginners](https://www.youtube.com/watch?v=8cm1x4bC610)
-2. [Spring Framework](https://www.youtube.com/playlist?list=PLC97BDEFDCDD169D7)
-3. [Spring Security Basics](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTYTEooakHchTGglSvkZAjnE)
-4. [Hibernate Tutorial](https://www.youtube.com/playlist?list=PL4AFF701184976B25)
-5. [Spring Boot Quick Start](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTbx8p2oCgcAQGQyqN8XeA1x)
+1. [Java Documentation](https://dev.java/learn/)<br/>
+2. [Core Java Tutorial for Beginners](https://www.youtube.com/watch?v=8cm1x4bC610)
+3. [Spring Framework](https://www.youtube.com/playlist?list=PLC97BDEFDCDD169D7)
+4. [Spring Security Basics](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTYTEooakHchTGglSvkZAjnE)
+5. [Hibernate Tutorial](https://www.youtube.com/playlist?list=PL4AFF701184976B25)
+6. [Spring Boot Quick Start](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTbx8p2oCgcAQGQyqN8XeA1x)
 
 ## Kotlin Programming <a name="kotlin-programming"></a>
 
-1. [Kotlin Tutorial for beginners (Hindi)](https://www.youtube.com/playlist?list=PLRKyZvuMYSIMW3-rSOGCkPlO1z_IYJy3G)
-2. [Kotlin Tutorial for beginners (English)](https://www.youtube.com/watch?v=F9UC9DY-vIU)
-3. [Kotlin Multiplatform Tutorial](https://www.youtube.com/watch?v=l_tK1Zf4c64)
-4. [Kotlin for server-side Development](https://www.youtube.com/playlist?list=PLlFc5cFwUnmx-dpq9nkdaVJX0GnrM1Mp1)
-5. [Android Application Development using Kotlin: Beginners Tutorials](https://www.youtube.com/playlist?list=PLlxmoA0rQ-Lw5k_QCqVl3rsoJOnb_00UV)
+1. [Kotlin Documentation](https://kotlinlang.org/docs/home.html)<br/>
+2. [Kotlin Tutorial for beginners (Hindi)](https://www.youtube.com/playlist?list=PLRKyZvuMYSIMW3-rSOGCkPlO1z_IYJy3G)
+3. [Kotlin Tutorial for beginners (English)](https://www.youtube.com/watch?v=F9UC9DY-vIU)
+4. [Kotlin Multiplatform Tutorial](https://www.youtube.com/watch?v=l_tK1Zf4c64)
+5. [Kotlin for server-side Development](https://www.youtube.com/playlist?list=PLlFc5cFwUnmx-dpq9nkdaVJX0GnrM1Mp1)
+6. [Android Application Development using Kotlin: Beginners Tutorials](https://www.youtube.com/playlist?list=PLlxmoA0rQ-Lw5k_QCqVl3rsoJOnb_00UV)
 
 ## R Programming <a name="r-programming"></a>
 
-1. [R Tutorial for beginners by freeCodeCamp.org](https://www.youtube.com/watch?v=_V8eKsto3Ug)
-2. [Data Analytics using R](https://www.youtube.com/watch?v=I4NRCN9DPTI&t=6s)
-3. [Machine Learning using R](https://www.youtube.com/watch?v=6dEUTmoXz0w)
-4. [Data Science using R](https://www.youtube.com/watch?v=iROHLA_TXQM)
-5. [Basic Analytical Techniques with R](https://www.youtube.com/watch?v=rqrrTfy-z-c)
+1. [R Documentation](https://www.r-project.org/other-docs.html)<br/>
+2. [R Tutorial for beginners by freeCodeCamp.org](https://www.youtube.com/watch?v=_V8eKsto3Ug)
+3. [Data Analytics using R](https://www.youtube.com/watch?v=I4NRCN9DPTI&t=6s)
+4. [Machine Learning using R](https://www.youtube.com/watch?v=6dEUTmoXz0w)
+5. [Data Science using R](https://www.youtube.com/watch?v=iROHLA_TXQM)
+6. [Basic Analytical Techniques with R](https://www.youtube.com/watch?v=rqrrTfy-z-c)
 
 ## Operating-System <a name="Operating-System"></a>
 
@@ -249,13 +254,3 @@ Flutter
 8. [Computerphile](https://www.youtube.com/user/Computerphile)<br/>
 9. [TheHackerStuff](https://www.youtube.com/c/TheHackerStuff)<br/>
 10. [HackerSploit](https://www.youtube.com/c/HackerSploit)<br/>
-
-## Official Documentations <a name="official-documentations"></a>
-
-1. [C](https://devdocs.io/c/)<br/>
-2. [C++](https://devdocs.io/cpp/)<br/>
-3. [Java](https://dev.java/learn/)<br/>
-4. [Python](https://docs.python.org/3/#)<br/>
-5. [Javascript](https://javascript.info/)<br/>
-6. [Kotlin](https://kotlinlang.org/docs/home.html)<br/>
-7. [R](https://www.r-project.org/other-docs.html)<br/>
