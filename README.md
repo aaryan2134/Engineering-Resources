@@ -203,7 +203,7 @@ Flutter
 3. [MySQL Tutorial for Beginners (Programming with Mosh)](https://www.youtube.com/watch?v=7S_tz1z_5bA)
 4. [MySQL Tutorial for Beginners in Hindi](https://www.youtube.com/playlist?list=PL0b6OzIxLPbzf12lu5etX_vjN-eUxgxnr)
 5. [MySQL Workbench Tutorial](https://www.youtube.com/watch?v=fUK94jOFwBc)
-6. [MySQL Advanced TUtorial](https://www.youtube.com/playlist?list=PLxQQRFTQ3zeCeFJoolWK2IWq4g8Z1Wemr)
+6. [MySQL Advanced Tutorial](https://www.youtube.com/playlist?list=PLxQQRFTQ3zeCeFJoolWK2IWq4g8Z1Wemr)
 
 ## Java Programming <a name="java-programming"></a>
 
