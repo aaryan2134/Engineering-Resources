@@ -21,7 +21,7 @@ List of resources and project samples for Engineering Students
   - [Kotlin Programming <a name="kotlin-programming"></a>](#kotlin-programming-)
   - [R Programming <a name="r-programming"></a>](#r-programming-)
   - [Cyber Security Resources <a name="cyber-security-resources"></a>](#cyber-security-resources-)
-  - [Official Documentations <a name="documentations"></a>](#documentations-)
+  - [Official Documentations <a name="official-documentations"></a>](#official-documentations-)
 
 ## Introduction
 
@@ -250,7 +250,7 @@ Flutter
 9. [TheHackerStuff](https://www.youtube.com/c/TheHackerStuff)<br/>
 10. [HackerSploit](https://www.youtube.com/c/HackerSploit)<br/>
 
-## Official Documentations <a name="documentations"></a>
+## Official Documentations <a name="official-documentations"></a>
 
 1. [C](https://devdocs.io/c/)<br/>
 2. [C++](https://devdocs.io/cpp/)<br/>
