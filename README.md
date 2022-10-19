@@ -18,10 +18,12 @@ List of resources and project samples for Engineering Students
   - [Operating-System <a name="Operating-System"></a>](#Operating-System-)
   - [Database Management System <a name="Database-Management-System"></a>](#Database-Management-System-)
   - [Java Programming <a name="java-programming"></a>](#java-programming-)
+  - [Kotlin Programming <a name="kotlin-programming"></a>](#kotlin-programming-)
+  - [R Programming <a name="r-programming"></a>](#r-programming-)
   - [Cyber Security Resources <a name="cyber-security-resources"></a>](#cyber-security-resources-)
   - [Shell Scripting <a name="shell-scripting"></a>](#shell-scripting-)
   - [App Development <a name="app-development"></a>](#app-development-)
-    
+  - [DEV OPS <a name="dev-ops"></a>](#dev-ops-)
   
 
 ## Introduction
@@ -57,6 +59,8 @@ If the PR is not according to the guidelines then it will not be accepted.
 16. [W3Schools](https://www.w3schools.com/default.asp).
 17. [Gate Smashers](https://www.youtube.com/c/GateSmashers/playlists).
 18. [Apna College](https://www.youtube.com/c/ApnaCollegeOfficial/playlists).
+19. [Data Structures and Algorithms in Java](https://www.youtube.com/watch?v=6iCHf7OZn6c&list=PL6Zs6LgrJj3tDXv8a_elC6eT_4R5gfX4d)
+20. [Data Structures Easy to Advanced Course-FreeCodeCamp](https://www.youtube.com/watch?v=RBSGKlAvoiM)
 
 ## EE Resources <a name="education"></a>
 
@@ -84,6 +88,9 @@ If the PR is not according to the guidelines then it will not be accepted.
 4. [CRISP-DM PyData 2015](https://www.youtube.com/watch?v=civLio11SjQ)
 5. [Kaggle](https://www.kaggle.com/)
 6. [Machine Learning Specialization (you can mail coursera and get courses free)](https://www.coursera.org/specializations/machine-learning-introduction)
+7. [Josh Starmer's Machine Learning Playlist](https://www.youtube.com/watch?v=Gv9_4yMHFhI&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF)
+8. [100 Days of Machine Learning](https://www.youtube.com/watch?v=ZftI2fEz0Fw&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH)
+9. [Machine Learning Course by Andrew NG](https://see.stanford.edu/Course/CS229)
 
 ## Competitive Programming <a name="competitive-programming"></a>
 
@@ -108,6 +115,8 @@ CSS
 
 1. [CSS](https://www.youtube.com/watch?v=1Rs2ND1ryYc&t=15526s).
 2. [CSS for amazing tricks and tips](https://www.youtube.com/kepowob).
+3. [css-tricks](https://css-tricks.com/)
+4. [flexboxfroggy](https://flexboxfroggy.com/)
 
 Bootstrap
 
@@ -129,6 +138,9 @@ Javascript
 
 1. [Namaste Javascript by Akshay saini](https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP).
 2. [Javascript by geeky shows](https://www.youtube.com/playlist?list=PLbGui_ZYuhihZ-pDxNZuQ7xOQ8IS2z3XI)
+3. [The Modern JavaScript Tutorial](https://javascript.info/)
+4. [fullstack open](https://fullstackopen.com/en/)
+5. [You Dont Know JS yet](https://github.com/getify/You-Dont-Know-JS)
 
 React
 
@@ -187,6 +199,22 @@ Flutter
 3. [Spring Security Basics](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTYTEooakHchTGglSvkZAjnE)
 4. [Hibernate Tutorial](https://www.youtube.com/playlist?list=PL4AFF701184976B25)
 5. [Spring Boot Quick Start](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTbx8p2oCgcAQGQyqN8XeA1x)
+
+## Kotlin Programming <a name="kotlin-programming"></a>
+
+1. [Kotlin Tutorial for beginners (Hindi)](https://www.youtube.com/playlist?list=PLRKyZvuMYSIMW3-rSOGCkPlO1z_IYJy3G)
+2. [Kotlin Tutorial for beginners (English)](https://www.youtube.com/watch?v=F9UC9DY-vIU)
+3. [Kotlin Multiplatform Tutorial](https://www.youtube.com/watch?v=l_tK1Zf4c64)
+4. [Kotlin for server-side Development](https://www.youtube.com/playlist?list=PLlFc5cFwUnmx-dpq9nkdaVJX0GnrM1Mp1)
+5. [Android Application Development using Kotlin: Beginners Tutorials](https://www.youtube.com/playlist?list=PLlxmoA0rQ-Lw5k_QCqVl3rsoJOnb_00UV)
+
+## R Programming <a name="r-programming"></a>
+
+1. [R Tutorial for beginners by freeCodeCamp.org](https://www.youtube.com/watch?v=_V8eKsto3Ug)
+2. [Data Analytics using R](https://www.youtube.com/watch?v=I4NRCN9DPTI&t=6s)
+3. [Machine Learning using R](https://www.youtube.com/watch?v=6dEUTmoXz0w)
+4. [Data Science using R](https://www.youtube.com/watch?v=iROHLA_TXQM)
+5. [Basic Analytical Techniques with R](https://www.youtube.com/watch?v=rqrrTfy-z-c)
 
 ## Operating-System <a name="Operating-System"></a>
 
@@ -253,3 +281,13 @@ Flutter
 3. [Android Basics by Google](https://developer.android.com/courses)
 4. [Learn Android Application Development by Udemy](https://www.udemy.com/course/learn-android-application-development-y/)
 5. [Developing Android Apps by Udacity](https://www.udacity.com/course/new-android-fundamentals--ud851)
+
+## DEV OPS <a name="dev-ops"></a>
+
+1.[Simplilearn 9 hours DevOps Course](https://www.youtube.com/watch?v=lpk7VpGqkKw) <br/>
+2. [freeCodeCamp.org 2 hours DevOps Engineering Course](https://www.youtube.com/watch?v=j5Zsa_eOXeY) <br/>
+3. [Tech World with Nana's Youtube channel](https://www.youtube.com/c/TechWorldwithNana) <br/>
+4. [Learn DevOps playlist by Cloud Advocate](https://www.youtube.com/playlist?list=PLBRBRV08tHh1W6F9ijILxGJZNfzFuytZo) <br/>
+5. [Kunal Kushwaha's DevOps Bootcamp](https://www.youtube.com/playlist?list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak) <br/>
+6. [Computer Networking 4 hours Course](https://www.youtube.com/watch?v=IPvYjXCsTg8)<br/>
+
