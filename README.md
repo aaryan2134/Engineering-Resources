@@ -22,7 +22,8 @@ List of resources and project samples for Engineering Students
   - [R Programming <a name="r-programming"></a>](#r-programming-)
   - [Cyber Security Resources <a name="cyber-security-resources"></a>](#cyber-security-resources-)
   - [Shell Scripting <a name="shell-scripting"></a>](#shell-scripting-)
-  - [DEV OPS <a name="dev-ops"></a>](#dev-ops-) 
+  - [App Development <a name="app-development"></a>](#app-development-)
+  - [DEV OPS <a name="dev-ops"></a>](#dev-ops-)
   
 
 ## Introduction
@@ -272,6 +273,14 @@ Flutter
 6. [Linux Tutorial for Beginners CodeWithHarry](https://www.youtube.com/watch?v=_tCY-c-sPZc)<br/>
 7. [Shell Script Tutorials by Gaurav Sharma](https://www.youtube.com/playlist?list=PL6XT0grm_TfgvfQH58GEoEZrTyVl0ABnH)<br/>
 8. [Shell Script Complete Tutorials CyberSpoilt](https://www.youtube.com/playlist?list=PL9A0tISr5Ow5nZSY8-ICNAyXHJKesl_XL)<br/>
+
+## App Development <a name="app-development"></a>
+
+1. [Android App Development for Beginners by Free Code Camp](https://www.youtube.com/watch?v=fis26HvvDII&ab_channel=freeCodeCamp.org)
+2. [Android Development Tutorials in Hindi by Code with Harry](https://www.youtube.com/playlist?list=PLu0W_9lII9aiL0kysYlfSOUgY5rNlOhUd)
+3. [Android Basics by Google](https://developer.android.com/courses)
+4. [Learn Android Application Development by Udemy](https://www.udemy.com/course/learn-android-application-development-y/)
+5. [Developing Android Apps by Udacity](https://www.udacity.com/course/new-android-fundamentals--ud851)
 
 ## DEV OPS <a name="dev-ops"></a>
 
