@@ -9,7 +9,7 @@ Samples of projects for engineering students. This list is maintained by student
 
 ## Projects
 1. [TODO List](./TODO%20List/README.md) - TODO List is made with HTML, CSS, Javascript. It is a place where you can keep a track of your tasks.
-2. []()
+2. [Dice Game](https://github.com/Ritu-2001/Engineering-Resources/blob/main/Projects/Dicee%20Challenge%20-%20Starting%20Files/README.md) It's made using HTML,CSS and Javascript.It is a mini Dice  Game.
 3. []()
 4. []()
 5. []()
