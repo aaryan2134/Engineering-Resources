@@ -22,8 +22,9 @@ List of resources and project samples for Engineering Students
   - [R Programming <a name="r-programming"></a>](#r-programming-)
   - [Cyber Security Resources <a name="cyber-security-resources"></a>](#cyber-security-resources-)
   - [Shell Scripting <a name="shell-scripting"></a>](#shell-scripting-)
-  - [App Development <a name="app-development"></a>](#app-development-)
   - [DEV OPS <a name="dev-ops"></a>](#dev-ops-)
+  - [Object Oriented Programming <a name="object-oriented-programming"></a>](#object-oriented-programming-)
+  - [App Development <a name="app-development"></a>](#app-development-)
   
 
 ## Introduction
@@ -291,3 +292,20 @@ Flutter
 5. [Kunal Kushwaha's DevOps Bootcamp](https://www.youtube.com/playlist?list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak) <br/>
 6. [Computer Networking 4 hours Course](https://www.youtube.com/watch?v=IPvYjXCsTg8)<br/>
 
+ main
+## Object Oriented Programming <a name="object-oriented-programming"></a>
+
+1. [Object Oriented Programming (JAVA)-Kunal Kushwaha](https://www.youtube.com/watch?v=BSVKUk58K6U&list=PL9gnSGHSqcno1G3XjUbwzXHL8_EttOuKk)</br>
+2. [OOPS for Interview(C++) - Helping Tutorials](https://www.youtube.com/watch?v=-TQ4c0ILhlA&list=PLCZJSEiJwWZ4XZFDktKqSV3vcAiau4xpV)<br/>
+3. [Object Oriented Programming(C++) - Easy Code](https://www.youtube.com/watch?v=ncMo5au4nXU&list=PLA8BpojmT5JF4KKQCEIqURc71z6nvYXEK)</br>
+4. [OOPS in C++ -  Codehelp by Babbar](https://www.youtube.com/watch?v=i_5pvt7ag7E&list=PLDzeHZWIZsTqouGFa8IyE8K-5hbtAppCC)</br>
+5. [JAVA OOPs(JAVA) - Learn Coding](https://www.youtube.com/watch?v=AEo4KgwKYoU&list=PLqleLpAMfxGCbdaJ6SoExDfHrTfRDeWeG)</br>
+6. [Object Oriented Programming (C++) - Education 4u](https://www.youtube.com/watch?v=AGrcyWV7hL8&list=PLrjkTql3jnm-Voi7giH4JITCi6cuZSN42)</br>
+7. [Object Oriented Programming Using Python(Python) - CodeWithHarry](https://www.youtube.com/watch?v=fpdwRofNMeQ&list=PLu0W_9lII9ahfRrhFcoB-4lpp9YaBmdCP)</br>
+8. [OOPS (python 3)- ProgrammingKnowledge](https://www.youtube.com/watch?v=QOryrmkr1tA&list=PLS1QulWo1RIZ77GWt3rQUggB7vm46ylYO)</br>
+9. [OOPS in Python(Python 3) - Telusko](https://www.youtube.com/watch?v=qiSCMNBIP2g)</br>
+10. [OOPs in JAVA(JAVA) - Telusko](https://www.youtube.com/watch?v=bzRp16p48bY)</br>
+
+
+
+ main
