@@ -114,6 +114,8 @@ If the PR is not according to the guidelines then it will not be accepted.
 Html
 
 1. [Learn HTML](https://www.youtube.com/watch?v=kUMe1FH4CHE).
+2. [Step-by-step guide to learn HTML](https://htmldog.com/guides/html/).
+3. [HTML References](https://htmldog.com/references/html/).
 
 CSS
 
@@ -121,6 +123,8 @@ CSS
 2. [CSS for amazing tricks and tips](https://www.youtube.com/kepowob).
 3. [css-tricks](https://css-tricks.com/)
 4. [flexboxfroggy](https://flexboxfroggy.com/)
+5. [Step-by-step guide to learn CSS](https://htmldog.com/guides/css/).
+6. [CSS References](https://htmldog.com/references/css/).
 
 Bootstrap
 
@@ -146,6 +150,7 @@ Javascript
 4. [The Modern JavaScript Tutorial](https://javascript.info/)
 5. [fullstack open](https://fullstackopen.com/en/)
 6. [You Dont Know JS yet](https://github.com/getify/You-Dont-Know-JS)
+7. [JavaScript Beginner Tutorial](https://htmldog.com/guides/javascript/).
 
 React
 
