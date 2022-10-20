@@ -109,6 +109,10 @@ If the PR is not according to the guidelines then it will not be accepted.
 10. [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1).
 11. [CP Algorithms](https://cp-algorithms.web.app/index.html).
 12. [Hong Kong Olympiad in Informatics Training Material](https://hkoi.org/en/training-materials/2022/).
+12. [Trie Series by take U forward](https://youtube.com/playlist?list=PLgUwDviBIf0pcIDCZnxhv0LkHf5KzG9zp).
+12. [Segment Tree](https://youtube.com/playlist?list=PL-Jc9J83PIiFY1445K_x1M_O3j9kr3FII).
+12. [CSES Problem Set](https://cses.fi/problemset/).
+12. [Number Theory for Competitive Programming](https://youtube.com/playlist?list=PLauivoElc3giVROwL-6g9hO-LlSen_NaV).
 
 ## Web Development <a name="web-development"></a>
 
