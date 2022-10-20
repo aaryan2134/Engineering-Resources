@@ -17,6 +17,7 @@ List of resources and project samples for Engineering Students
   - [Web Development <a name="web-development"></a>](#web-development-)
   - [Operating-System <a name="Operating-System"></a>](#Operating-System-)
   - [Database Management System <a name="Database-Management-System"></a>](#Database-Management-System-)
+  - [MySQL <a name="mysql"></a>](#mysql-)
   - [Java Programming <a name="java-programming"></a>](#java-programming-)
   - [Kotlin Programming <a name="kotlin-programming"></a>](#kotlin-programming-)
   - [R Programming <a name="r-programming"></a>](#r-programming-)
@@ -196,6 +197,15 @@ Flutter
 3. [DBMS Notes(Gate Smasher) by Riti Kumari ](https://drive.google.com/file/d/1XGU4dusm9IV2DzBnuKhrrM_o7hUIt7NT/view?usp=sharing)
 4. [DBMS Cheatsheet by Interviewbit](https://drive.google.com/file/d/1UvK-mULAirwcyT2K2S0DMev_BF40d1mW/view?usp=sharing)
 5. [DBMS Articles by Tutorialspoint](https://www.tutorialspoint.com/dbms/index.htm)
+
+## MySQL <a name="mysql"></a>
+
+1. [MySQL Documentation](https://dev.mysql.com/doc/)
+2. [MySQL Tutorial for Beginners (freeCodeCamp.org)](https://www.youtube.com/watch?v=HXV3zeQKqGY)
+3. [MySQL Tutorial for Beginners (Programming with Mosh)](https://www.youtube.com/watch?v=7S_tz1z_5bA)
+4. [MySQL Tutorial for Beginners in Hindi](https://www.youtube.com/playlist?list=PL0b6OzIxLPbzf12lu5etX_vjN-eUxgxnr)
+5. [MySQL Workbench Tutorial](https://www.youtube.com/watch?v=fUK94jOFwBc)
+6. [MySQL Advanced Tutorial](https://www.youtube.com/playlist?list=PLxQQRFTQ3zeCeFJoolWK2IWq4g8Z1Wemr)
 
 ## Java Programming <a name="java-programming"></a>
 
