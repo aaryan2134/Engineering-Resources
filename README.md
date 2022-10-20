@@ -108,6 +108,7 @@ If the PR is not according to the guidelines then it will not be accepted.
 9. [Graphs by Striver](https://youtube.com/playlist?list=PLgUwDviBIf0rGEWe64KWas0Nryn7SCRWw).
 10. [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1).
 11. [CP Algorithms](https://cp-algorithms.web.app/index.html).
+12. [Hong Kong Olympiad in Informatics Training Material](https://hkoi.org/en/training-materials/2022/).
 
 ## Web Development <a name="web-development"></a>
 
