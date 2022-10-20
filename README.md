@@ -156,7 +156,10 @@ React
 
 1.  [Best React course for beginner highly recommended](https://www.youtube.com/watch?v=bMknfKXIFA8&t=4s&ab_channel=freeCodeCamp.org).
 2.  [React tutorial by code evaluation ](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3).
-3.  checkout courses on udemy .
+3.  [React Router](https://www.youtube.com/watch?v=Law7wfdg_ls).
+4.  [React Redux Tutorials by Codevolution](https://www.youtube.com/watch?v=9boMnm5X9ak&list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK).
+5.  [Learn React](https://scrimba.com/learn/learnreact).
+6.  checkout courses on udemy .
 
 Git and Github
 
@@ -193,6 +196,8 @@ Flutter
 3. [Flutter edureka tutorial](https://www.youtube.com/watch?v=9XMt2hChbRo)
 4. [Flutter guide repo](https://github.com/onecompiler/cheatsheets/blob/master/flutter.md)
 5. [Flutter projects](https://www.youtube.com/watch?v=YEJPg2jwzI8&list=PLxUBb2A_UUy8OlaNZpS2mfL8xpHcnd_Af)
+6. [Flutter Cheatsheet](https://navoki.com/flutter-commands-a-developer-must-know-cheat-sheet/).
+7. [Flutter Tutorials for Beginners](https://www.youtube.com/watch?v=pTJJsmejUOQ).
 
 ## Database Management System <a name="Database-Management-System"></a>
 
