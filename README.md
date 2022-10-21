@@ -170,8 +170,17 @@ API
 
 NextJs
 
-1.  [NextJS](https://www.youtube.com/watch?v=1WmNXEVia8I).
-2.  [documentry ](https://www.w3schools.io/learn/nextjs-tutorial/).
+1.  [documentation](https://www.w3schools.io/learn/nextjs-tutorial/).
+2.  [Next.js tutorial (freeCodeCamp.org)](https://www.youtube.com/watch?v=1WmNXEVia8I).
+3.  [Next.js tutorial for beginners](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH).
+4.  [Next.js tutorial in Hindi](https://www.youtube.com/playlist?list=PLwGdqUZWnOp2rDbpfKAeUi9f8qZMS7_cv).
+
+AngularJS
+
+1.  [Angular.js Documentation](https://docs.angularjs.org/guide).
+2.  [Angular.js tutorial for beginners (Programming with Mosh)](https://www.youtube.com/watch?v=k5E2AVpwsko).
+3.  [Angular.js tutorial in Hindi](https://www.youtube.com/watch?v=0LhBvp8qpro).
+4.  [Angular.js complete tutorial (freeCodeCamp.org)](https://www.youtube.com/watch?v=2OHbjep_WjQ)
 
 Django
 
