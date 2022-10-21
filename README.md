@@ -27,6 +27,7 @@ List of resources and project samples for Engineering Students
   - [DEV OPS <a name="dev-ops"></a>](#dev-ops-)
   - [Python <a name="python"></a>](#python-)
   - [Object Oriented Programming <a name="object-oriented-programming"></a>](#object-oriented-programming-)
+  - [Blockchain <a name="blockchain"></a>](#blockchain-)
   
 
 ## Introduction
@@ -333,6 +334,17 @@ Flutter
 5. [A Byte of Python](https://python.swaroopch.com/)
 6. [A beginner-friendly Python tutorial](https://python.land/python-tutorial)
 7. [Python Beginners guide](https://wiki.python.org/moin/BeginnersGuide/Programmers)
+
+
+## Blockchain <a name="blockchain"></a>
+
+1. [Solidity Full Course](https://www.youtube.com/watch?v=gsaapL1SEqg&list=PLgPmWS2dQHW9u6IXZq5t5GMQTpW7JL33i&ab_channel=CodeEater)
+2. [Solidity and Blockchain in Hindi by Pepcoding](https://www.youtube.com/watch?v=MERRq6GUQrI&list=PL-Jc9J83PIiG6_thChXWzolj9BEG-Y0gh&ab_channel=Pepcoding)
+3. [Truffle Full Course by Code Eater](https://www.youtube.com/watch?v=Zo4dYRw9WSE&list=PLgPmWS2dQHW-cdHYZQmpAalgSp-xv_ewY&index=3&ab_channel=CodeEater)
+4. [Master Web3js Library (Ethereum) by Code Eater](https://www.youtube.com/watch?v=u3PtGMRmGA0&list=PLgPmWS2dQHW-cdHYZQmpAalgSp-xv_ewY&index=5&ab_channel=CodeEater)
+5. [Create your NFT from Scratch](https://www.youtube.com/watch?v=hKuInl4SxZ8)
+6. [Complete Blockchain Development Roadmap by Anuj Bhaiya](https://www.youtube.com/watch?v=n_5oeZWbseY)
+7. [Build your own Blockchain in 15 minutes](https://www.youtube.com/watch?v=n_5oeZWbseY)
 
 ## Object Oriented Programming <a name="object-oriented-programming"></a>
 
