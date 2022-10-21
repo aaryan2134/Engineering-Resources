@@ -7,27 +7,31 @@ List of resources and project samples for Engineering Students
 - [Engineering Resources](#engineering-resources)
   - [Contents](#contents)
   - [Introduction](#introduction)
-  - [Student Offers <a name="student-programs"></a>](#student-offers-)
-  - [CS Resources <a name="education"></a>](#cs-resources-)
-  - [EE Resources <a name="education"></a>](#ee-resources-)
-  - [ME Resources <a name="education"></a>](#me-resources-)
-  - [CHE Resources <a name="education"></a>](#che-resources-)
-  - [Machine Learning Resources <a name="machine-learning"></a>](#machine-learning-resources-)
-  - [Competitive Programming <a name="competitive-programming"></a>](#competitive-programming-)
-  - [Web Development <a name="web-development"></a>](#web-development-)
-  - [Operating-System <a name="Operating-System"></a>](#Operating-System-)
-  - [Database Management System <a name="Database-Management-System"></a>](#Database-Management-System-)
-  - [MySQL <a name="mysql"></a>](#mysql-)
-  - [Java Programming <a name="java-programming"></a>](#java-programming-)
-  - [Kotlin Programming <a name="kotlin-programming"></a>](#kotlin-programming-)
-  - [R Programming <a name="r-programming"></a>](#r-programming-)
-  - [Cyber Security Resources <a name="cyber-security-resources"></a>](#cyber-security-resources-)
-  - [Shell Scripting <a name="shell-scripting"></a>](#shell-scripting-)
-  - [App Development <a name="app-development"></a>](#app-development-)
-  - [DEV OPS <a name="dev-ops"></a>](#dev-ops-)
-  - [Python <a name="python"></a>](#python-)
-  - [Object Oriented Programming <a name="object-oriented-programming"></a>](#object-oriented-programming-)
-  - [Blockchain <a name="blockchain"></a>](#blockchain-)
+  - [Student Offers](#student-offers)
+  - [CS Resources](#cs-resources)
+  - [Computer Science Fundamentals](#computer-science-fundamentals)
+  - [Kotlin Programming](#kotlin-programming)
+  - [R Programming](#r-programming)
+  - [Operating-System](#operating-system)
+  - [Links to College Subjects](#links-to-college-subjects)
+  - [EE Resources](#ee-resources)
+  - [ME Resources](#me-resources)
+  - [Machine Learning Resources](#machine-learning-resources)
+  - [Competitive Programming](#competitive-programming)
+  - [Web Development](#web-development)
+  - [Database Management System](#database-management-system)
+  - [MySQL](#mysql)
+  - [Java Programming](#java-programming)
+  - [Cyber Security Resources](#cyber-security-resources)
+    - [Must:](#must)
+    - [Free Resources:](#free-resources)
+    - [Youtube Playlists:](#youtube-playlists)
+  - [Shell Scripting](#shell-scripting)
+  - [App Development](#app-development)
+  - [DEV OPS](#dev-ops)
+  - [Python](#python)
+  - [Blockchain](#blockchain)
+  - [Object Oriented Programming](#object-oriented-programming)
   
 
 ## Introduction
@@ -35,7 +39,8 @@ List of resources and project samples for Engineering Students
 This is a list of resources for engineering students. This list is maintained by students for students. If you wish to contribute, please read the [contributing guidelines](CONTRIBUTING.md).
 If the PR is not according to the guidelines then it will not be accepted.
 
-## Student Offers <a name="student-programs"></a>
+## Student Offers 
+<a name="student-programs"></a>
 
 1. [Github Student Pack](https://education.github.com/pack) - A pack of free software and services for students.
 2. [Jetbrains Student Pack](https://www.jetbrains.com/student/) - A pack of free software and services for students.
@@ -43,7 +48,8 @@ If the PR is not according to the guidelines then it will not be accepted.
 4. [AWS Educate](https://aws.amazon.com/education/awseducate/) - Free AWS credits for students.
 5. [Digital Ocean Student Pack](https://www.digitalocean.com/community/tutorials/how-to-claim-your-free-digitalocean-student-credits) - Free Digital Ocean credits for students.
 
-## CS Resources <a name="education"></a>
+## CS Resources 
+<a name="education"></a>
 
 1. [Data Structures Playlist](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P).
 2. [Harvard CS50x](https://cs50.harvard.edu).
@@ -67,7 +73,55 @@ If the PR is not according to the guidelines then it will not be accepted.
 20. [Data Structures and Algorithms in Java](https://www.youtube.com/watch?v=6iCHf7OZn6c&list=PL6Zs6LgrJj3tDXv8a_elC6eT_4R5gfX4d)
 21. [Data Structures Easy to Advanced Course-FreeCodeCamp](https://www.youtube.com/watch?v=RBSGKlAvoiM)
 
-## EE Resources <a name="education"></a>
+## Computer Science Fundamentals
+<a name="computer-science-fundamentals"></a>
+## Kotlin Programming 
+<a name="kotlin-programming"></a>
+
+1. [Kotlin Documentation](https://kotlinlang.org/docs/home.html)<br/>
+2. [Kotlin Tutorial for beginners (Hindi)](https://www.youtube.com/playlist?list=PLRKyZvuMYSIMW3-rSOGCkPlO1z_IYJy3G)
+3. [Kotlin Tutorial for beginners (English)](https://www.youtube.com/watch?v=F9UC9DY-vIU)
+4. [Kotlin Multiplatform Tutorial](https://www.youtube.com/watch?v=l_tK1Zf4c64)
+5. [Kotlin for server-side Development](https://www.youtube.com/playlist?list=PLlFc5cFwUnmx-dpq9nkdaVJX0GnrM1Mp1)
+6. [Android Application Development using Kotlin: Beginners Tutorials](https://www.youtube.com/playlist?list=PLlxmoA0rQ-Lw5k_QCqVl3rsoJOnb_00UV)
+
+## R Programming 
+<a name="r-programming"></a>
+
+1. [R Documentation](https://www.r-project.org/other-docs.html)<br/>
+2. [R Tutorial for beginners by freeCodeCamp.org](https://www.youtube.com/watch?v=_V8eKsto3Ug)
+3. [Data Analytics using R](https://www.youtube.com/watch?v=I4NRCN9DPTI&t=6s)
+4. [Machine Learning using R](https://www.youtube.com/watch?v=6dEUTmoXz0w)
+5. [Data Science using R](https://www.youtube.com/watch?v=iROHLA_TXQM)
+6. [Basic Analytical Techniques with R](https://www.youtube.com/watch?v=rqrrTfy-z-c)
+
+## Operating-System 
+<a name="Operating-System"></a>
+
+1. [Operating System Playlist by Gate Smashers (Hindi) ](https://youtube.com/playlist?list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p)
+2. [Operating System Playlist by Neso Academy (English)](https://youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O)
+3. [Operating System Last Minute Notes by GFG](https://www.geeksforgeeks.org/last-minute-notes-operating-systems/)
+4. [Operating System Notes of Gate Smashers Playlist ](https://drive.google.com/file/d/1Qpc_gzY-M0mCLU9Nm6rZdycOkqvHBYPD/view)
+5. [operating System Sheet by Arsh Goyal ](https://docs.google.com/document/d/1QwJwTH85QtxIOq-mRb3kPequDnD5qy54HS_UU_hEbOw/edit)
+
+## Links to College Subjects 
+<a name="college-subjects"></a>
+
+1. [Compiler Design Playlist by Neso Academy (English)](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjT3oJxFXRgjPNzeS-LFY-q)
+2. [Compiler Design Playlist by Unacademy (English)](https://www.youtube.com/playlist?list=PLG9aCp4uE-s1NGf_6tQbDBsjLRjquKBE1)
+3. [Compiler Design Playlist by Gate Smashers (Hindi)](https://www.youtube.com/playlist?list=PLxCzCOWd7aiEKtKSIHYusizkESC42diyc)
+4. [Computer Organization and Architecture Playlist by Gate Smashers (Hindi)](https://www.youtube.com/playlist?list=PLxCzCOWd7aiHMonh3G6QNKq53C6oNXGrX)
+5. [Computer Organization and Architecture Playlist by Neso Academy (English)](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgLLlzdgiTUKULKJPYc0A4q)
+6. [Computer Organization and Architecture Playlist by Unacademy (Hindi)](https://www.youtube.com/playlist?list=PLG9aCp4uE-s3WzvFW1nI-7hHWNC8s2RdI)
+7. [Theory of Computation Playlist by Gate Smashers (Hindi)](https://www.youtube.com/playlist?list=PLxCzCOWd7aiFM9Lj5G9G_76adtyb4ef7i)
+8. [Theory of Computation Playlist by Neso Academy (English)](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgp46KUv4ZY69yXmpwKOIev)
+9. [Theory of Computation Playlist by Unacademy (English)](https://www.youtube.com/playlist?list=PLG9aCp4uE-s1P6Z73Gbbh-kdDWwq5Bg7f)
+10. [Programming in MATLAB by NPTEL](https://www.youtube.com/playlist?list=PLRWKj4sFG7-6_Xr9yqg6SMr_F80KdFVhN)
+11. [Software Engineering Playlist by Sanchit Jain (Hindi)](https://www.youtube.com/playlist?list=PLomWmd9eRGvrT9XAfwxdWTnrgACqkSFRD)
+12. [Software Engineering Playlist by Gate Smashers (Hindi)](https://www.youtube.com/playlist?list=PLxCzCOWd7aiEed7SKZBnC6ypFDWYLRvB2)
+
+## EE Resources 
+<a name="education"></a>
 
 1. [Electrical Machines Playlist](https://www.youtube.com/watch?v=PmBqB-4hgW4&list=PLs5_Rtf2P2r5YY5b23uDGrtpo42ezMmGp).
 2. [Power System Playlist](https://www.youtube.com/watch?v=zeSEFsR-jZA&list=PLs5_Rtf2P2r5tl_TgUqApSbUX720qkBTL).
@@ -76,7 +130,8 @@ If the PR is not according to the guidelines then it will not be accepted.
 5. [Signals and Systems Playlist](https://www.youtube.com/watch?v=s8rsR_TStaA&list=PLBlnK6fEyqRhG6s3jYIU48CqsT5cyiDTO)
 6. [digital and Analog Playlist](https://www.youtube.com/watch?v=qhjj6WG7Rgc&list=PLwjK_iyK4LLArUHRm3SvPLT0XWlVhpl4h).
 
-## ME Resources <a name="education"></a>
+## ME Resources 
+<a name="education"></a>
 
 1. [Engineering Physics Playlist](https://www.youtube.com/watch?v=7anz9qHLbIQ&list=PL-JvKqQx2Atc-7gw0SglqTajukZhc6Azu).
 2. [FLUID MECHANCS PLAYLIST](https://www.youtube.com/watch?v=iTanaNwMDKo&list=PL9RcWoqXmzaLnlGN39w2-1jyFyI_ALVa3).
@@ -85,7 +140,8 @@ If the PR is not according to the guidelines then it will not be accepted.
 5. [THEORY OF MACHINES PLAYLIST](https://www.youtube.com/watch?v=RYzE6EXTGB0&list=PLiSPNzs4fD9v3sQhMMuihEDothsOAKJ-a)
 6. [THERMODYNAMICS PLAYLIST](https://www.youtube.com/watch?v=VIY8Bbv_VHw&list=PLDDfbf7FIeqsPqMnCiU6dvkb6TbG21ucz).
 
-## Machine Learning Resources <a name="machine-learning"></a>
+## Machine Learning Resources 
+<a name="machine-learning"></a>
 
 1. [Google's Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/ml-intro)
 2. [Krish Naik's Machine Learning Playlist](https://www.youtube.com/watch?v=bPrmA1SEN2k&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&ab_channel=KrishNaik)
@@ -97,7 +153,8 @@ If the PR is not according to the guidelines then it will not be accepted.
 8. [100 Days of Machine Learning](https://www.youtube.com/watch?v=ZftI2fEz0Fw&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH)
 9. [Machine Learning Course by Andrew NG](https://see.stanford.edu/Course/CS229)
 
-## Competitive Programming <a name="competitive-programming"></a>
+## Competitive Programming 
+<a name="competitive-programming"></a>
 
 1. [CP playlist (Hindi) by Luv ](https://www.youtube.com/playlist?list=PLauivoElc3ggagradg8MfOZreCMmXMmJ-)
 2. [CP playlist (English) by ProgrammingWithHarry ](https://www.youtube.com/watch?v=_MF8L7ZxwRE)
@@ -116,7 +173,8 @@ If the PR is not according to the guidelines then it will not be accepted.
 12. [CSES Problem Set](https://cses.fi/problemset/).
 12. [Number Theory for Competitive Programming](https://youtube.com/playlist?list=PLauivoElc3giVROwL-6g9hO-LlSen_NaV).
 
-## Web Development <a name="web-development"></a>
+## Web Development 
+<a name="web-development"></a>
 
 Html
 
@@ -206,7 +264,8 @@ Flutter
 6. [Flutter Cheatsheet](https://navoki.com/flutter-commands-a-developer-must-know-cheat-sheet/).
 7. [Flutter Tutorials for Beginners](https://www.youtube.com/watch?v=pTJJsmejUOQ).
 
-## Database Management System <a name="Database-Management-System"></a>
+## Database Management System 
+<a name="Database-Management-System"></a>
 
 1. [DBMS playlist (Hindi) by Gate Smasher ](https://www.youtube.com/playlist?list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y)
 2. [DBMS playlist (English) by Neso Academy ](https://www.youtube.com/playlist?list=PLBlnK6fEyqRi_CUQ-FXxgzKQ1dwr_ZJWZ)
@@ -214,7 +273,8 @@ Flutter
 4. [DBMS Cheatsheet by Interviewbit](https://drive.google.com/file/d/1UvK-mULAirwcyT2K2S0DMev_BF40d1mW/view?usp=sharing)
 5. [DBMS Articles by Tutorialspoint](https://www.tutorialspoint.com/dbms/index.htm)
 
-## MySQL <a name="mysql"></a>
+## MySQL 
+<a name="mysql"></a>
 
 1. [MySQL Documentation](https://dev.mysql.com/doc/)
 2. [MySQL Tutorial for Beginners (freeCodeCamp.org)](https://www.youtube.com/watch?v=HXV3zeQKqGY)
@@ -223,7 +283,8 @@ Flutter
 5. [MySQL Workbench Tutorial](https://www.youtube.com/watch?v=fUK94jOFwBc)
 6. [MySQL Advanced Tutorial](https://www.youtube.com/playlist?list=PLxQQRFTQ3zeCeFJoolWK2IWq4g8Z1Wemr)
 
-## Java Programming <a name="java-programming"></a>
+## Java Programming 
+<a name="java-programming"></a>
 
 1. [Java Documentation](https://dev.java/learn/)<br/>
 2. [Core Java Tutorial for Beginners](https://www.youtube.com/watch?v=8cm1x4bC610)
@@ -232,48 +293,8 @@ Flutter
 5. [Hibernate Tutorial](https://www.youtube.com/playlist?list=PL4AFF701184976B25)
 6. [Spring Boot Quick Start](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTbx8p2oCgcAQGQyqN8XeA1x)
 
-## Kotlin Programming <a name="kotlin-programming"></a>
-
-1. [Kotlin Documentation](https://kotlinlang.org/docs/home.html)<br/>
-2. [Kotlin Tutorial for beginners (Hindi)](https://www.youtube.com/playlist?list=PLRKyZvuMYSIMW3-rSOGCkPlO1z_IYJy3G)
-3. [Kotlin Tutorial for beginners (English)](https://www.youtube.com/watch?v=F9UC9DY-vIU)
-4. [Kotlin Multiplatform Tutorial](https://www.youtube.com/watch?v=l_tK1Zf4c64)
-5. [Kotlin for server-side Development](https://www.youtube.com/playlist?list=PLlFc5cFwUnmx-dpq9nkdaVJX0GnrM1Mp1)
-6. [Android Application Development using Kotlin: Beginners Tutorials](https://www.youtube.com/playlist?list=PLlxmoA0rQ-Lw5k_QCqVl3rsoJOnb_00UV)
-
-## R Programming <a name="r-programming"></a>
-
-1. [R Documentation](https://www.r-project.org/other-docs.html)<br/>
-2. [R Tutorial for beginners by freeCodeCamp.org](https://www.youtube.com/watch?v=_V8eKsto3Ug)
-3. [Data Analytics using R](https://www.youtube.com/watch?v=I4NRCN9DPTI&t=6s)
-4. [Machine Learning using R](https://www.youtube.com/watch?v=6dEUTmoXz0w)
-5. [Data Science using R](https://www.youtube.com/watch?v=iROHLA_TXQM)
-6. [Basic Analytical Techniques with R](https://www.youtube.com/watch?v=rqrrTfy-z-c)
-
-## Operating-System <a name="Operating-System"></a>
-
-1. [Operating System Playlist by Gate Smashers (Hindi) ](https://youtube.com/playlist?list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p)
-2. [Operating System Playlist by Neso Academy (English)](https://youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O)
-3. [Operating System Last Minute Notes by GFG](https://www.geeksforgeeks.org/last-minute-notes-operating-systems/)
-4. [Operating System Notes of Gate Smashers Playlist ](https://drive.google.com/file/d/1Qpc_gzY-M0mCLU9Nm6rZdycOkqvHBYPD/view)
-5. [operating System Sheet by Arsh Goyal ](https://docs.google.com/document/d/1QwJwTH85QtxIOq-mRb3kPequDnD5qy54HS_UU_hEbOw/edit)
-
-## Links to College Subjects <a name="college-subjects"></a>
-
-1. [Compiler Design Playlist by Neso Academy (English)](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjT3oJxFXRgjPNzeS-LFY-q)
-2. [Compiler Design Playlist by Unacademy (English)](https://www.youtube.com/playlist?list=PLG9aCp4uE-s1NGf_6tQbDBsjLRjquKBE1)
-3. [Compiler Design Playlist by Gate Smashers (Hindi)](https://www.youtube.com/playlist?list=PLxCzCOWd7aiEKtKSIHYusizkESC42diyc)
-4. [Computer Organization and Architecture Playlist by Gate Smashers (Hindi)](https://www.youtube.com/playlist?list=PLxCzCOWd7aiHMonh3G6QNKq53C6oNXGrX)
-5. [Computer Organization and Architecture Playlist by Neso Academy (English)](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgLLlzdgiTUKULKJPYc0A4q)
-6. [Computer Organization and Architecture Playlist by Unacademy (Hindi)](https://www.youtube.com/playlist?list=PLG9aCp4uE-s3WzvFW1nI-7hHWNC8s2RdI)
-7. [Theory of Computation Playlist by Gate Smashers (Hindi)](https://www.youtube.com/playlist?list=PLxCzCOWd7aiFM9Lj5G9G_76adtyb4ef7i)
-8. [Theory of Computation Playlist by Neso Academy (English)](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgp46KUv4ZY69yXmpwKOIev)
-9. [Theory of Computation Playlist by Unacademy (English)](https://www.youtube.com/playlist?list=PLG9aCp4uE-s1P6Z73Gbbh-kdDWwq5Bg7f)
-10. [Programming in MATLAB by NPTEL](https://www.youtube.com/playlist?list=PLRWKj4sFG7-6_Xr9yqg6SMr_F80KdFVhN)
-11. [Software Engineering Playlist by Sanchit Jain (Hindi)](https://www.youtube.com/playlist?list=PLomWmd9eRGvrT9XAfwxdWTnrgACqkSFRD)
-12. [Software Engineering Playlist by Gate Smashers (Hindi)](https://www.youtube.com/playlist?list=PLxCzCOWd7aiEed7SKZBnC6ypFDWYLRvB2)
-
-## Cyber Security Resources <a name="cyber-security-resources"></a>
+## Cyber Security Resources 
+<a name="cyber-security-resources"></a>
 
 ### Must:
 1. [PicoCTF](https://picoctf.org/)<br/>
@@ -297,7 +318,8 @@ Flutter
 9. [TheHackerStuff](https://www.youtube.com/c/TheHackerStuff)<br/>
 10. [HackerSploit](https://www.youtube.com/c/HackerSploit)<br/>
 
-## Shell Scripting <a name="shell-scripting"></a>
+## Shell Scripting 
+<a name="shell-scripting"></a>
 
 1. [Shell Scripting Tutorial for Beginners](https://www.youtube.com/watch?v=cQepf9fY6cE&list=PLS1QulWo1RIYmaxcEqw5JhK3b-6rgdWO_)<br/>
 2. [Basic Shell Scripting by Hackerspoilt](https://www.youtube.com/playlist?list=PLBf0hzazHTGMJzHon4YXGscxUvsFpxrZT)<br/>
@@ -308,7 +330,8 @@ Flutter
 7. [Shell Script Tutorials by Gaurav Sharma](https://www.youtube.com/playlist?list=PL6XT0grm_TfgvfQH58GEoEZrTyVl0ABnH)<br/>
 8. [Shell Script Complete Tutorials CyberSpoilt](https://www.youtube.com/playlist?list=PL9A0tISr5Ow5nZSY8-ICNAyXHJKesl_XL)<br/>
 
-## App Development <a name="app-development"></a>
+## App Development 
+<a name="app-development"></a>
 
 1. [Android App Development for Beginners by Free Code Camp](https://www.youtube.com/watch?v=fis26HvvDII&ab_channel=freeCodeCamp.org)
 2. [Android Development Tutorials in Hindi by Code with Harry](https://www.youtube.com/playlist?list=PLu0W_9lII9aiL0kysYlfSOUgY5rNlOhUd)
@@ -316,7 +339,8 @@ Flutter
 4. [Learn Android Application Development by Udemy](https://www.udemy.com/course/learn-android-application-development-y/)
 5. [Developing Android Apps by Udacity](https://www.udacity.com/course/new-android-fundamentals--ud851)
 
-## DEV OPS <a name="dev-ops"></a>
+## DEV OPS 
+<a name="dev-ops"></a>
 
 1.[Simplilearn 9 hours DevOps Course](https://www.youtube.com/watch?v=lpk7VpGqkKw) <br/>
 2. [freeCodeCamp.org 2 hours DevOps Engineering Course](https://www.youtube.com/watch?v=j5Zsa_eOXeY) <br/>
@@ -325,7 +349,8 @@ Flutter
 5. [Kunal Kushwaha's DevOps Bootcamp](https://www.youtube.com/playlist?list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak) <br/>
 6. [Computer Networking 4 hours Course](https://www.youtube.com/watch?v=IPvYjXCsTg8)<br/>
 
-## Python <a name="python"></a>
+## Python 
+<a name="python"></a>
 
 1. [Python tutorial by Programming with Mosh](https://www.youtube.com/watch?v=_uQrJ0TkZlc&ab_channel=ProgrammingwithMosh)
 2. [Python Tutorial for Beginners in Hindi by Code with Harry](https://www.youtube.com/watch?v=gfDE2a7MKjA&ab_channel=CodeWithHarry)
@@ -336,7 +361,8 @@ Flutter
 7. [Python Beginners guide](https://wiki.python.org/moin/BeginnersGuide/Programmers)
 
 
-## Blockchain <a name="blockchain"></a>
+## Blockchain 
+<a name="blockchain"></a>
 
 1. [Solidity Full Course](https://www.youtube.com/watch?v=gsaapL1SEqg&list=PLgPmWS2dQHW9u6IXZq5t5GMQTpW7JL33i&ab_channel=CodeEater)
 2. [Solidity and Blockchain in Hindi by Pepcoding](https://www.youtube.com/watch?v=MERRq6GUQrI&list=PL-Jc9J83PIiG6_thChXWzolj9BEG-Y0gh&ab_channel=Pepcoding)
@@ -346,7 +372,8 @@ Flutter
 6. [Complete Blockchain Development Roadmap by Anuj Bhaiya](https://www.youtube.com/watch?v=n_5oeZWbseY)
 7. [Build your own Blockchain in 15 minutes](https://www.youtube.com/watch?v=n_5oeZWbseY)
 
-## Object Oriented Programming <a name="object-oriented-programming"></a>
+## Object Oriented Programming 
+<a name="object-oriented-programming"></a>
 
 1. [Object Oriented Programming (JAVA)-Kunal Kushwaha](https://www.youtube.com/watch?v=BSVKUk58K6U&list=PL9gnSGHSqcno1G3XjUbwzXHL8_EttOuKk)</br>
 2. [OOPS for Interview(C++) - Helping Tutorials](https://www.youtube.com/watch?v=-TQ4c0ILhlA&list=PLCZJSEiJwWZ4XZFDktKqSV3vcAiau4xpV)<br/>
