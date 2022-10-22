@@ -15,6 +15,19 @@ List of resources and project samples for Engineering Students
   - [Machine Learning Resources <a name="machine-learning"></a>](#machine-learning-resources-)
   - [Competitive Programming <a name="competitive-programming"></a>](#competitive-programming-)
   - [Web Development <a name="web-development"></a>](#web-development-)
+    - [HTML <a name="html"></a>](#html-)
+    - [CSS <a name="css"></a>](#css-)
+    - [Bootstrap <a name="bootstrap"></a>](#bootstrap-)
+    - [Tailwind CSS <a name="tailwind-css"></a>](#tailwind-css-)
+    - [Javascript <a name="javascript"></a>](#javascript-)
+    - [React <a name="react"></a>](#react-)
+    - [Git and Github <a name="git-and-github"></a>](#git-and-github-)
+    - [SQL <a name="sql"></a>](#sql-)
+    - [API <a name="api"></a>](#api-)
+    - [NextJS <a name="nextjs"></a>](#nextjs-)
+    - [AngularJS <a name="angularjs"></a>](#angularjs-)
+    - [Django <a name="django"></a>](#django-)
+    - [Flutter <a name="flutter"></a>](#flutter-)
   - [Operating-System <a name="Operating-System"></a>](#Operating-System-)
   - [Database Management System <a name="Database-Management-System"></a>](#Database-Management-System-)
   - [MySQL <a name="mysql"></a>](#mysql-)
@@ -110,18 +123,18 @@ If the PR is not according to the guidelines then it will not be accepted.
 
 ## Web Development <a name="web-development"></a>
 
-Html
+### HTML <a name="html"></a>
 
 1. [Learn HTML](https://www.youtube.com/watch?v=kUMe1FH4CHE).
 
-CSS
+### CSS <a name="css"></a>
 
 1. [CSS](https://www.youtube.com/watch?v=1Rs2ND1ryYc&t=15526s).
 2. [CSS for amazing tricks and tips](https://www.youtube.com/kepowob).
 3. [css-tricks](https://css-tricks.com/)
 4. [flexboxfroggy](https://flexboxfroggy.com/)
 
-Bootstrap
+### Bootstrap<a name="bootstrap"></a>
 
 1. [Bootstrap course for beginners by Free Code Camp](https://www.youtube.com/watch?v=-qfEOE4vtxE&ab_channel=freeCodeCamp.org).
 2. [Bootstrap tutorial in hindi by Code With Harry](https://www.youtube.com/watch?v=vpAJ0s5S2t0&ab_channel=CodeWithHarry).
@@ -129,7 +142,7 @@ Bootstrap
 4. [Bootstrap 5 tutorial by w3schools](https://www.w3schools.com/bootstrap5/index.php).
 5. [Bootstrap docs](https://getbootstrap.com/).
 
-Tailwind CSS
+### Tailwind CSS<a name="tailwind-css"></a>
 
 1. [Tailwind crash course by Traversy Media](https://www.youtube.com/watch?v=dFgzHOX84xQ&ab_channel=TraversyMedia).
 2. [Tailwind tutorial in hindi by Code With Harry](https://www.youtube.com/playlist?list=PLu0W_9lII9ahwFDuExCpPFHAK829Wto2O).
@@ -137,7 +150,7 @@ Tailwind CSS
 4. [Tailwind CSS by Geeks for Geeks](https://www.geeksforgeeks.org/introduction-to-tailwind-css/).
 5. [Tailwind CSS docs](https://tailwindcss.com/).
 
-Javascript
+### Javascript<a name="javascript"></a>
 
 1. [Javascript Documentation](https://javascript.info/)<br/>
 2. [Namaste Javascript by Akshay saini](https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP).
@@ -146,50 +159,50 @@ Javascript
 5. [fullstack open](https://fullstackopen.com/en/)
 6. [You Dont Know JS yet](https://github.com/getify/You-Dont-Know-JS)
 
-React
+### React<a name="react"></a>
 
 1.  [Best React course for beginner highly recommended](https://www.youtube.com/watch?v=bMknfKXIFA8&t=4s&ab_channel=freeCodeCamp.org).
 2.  [React tutorial by code evaluation ](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3).
 3.  checkout courses on udemy .
 
-Git and Github
+### Git and Github<a name="git-and-github"></a>
 
 1.  [Git for beginners](https://www.youtube.com/playlist?list=PLozRqGzj97d02YjR5JVqDwN2K0cAiT7VK).
 2.  [Git and Github ](https://www.youtube.com/watch?v=apGV9Kg7ics).
 3.  [Git for professional](https://www.youtube.com/watch?v=Uszj_k0DGsg)
 4.  [Git cheatsheet by GitHub](https://education.github.com/git-cheat-sheet-education.pdf)
 
-SQL
+### SQL<a name="sql"></a>
 
 1.  [PostgreSQL](https://www.youtube.com/watch?v=qw--VYLpxG4).
 2.  [MySQL ](https://www.w3schools.com/mySQl/default.asp).
 
-API
+### API<a name="api"></a>
 
 1.  [PostgreSQL](https://www.youtube.com/watch?v=GZvSYJDk-us).
 
-NextJs
+### NextJs<a name="nextjs"></a>
 
 1.  [Next.js Documentation](https://www.w3schools.io/learn/nextjs-tutorial/).
 2.  [Next.js tutorial (freeCodeCamp.org)](https://www.youtube.com/watch?v=1WmNXEVia8I).
 3.  [Next.js tutorial for Beginners](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH).
 4.  [Next.js tutorial in Hindi](https://www.youtube.com/playlist?list=PLwGdqUZWnOp2rDbpfKAeUi9f8qZMS7_cv).
 
-AngularJS
+### AngularJS<a name="angularjs"></a>
 
 1.  [Angular.js Documentation](https://docs.angularjs.org/guide).
 2.  [Angular.js tutorial for Beginners (Programming with Mosh)](https://www.youtube.com/watch?v=k5E2AVpwsko).
 3.  [Angular.js tutorial in Hindi](https://www.youtube.com/watch?v=0LhBvp8qpro).
 4.  [Angular.js complete tutorial (freeCodeCamp.org)](https://www.youtube.com/watch?v=2OHbjep_WjQ)
 
-Django
+### Django<a name="django"></a>
 
 1.  [BDjango comprehensive video rsource](https://www.youtube.com/watch?v=F5mRW0jo-U4).
 2.  [Django Documentation ](https://docs.djangoproject.com/en/4.1/).
 3.  checkout courses on udemy .
 
 
-Flutter
+### Flutter<a name="flutter"></a>
 
 1. [Flutter original documentation](https://docs.flutter.dev/)
 2. [Dart language](https://www.youtube.com/watch?v=5xlVP04905w)
