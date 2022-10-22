@@ -84,6 +84,11 @@ If the PR is not according to the guidelines then it will not be accepted.
 4. [MACHINE DESIGN PLAYLIST](https://www.youtube.com/watch?v=K0CgcBYYHA4&list=PLiSPNzs4fD9sZKMUSbSzcb9iAMBX2mQj1)
 5. [THEORY OF MACHINES PLAYLIST](https://www.youtube.com/watch?v=RYzE6EXTGB0&list=PLiSPNzs4fD9v3sQhMMuihEDothsOAKJ-a)
 6. [THERMODYNAMICS PLAYLIST](https://www.youtube.com/watch?v=VIY8Bbv_VHw&list=PLDDfbf7FIeqsPqMnCiU6dvkb6TbG21ucz).
+7. [Mechanics of Materials Playlist](https://www.youtube.com/watch?v=RkS8DjzvEvM&list=PLRqDfxcafc21wlI3E56IkDmRJ-33apMjv).
+8. [Mechanical Engineering: Friction Playlist](https://www.youtube.com/watch?v=aJp2g1BKXVc&list=PLX2gX-ftPVXU59ggWS3t0sThVF18h5ME2).
+9. [Thermodynamics: Intro to Heat & Temp Playlist](https://www.youtube.com/watch?v=zd-FjMksimw&list=PLX2gX-ftPVXXJUbbkyV6PoMPYM0gosaAS).
+10. [Heat Transfer Playlist](https://www.youtube.com/watch?v=gihhKTViHW0&list=PL_ZIJMd-rNhUApP0SuawDkIP4muI6QbPV).
+11. [Fluid Mechanics Playlist](https://www.youtube.com/watch?v=DL6QRTySWGs&list=PLj6j6tB7jyr9BBGP6-LRzkgGyz8IYBzQw).
 
 ## Machine Learning Resources <a name="machine-learning"></a>
 
