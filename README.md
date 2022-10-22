@@ -28,6 +28,7 @@ List of resources and project samples for Engineering Students
   - [Python <a name="python"></a>](#python-)
   - [Object Oriented Programming <a name="object-oriented-programming"></a>](#object-oriented-programming-)
   - [Blockchain <a name="blockchain"></a>](#blockchain-)
+  - [Computer Networkings <a name="computer-networkings"></a>](#computer-networkings-)
   
 
 ## Introduction
@@ -358,3 +359,15 @@ Flutter
 8. [OOPS (python 3)- ProgrammingKnowledge](https://www.youtube.com/watch?v=QOryrmkr1tA&list=PLS1QulWo1RIZ77GWt3rQUggB7vm46ylYO)</br>
 9. [OOPS in Python(Python 3) - Telusko](https://www.youtube.com/watch?v=qiSCMNBIP2g)</br>
 10. [OOPs in JAVA(JAVA) - Telusko](https://www.youtube.com/watch?v=bzRp16p48bY)</br>
+
+
+## Computer Networkings <a name="computer-networkings"></a>
+
+1. [Data communication and networking - Quick Learning](https://youtube.com/playlist?list=PLZQgf2pQtimlhO3UY6UJzIC7JVBzSbXXQ)<br/>
+2. [Data communication in networking - Learn Coding](https://youtu.be/QFjAY6yzMgo)<br/>
+3. [Computer Networks - Gate Smashers](https://youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_)<br/>
+4. [Computer Networks - Neso Academy](https://youtube.com/playlist?list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx)<br/>
+5. [Data Communication and computer networks for UGC NET - NTA UGC NET](https://youtube.com/playlist?list=PL5B4lsKp6FVzTrpjBbKcv2AgOVzqtHJnp)<br/>
+6. [Computer Network- Education 4u](https://youtube.com/playlist?list=PLrjkTql3jnm-iqlEOuVTkmCaRP8F2H3-u)<br/>
+7. [Data Communication and Networks - Unacademy Computer Science](https://youtube.com/playlist?list=PLG9aCp4uE-s325FSHTzzD51k2Kl6vt4fT)<br/>
+8. [Data Communication - NPTEL IIT KHARAGPUR](https://youtube.com/playlist?list=PLUtfVcb-iqn8dG1-Cn7NTEdILR3hRVgcN)<br/>
