@@ -75,6 +75,8 @@ If the PR is not according to the guidelines then it will not be accepted.
 4. [Network Analysis Playlist](https://www.youtube.com/watch?v=FF-rLTSynBQ&list=PL4zFSWGjyVv5uxvzbVLkn40vV42IQYB3y)
 5. [Signals and Systems Playlist](https://www.youtube.com/watch?v=s8rsR_TStaA&list=PLBlnK6fEyqRhG6s3jYIU48CqsT5cyiDTO)
 6. [digital and Analog Playlist](https://www.youtube.com/watch?v=qhjj6WG7Rgc&list=PLwjK_iyK4LLArUHRm3SvPLT0XWlVhpl4h).
+7. [Basic Electronics Course](https://www.youtube.com/watch?v=lFCMYEmfgzU&list=PLTFMW-rP7fuqMiK174et4SKbbMKd4VjdU)
+8. [MicroElectrnics Course](https://www.youtube.com/watch?v=366BVdmcUxk&list=PLLy_2iUCG87C-GS7B4vJ37Iz3fevmYU1h)
 
 ## ME Resources <a name="education"></a>
 
@@ -84,6 +86,7 @@ If the PR is not according to the guidelines then it will not be accepted.
 4. [MACHINE DESIGN PLAYLIST](https://www.youtube.com/watch?v=K0CgcBYYHA4&list=PLiSPNzs4fD9sZKMUSbSzcb9iAMBX2mQj1)
 5. [THEORY OF MACHINES PLAYLIST](https://www.youtube.com/watch?v=RYzE6EXTGB0&list=PLiSPNzs4fD9v3sQhMMuihEDothsOAKJ-a)
 6. [THERMODYNAMICS PLAYLIST](https://www.youtube.com/watch?v=VIY8Bbv_VHw&list=PLDDfbf7FIeqsPqMnCiU6dvkb6TbG21ucz).
+7. [Dynamic Mechanics](https://www.youtube.com/watch?v=ohgJ9r_N1tk&list=PLk2-n0KUguzJFGp8B00a675OIgfYWoXYk)
 
 ## Machine Learning Resources <a name="machine-learning"></a>
 
@@ -96,6 +99,7 @@ If the PR is not according to the guidelines then it will not be accepted.
 7. [Josh Starmer's Machine Learning Playlist](https://www.youtube.com/watch?v=Gv9_4yMHFhI&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF)
 8. [100 Days of Machine Learning](https://www.youtube.com/watch?v=ZftI2fEz0Fw&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH)
 9. [Machine Learning Course by Andrew NG](https://see.stanford.edu/Course/CS229)
+10. [Deep Learning with PyTorch Course](https://www.udacity.com/course/deep-learning-pytorch--ud188)
 
 ## Competitive Programming <a name="competitive-programming"></a>
 
@@ -115,6 +119,8 @@ If the PR is not according to the guidelines then it will not be accepted.
 12. [Segment Tree](https://youtube.com/playlist?list=PL-Jc9J83PIiFY1445K_x1M_O3j9kr3FII).
 12. [CSES Problem Set](https://cses.fi/problemset/).
 12. [Number Theory for Competitive Programming](https://youtube.com/playlist?list=PLauivoElc3giVROwL-6g9hO-LlSen_NaV).
+13. [CP Ladder CodeForces](https://www.google.com/url?sa=t&source=web&rct=j&url=https://earthshakira.github.io/a2oj-clientside/server/Ladders.html&ved=2ahUKEwiw6fOJxeb2AhXXAYgKHUhJCxQQFnoECAQQAQ&usg=AOvVaw06fEjXvZfjfmryW3QzYaeC)
+14. [GeeksForGeeks](https://www.geeksforgeeks.org/)
 
 ## Web Development <a name="web-development"></a>
 
