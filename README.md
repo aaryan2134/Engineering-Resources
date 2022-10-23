@@ -9,7 +9,7 @@ List of resources and project samples for Engineering Students
   - [Introduction](#introduction)
   - [Student Offers <a name="student-programs"></a>](#student-offers-)
   - [CS Resources <a name="education"></a>](#cs-resources-)
-  - [Department of Computer Science and Engineering <a name="education"></a>](#cse-resources-)
+  - [Core Subject of CSE <a name="education"></a>](#cse-resources-)
   - [EE Resources <a name="education"></a>](#ee-resources-)
   - [ME Resources <a name="education"></a>](#me-resources-)
   - [CHE Resources <a name="education"></a>](#che-resources-)
@@ -69,8 +69,8 @@ If the PR is not according to the guidelines then it will not be accepted.
 21. [Data Structures Easy to Advanced Course-FreeCodeCamp](https://www.youtube.com/watch?v=RBSGKlAvoiM)
 
 
-## Core Subjects of Computer Science and Engineering: <a name="education"></a>
-1. [Design and analysis of Algorithm][University Acedamy](https://youtu.be/twE1eiO7gEE)
+## Cse Resources <a name="education"></a>
+1. [Design and analysis of Algorithm](https://youtu.be/twE1eiO7gEE)
 2. [Theory of Computation](https://youtu.be/TpIBUeyOuv8)
 3. [Decrete Mathematics](https://youtube.com/playlist?list=PL0862D1A947252D20)
 4. [Computer graphics](https://youtu.be/VzRIUFEXKko )
