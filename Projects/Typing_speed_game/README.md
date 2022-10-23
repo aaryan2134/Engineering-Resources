@@ -25,3 +25,7 @@ This project also uses The Python time module. The Python time module provides m
 
 ## Documentation
 [Python](https://www.w3schools.com/python/)
+
+[Functions](https://www.w3schools.com/python/python_functions.asp)
+
+[Loops](https://www.w3schools.com/python/python_for_loops.asp)
