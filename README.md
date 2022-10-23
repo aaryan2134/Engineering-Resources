@@ -28,7 +28,7 @@ List of resources and project samples for Engineering Students
   - [Python <a name="python"></a>](#python-)
   - [Object Oriented Programming <a name="object-oriented-programming"></a>](#object-oriented-programming-)
   - [Blockchain <a name="blockchain"></a>](#blockchain-)
-  - [Computer Networkings <a name="computer-networkings"></a>](#computer-networkings-)
+  - [Computer Network <a name="computer-network"></a>](#computer-network-)
   
 
 ## Introduction
@@ -361,7 +361,7 @@ Flutter
 10. [OOPs in JAVA(JAVA) - Telusko](https://www.youtube.com/watch?v=bzRp16p48bY)</br>
 
 
-## Computer Networkings <a name="computer-networkings"></a>
+## Computer Network <a name="computer-network"></a>
 
 1. [Data communication and networking - Quick Learning](https://youtube.com/playlist?list=PLZQgf2pQtimlhO3UY6UJzIC7JVBzSbXXQ)<br/>
 2. [Data communication in networking - Learn Coding](https://youtu.be/QFjAY6yzMgo)<br/>
