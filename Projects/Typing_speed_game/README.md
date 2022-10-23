@@ -23,3 +23,5 @@ This project also uses The Python time module. The Python time module provides m
 ## Screenshots
 ![Getting Started](./type_speed_img.png)
 
+## Documentation
+[Python](https://www.w3schools.com/python/)
