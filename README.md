@@ -151,6 +151,7 @@ If the PR is not according to the guidelines then it will not be accepted.
 4. [flexboxfroggy](https://flexboxfroggy.com/)
 5. [Step-by-step guide to learn CSS](https://htmldog.com/guides/css/).
 6. [CSS References](https://htmldog.com/references/css/).
+7. [Grid Garden](https://cssgridgarden.com/)
 
 ### Bootstrap <a name="bootstrap"></a>
 
