@@ -79,7 +79,8 @@ If the PR is not according to the guidelines then it will not be accepted.
 18. [Gate Smashers](https://www.youtube.com/c/GateSmashers/playlists).
 19. [Apna College](https://www.youtube.com/c/ApnaCollegeOfficial/playlists).
 20. [Data Structures and Algorithms in Java](https://www.youtube.com/watch?v=6iCHf7OZn6c&list=PL6Zs6LgrJj3tDXv8a_elC6eT_4R5gfX4d)
-21. [Data Structures Easy to Advanced Course-FreeCodeCamp](https://www.youtube.com/watch?v=RBSGKlAvoiM)
+21. [Data Structures Easy to Advanced Course-FreeCodeCamp](https://www.youtube.com/watch?v=RBSGKlAvoiM).
+22. [Programming and Data Structures - NPTELHRD](https://youtube.com/playlist?list=PLD9781AC5EBC9FA16).
 
 ## EE Resources <a name="education"></a>
 
@@ -89,6 +90,10 @@ If the PR is not according to the guidelines then it will not be accepted.
 4. [Network Analysis Playlist](https://www.youtube.com/watch?v=FF-rLTSynBQ&list=PL4zFSWGjyVv5uxvzbVLkn40vV42IQYB3y)
 5. [Signals and Systems Playlist](https://www.youtube.com/watch?v=s8rsR_TStaA&list=PLBlnK6fEyqRhG6s3jYIU48CqsT5cyiDTO)
 6. [digital and Analog Playlist](https://www.youtube.com/watch?v=qhjj6WG7Rgc&list=PLwjK_iyK4LLArUHRm3SvPLT0XWlVhpl4h).
+7. [Basics of Electrical Engineering](https://youtube.com/playlist?list=PLRU_w6H3xAm67fhJ88oX2z07-AgEv1eYf).
+8. [Introduction to Electronics](https://youtube.com/playlist?list=PLTFMW-rP7fuqMiK174et4SKbbMKd4VjdU).
+9. [Machine Learning for signal Processing](https://youtube.com/playlist?list=PLbtAaXHMto-sQHH1qrYn8_D9Fze_D1KhE).
+10. [Speech Signal Processing](https://youtube.com/playlist?list=PLbtAaXHMto-vzaMTNKdCAUlDbnVkGSazj).
 
 ## ME Resources <a name="education"></a>
 
@@ -103,6 +108,7 @@ If the PR is not according to the guidelines then it will not be accepted.
 9. [Thermodynamics: Intro to Heat & Temp Playlist](https://www.youtube.com/watch?v=zd-FjMksimw&list=PLX2gX-ftPVXXJUbbkyV6PoMPYM0gosaAS).
 10. [Heat Transfer Playlist](https://www.youtube.com/watch?v=gihhKTViHW0&list=PL_ZIJMd-rNhUApP0SuawDkIP4muI6QbPV).
 11. [Fluid Mechanics Playlist](https://www.youtube.com/watch?v=DL6QRTySWGs&list=PLj6j6tB7jyr9BBGP6-LRzkgGyz8IYBzQw).
+12. [Engineering Drawing](https://youtube.com/playlist?list=PLbMVogVj5nJRgBjyxu0PfH3Ucdq_mDo4o).
 
 ## Machine Learning Resources <a name="machine-learning"></a>
 
