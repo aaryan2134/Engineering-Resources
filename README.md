@@ -15,6 +15,19 @@ List of resources and project samples for Engineering Students
   - [Machine Learning Resources <a name="machine-learning"></a>](#machine-learning-resources-)
   - [Competitive Programming <a name="competitive-programming"></a>](#competitive-programming-)
   - [Web Development <a name="web-development"></a>](#web-development-)
+    - [HTML <a name="html"></a>](#html-)
+    - [CSS <a name="css"></a>](#css-)
+    - [Bootstrap <a name="bootstrap"></a>](#bootstrap-)
+    - [Tailwind CSS <a name="tailwind-css"></a>](#tailwind-css-)
+    - [Javascript <a name="javascript"></a>](#javascript-)
+    - [React <a name="react"></a>](#react-)
+    - [Git and Github <a name="git-and-github"></a>](#git-and-github-)
+    - [SQL <a name="sql"></a>](#sql-)
+    - [API <a name="api"></a>](#api-)
+    - [NextJS <a name="nextjs"></a>](#nextjs-)
+    - [AngularJS <a name="angularjs"></a>](#angularjs-)
+    - [Django <a name="django"></a>](#django-)
+    - [Flutter <a name="flutter"></a>](#flutter-)
   - [Operating-System <a name="Operating-System"></a>](#Operating-System-)
   - [Database Management System <a name="Database-Management-System"></a>](#Database-Management-System-)
   - [MySQL <a name="mysql"></a>](#mysql-)
@@ -28,6 +41,7 @@ List of resources and project samples for Engineering Students
   - [Python <a name="python"></a>](#python-)
   - [Object Oriented Programming <a name="object-oriented-programming"></a>](#object-oriented-programming-)
   - [Blockchain <a name="blockchain"></a>](#blockchain-)
+  - [Computer Network <a name="computer-network"></a>](#computer-network-)
   
 
 ## Introduction
@@ -86,7 +100,12 @@ If the PR is not according to the guidelines then it will not be accepted.
 4. [MACHINE DESIGN PLAYLIST](https://www.youtube.com/watch?v=K0CgcBYYHA4&list=PLiSPNzs4fD9sZKMUSbSzcb9iAMBX2mQj1)
 5. [THEORY OF MACHINES PLAYLIST](https://www.youtube.com/watch?v=RYzE6EXTGB0&list=PLiSPNzs4fD9v3sQhMMuihEDothsOAKJ-a)
 6. [THERMODYNAMICS PLAYLIST](https://www.youtube.com/watch?v=VIY8Bbv_VHw&list=PLDDfbf7FIeqsPqMnCiU6dvkb6TbG21ucz).
-7. [Dynamic Mechanics](https://www.youtube.com/watch?v=ohgJ9r_N1tk&list=PLk2-n0KUguzJFGp8B00a675OIgfYWoXYk)
+7. [Mechanics of Materials Playlist](https://www.youtube.com/watch?v=RkS8DjzvEvM&list=PLRqDfxcafc21wlI3E56IkDmRJ-33apMjv).
+8. [Mechanical Engineering: Friction Playlist](https://www.youtube.com/watch?v=aJp2g1BKXVc&list=PLX2gX-ftPVXU59ggWS3t0sThVF18h5ME2).
+9. [Thermodynamics: Intro to Heat & Temp Playlist](https://www.youtube.com/watch?v=zd-FjMksimw&list=PLX2gX-ftPVXXJUbbkyV6PoMPYM0gosaAS).
+10. [Heat Transfer Playlist](https://www.youtube.com/watch?v=gihhKTViHW0&list=PL_ZIJMd-rNhUApP0SuawDkIP4muI6QbPV).
+11. [Fluid Mechanics Playlist](https://www.youtube.com/watch?v=DL6QRTySWGs&list=PLj6j6tB7jyr9BBGP6-LRzkgGyz8IYBzQw).
+12. [Dynamic Mechanics](https://www.youtube.com/watch?v=ohgJ9r_N1tk&list=PLk2-n0KUguzJFGp8B00a675OIgfYWoXYk).
 
 ## Machine Learning Resources <a name="machine-learning"></a>
 
@@ -123,13 +142,13 @@ If the PR is not according to the guidelines then it will not be accepted.
 
 ## Web Development <a name="web-development"></a>
 
-Html
+### HTML <a name="html"></a>
 
 1. [Learn HTML](https://www.youtube.com/watch?v=kUMe1FH4CHE).
 2. [Step-by-step guide to learn HTML](https://htmldog.com/guides/html/).
 3. [HTML References](https://htmldog.com/references/html/).
 
-CSS
+### CSS <a name="css"></a>
 
 1. [CSS](https://www.youtube.com/watch?v=1Rs2ND1ryYc&t=15526s).
 2. [CSS for amazing tricks and tips](https://www.youtube.com/kepowob).
@@ -137,8 +156,9 @@ CSS
 4. [flexboxfroggy](https://flexboxfroggy.com/)
 5. [Step-by-step guide to learn CSS](https://htmldog.com/guides/css/).
 6. [CSS References](https://htmldog.com/references/css/).
+7. [Grid Garden](https://cssgridgarden.com/)
 
-Bootstrap
+### Bootstrap <a name="bootstrap"></a>
 
 1. [Bootstrap course for beginners by Free Code Camp](https://www.youtube.com/watch?v=-qfEOE4vtxE&ab_channel=freeCodeCamp.org).
 2. [Bootstrap tutorial in hindi by Code With Harry](https://www.youtube.com/watch?v=vpAJ0s5S2t0&ab_channel=CodeWithHarry).
@@ -146,7 +166,7 @@ Bootstrap
 4. [Bootstrap 5 tutorial by w3schools](https://www.w3schools.com/bootstrap5/index.php).
 5. [Bootstrap docs](https://getbootstrap.com/).
 
-Tailwind CSS
+### Tailwind CSS <a name="tailwind-css"></a>
 
 1. [Tailwind crash course by Traversy Media](https://www.youtube.com/watch?v=dFgzHOX84xQ&ab_channel=TraversyMedia).
 2. [Tailwind tutorial in hindi by Code With Harry](https://www.youtube.com/playlist?list=PLu0W_9lII9ahwFDuExCpPFHAK829Wto2O).
@@ -154,7 +174,7 @@ Tailwind CSS
 4. [Tailwind CSS by Geeks for Geeks](https://www.geeksforgeeks.org/introduction-to-tailwind-css/).
 5. [Tailwind CSS docs](https://tailwindcss.com/).
 
-Javascript
+### Javascript <a name="javascript"></a>
 
 1. [Javascript Documentation](https://javascript.info/)<br/>
 2. [Namaste Javascript by Akshay saini](https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP).
@@ -164,7 +184,7 @@ Javascript
 6. [You Dont Know JS yet](https://github.com/getify/You-Dont-Know-JS)
 7. [JavaScript Beginner Tutorial](https://htmldog.com/guides/javascript/).
 
-React
+### React <a name="react"></a>
 
 1.  [Best React course for beginner highly recommended](https://www.youtube.com/watch?v=bMknfKXIFA8&t=4s&ab_channel=freeCodeCamp.org).
 2.  [React tutorial by code evaluation ](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3).
@@ -173,44 +193,44 @@ React
 5.  [Learn React](https://scrimba.com/learn/learnreact).
 6.  checkout courses on udemy .
 
-Git and Github
+### Git and Github <a name="git-and-github"></a>
 
 1.  [Git for beginners](https://www.youtube.com/playlist?list=PLozRqGzj97d02YjR5JVqDwN2K0cAiT7VK).
 2.  [Git and Github ](https://www.youtube.com/watch?v=apGV9Kg7ics).
 3.  [Git for professional](https://www.youtube.com/watch?v=Uszj_k0DGsg)
 4.  [Git cheatsheet by GitHub](https://education.github.com/git-cheat-sheet-education.pdf)
 
-SQL
+### SQL <a name="sql"></a>
 
 1.  [PostgreSQL](https://www.youtube.com/watch?v=qw--VYLpxG4).
 2.  [MySQL ](https://www.w3schools.com/mySQl/default.asp).
 
-API
+### API <a name="api"></a>
 
 1.  [PostgreSQL](https://www.youtube.com/watch?v=GZvSYJDk-us).
 
-NextJs
+### NextJS <a name="nextjs"></a>
 
 1.  [Next.js Documentation](https://www.w3schools.io/learn/nextjs-tutorial/).
 2.  [Next.js tutorial (freeCodeCamp.org)](https://www.youtube.com/watch?v=1WmNXEVia8I).
 3.  [Next.js tutorial for Beginners](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH).
 4.  [Next.js tutorial in Hindi](https://www.youtube.com/playlist?list=PLwGdqUZWnOp2rDbpfKAeUi9f8qZMS7_cv).
 
-AngularJS
+### AngularJS <a name="angularjs"></a>
 
 1.  [Angular.js Documentation](https://docs.angularjs.org/guide).
 2.  [Angular.js tutorial for Beginners (Programming with Mosh)](https://www.youtube.com/watch?v=k5E2AVpwsko).
 3.  [Angular.js tutorial in Hindi](https://www.youtube.com/watch?v=0LhBvp8qpro).
 4.  [Angular.js complete tutorial (freeCodeCamp.org)](https://www.youtube.com/watch?v=2OHbjep_WjQ)
 
-Django
+### Django <a name="django"></a>
 
 1.  [BDjango comprehensive video rsource](https://www.youtube.com/watch?v=F5mRW0jo-U4).
 2.  [Django Documentation ](https://docs.djangoproject.com/en/4.1/).
 3.  checkout courses on udemy .
 
 
-Flutter
+### Flutter <a name="flutter"></a>
 
 1. [Flutter original documentation](https://docs.flutter.dev/)
 2. [Dart language](https://www.youtube.com/watch?v=5xlVP04905w)
@@ -372,3 +392,15 @@ Flutter
 8. [OOPS (python 3)- ProgrammingKnowledge](https://www.youtube.com/watch?v=QOryrmkr1tA&list=PLS1QulWo1RIZ77GWt3rQUggB7vm46ylYO)</br>
 9. [OOPS in Python(Python 3) - Telusko](https://www.youtube.com/watch?v=qiSCMNBIP2g)</br>
 10. [OOPs in JAVA(JAVA) - Telusko](https://www.youtube.com/watch?v=bzRp16p48bY)</br>
+
+
+## Computer Network <a name="computer-network"></a>
+
+1. [Data communication and networking - Quick Learning](https://youtube.com/playlist?list=PLZQgf2pQtimlhO3UY6UJzIC7JVBzSbXXQ)<br/>
+2. [Data communication in networking - Learn Coding](https://youtu.be/QFjAY6yzMgo)<br/>
+3. [Computer Networks - Gate Smashers](https://youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_)<br/>
+4. [Computer Networks - Neso Academy](https://youtube.com/playlist?list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx)<br/>
+5. [Data Communication and computer networks for UGC NET - NTA UGC NET](https://youtube.com/playlist?list=PL5B4lsKp6FVzTrpjBbKcv2AgOVzqtHJnp)<br/>
+6. [Computer Network- Education 4u](https://youtube.com/playlist?list=PLrjkTql3jnm-iqlEOuVTkmCaRP8F2H3-u)<br/>
+7. [Data Communication and Networks - Unacademy Computer Science](https://youtube.com/playlist?list=PLG9aCp4uE-s325FSHTzzD51k2Kl6vt4fT)<br/>
+8. [Data Communication - NPTEL IIT KHARAGPUR](https://youtube.com/playlist?list=PLUtfVcb-iqn8dG1-Cn7NTEdILR3hRVgcN)<br/>
