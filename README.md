@@ -326,10 +326,10 @@ If the PR is not according to the guidelines then it will not be accepted.
 9. [TheHackerStuff](https://www.youtube.com/c/TheHackerStuff)<br/>
 10. [HackerSploit](https://www.youtube.com/c/HackerSploit)<br/>
 11. [The Cyber Mentor](https://www.youtube.com/c/TheCyberMentor)<br/>
-12.[Prof.Messer](https://www.youtube.com/c/professormesser)<br/>
-13.[David Bombal](https://www.youtube.com/c/DavidBombal)<br/>
-14.[Boyd Clewis](https://www.youtube.com/c/MrBclewis)<br/>
-15.[Cyber Spatial](https://www.youtube.com/c/Cyberspatial)<br/>
+12. [Prof.Messer](https://www.youtube.com/c/professormesser)<br/>
+13. [David Bombal](https://www.youtube.com/c/DavidBombal)<br/>
+14. [Boyd Clewis](https://www.youtube.com/c/MrBclewis)<br/>
+15. [Cyber Spatial](https://www.youtube.com/c/Cyberspatial)<br/>
 
 ## Shell Scripting <a name="shell-scripting"></a>
 
