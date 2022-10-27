@@ -139,6 +139,11 @@ If the PR is not according to the guidelines then it will not be accepted.
 12. [CSES Problem Set](https://cses.fi/problemset/).
 12. [Number Theory for Competitive Programming](https://youtube.com/playlist?list=PLauivoElc3giVROwL-6g9hO-LlSen_NaV).
 13. [CP Ladder CodeForces](https://earthshakira.github.io/a2oj-clientside/server/Ladders.html)
+14. [Introduction to Programming Contests by Stanford University](https://stanford.edu/class/cs97si/).
+15. [Hitchhiker’s Guide to the Programming Contests](http://comscigate.com/Books/contests/icpc.pdf).
+16. [Competitive Programming Course by Reykjavik University](https://algo.is/competitive-programming-course/)
+17. [Collection of the best tutorials for CP (Codeforces)](http://codeforces.com/blog/entry/57282)
+18. [Algorithms book by Jeff Erickson (University of Illinois)](http://jeffe.cs.illinois.edu/teaching/algorithms/)
 
 ## Web Development <a name="web-development"></a>
 
