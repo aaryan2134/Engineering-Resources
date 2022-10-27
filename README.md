@@ -4,7 +4,7 @@ List of resources and project samples for Engineering Students
 
 ## Contents
 
-- [Engineering Resources](#engineering-resources)
+  - [Engineering Resources](#engineering-resources)
   - [Contents](#contents)
   - [Introduction](#introduction)
   - [Student Offers <a name="student-programs"></a>](#student-offers-)
@@ -15,21 +15,21 @@ List of resources and project samples for Engineering Students
   - [Machine Learning Resources <a name="machine-learning"></a>](#machine-learning-resources-)
   - [Competitive Programming <a name="competitive-programming"></a>](#competitive-programming-)
   - [Web Development <a name="web-development"></a>](#web-development-)
-    - [HTML <a name="html"></a>](#html-)
-    - [CSS <a name="css"></a>](#css-)
-    - [SASS <a name="sass"></a>](#sass-)
-    - [Bootstrap <a name="bootstrap"></a>](#bootstrap-)
-    - [Tailwind CSS <a name="tailwind-css"></a>](#tailwind-css-)
-    - [Javascript <a name="javascript"></a>](#javascript-)
-    - [React <a name="react"></a>](#react-)
-    - [Node.js <a name="node.js"></a>](#nodejs-)
-    - [Git and Github <a name="git-and-github"></a>](#git-and-github-)
-    - [SQL <a name="sql"></a>](#sql-)
-    - [API <a name="api"></a>](#api-)
-    - [NextJS <a name="nextjs"></a>](#nextjs-)
-    - [AngularJS <a name="angularjs"></a>](#angularjs-)
-    - [Django <a name="django"></a>](#django-)
-    - [Flutter <a name="flutter"></a>](#flutter-)
+  - [HTML <a name="html"></a>](#html-)
+  - [CSS <a name="css"></a>](#css-)
+  - [SASS <a name="sass"></a>](#sass-)
+  - [Bootstrap <a name="bootstrap"></a>](#bootstrap-)
+  - [Tailwind CSS <a name="tailwind-css"></a>](#tailwind-css-)
+  - [Javascript <a name="javascript"></a>](#javascript-)
+  - [React <a name="react"></a>](#react-)
+  - [Node.js <a name="node.js"></a>](#nodejs-)
+  - [Git and Github <a name="git-and-github"></a>](#git-and-github-)
+  - [SQL <a name="sql"></a>](#sql-)
+  - [API <a name="api"></a>](#api-)
+  - [NextJS <a name="nextjs"></a>](#nextjs-)
+  - [AngularJS <a name="angularjs"></a>](#angularjs-)
+  - [Django <a name="django"></a>](#django-)
+  - [Flutter <a name="flutter"></a>](#flutter-)
   - [Operating-System <a name="Operating-System"></a>](#Operating-System-)
   - [Database Management System <a name="Database-Management-System"></a>](#Database-Management-System-)
   - [MySQL <a name="mysql"></a>](#mysql-)
@@ -57,7 +57,7 @@ If the PR is not according to the guidelines then it will not be accepted.
 2. [Jetbrains Student Pack](https://www.jetbrains.com/student/) - A pack of free software and services for students.
 3. [Microsoft Azure for Students](https://azure.microsoft.com/en-gb/free/students/) - Free Azure credits for students.
 4. [AWS Educate](https://aws.amazon.com/education/awseducate/) - Free AWS credits for students.
-5. [Digital Ocean Student Pack](https://www.digitalocean.com/community/tutorials/how-to-claim-your-free-digitalocean-student-credits) - Free Digital Ocean credits for students.
+5. [Digital Ocean Student Pack](https://www.digitalocean.com/community/tutorials/how-to-claim-your-free-digitalocean-student-credits) - Free Digital Ocean credits      for students.
 
 ## CS Resources <a name="education"></a>
 
@@ -65,24 +65,24 @@ If the PR is not according to the guidelines then it will not be accepted.
 2. [Harvard CS50x](https://cs50.harvard.edu).
 3. [Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA) (Youtube Channel).
 4. [The Basics by Tom Scott](https://youtube.com/playlist?list=PL96C35uN7xGLLeET0dOWaKHkAlPsrkcha)
-5. [Data Structures and Algorithms Visualiser](https://visualgo.net/en) - Provides visulation for different data structures and algorithms like sorting, linked lists, hash table etc. Also allows some customizations.
+5. [Data Structures and Algorithms Visualiser](https://visualgo.net/en) - Provides visulation for different data structures and algorithms like sorting, linked        lists, hash table etc. Also allows some customizations.
 6. [Algorithms Playlist by Abdul Bari](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O).
 7. [Learn C++ - A bit more in depth](https://www.youtube.com/watch?v=18c3MTX0PK0&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb).
 8. [Neso Academy - Learn CS Theory](https://www.youtube.com/c/nesoacademy/playlists?view=50&sort=dd&shelf_id=2).
 9. [freeCodeCamp.org ](https://www.youtube.com/c/Freecodecamp).
-10. [C Documentation](https://devdocs.io/c/)<br/>
-11. [Jenny's lectures CS/IT NET&JRF](https://www.youtube.com/c/JennyslecturesCSITNETJRF).
-12. [thenewboston](https://www.youtube.com/user/thenewboston).
-13. [Fireship](https://www.youtube.com/c/Fireship).
-14. [Programming with Mosh](https://www.youtube.com/c/programmingwithmosh).
-15. [Visualise your code](https://pythontutor.com/cpp.html#mode=edit) - Provides visualaion of your code written in _cpp/c/python/java/javascript_ by providing step by step execution of code
-16. [MIT OpenCourceWare](https://ocw.mit.edu/).
-17. [W3Schools](https://www.w3schools.com/default.asp).
-18. [Gate Smashers](https://www.youtube.com/c/GateSmashers/playlists).
-19. [Apna College](https://www.youtube.com/c/ApnaCollegeOfficial/playlists).
-20. [Data Structures and Algorithms in Java](https://www.youtube.com/watch?v=6iCHf7OZn6c&list=PL6Zs6LgrJj3tDXv8a_elC6eT_4R5gfX4d)
-21. [Data Structures Easy to Advanced Course-FreeCodeCamp](https://www.youtube.com/watch?v=RBSGKlAvoiM)
-22. [Data structures All topics with question](https://www.youtube.com/c/TECHDOSE4u/playlists)
+10.[C Documentation](https://devdocs.io/c/)<br/>
+11.[Jenny's lectures CS/IT NET&JRF](https://www.youtube.com/c/JennyslecturesCSITNETJRF).
+12.[thenewboston](https://www.youtube.com/user/thenewboston).
+13.[Fireship](https://www.youtube.com/c/Fireship).
+14.[Programming with Mosh](https://www.youtube.com/c/programmingwithmosh).
+15.[Visualise your code](https://pythontutor.com/cpp.html#mode=edit) - Provides visualaion of your code written in _cpp/c/python/java/javascript_ by providing step    by step execution of code
+16.[MIT OpenCourceWare](https://ocw.mit.edu/).
+17.[W3Schools](https://www.w3schools.com/default.asp).
+18.[Gate Smashers](https://www.youtube.com/c/GateSmashers/playlists).
+19.[Apna College](https://www.youtube.com/c/ApnaCollegeOfficial/playlists).
+20.[Data Structures and Algorithms in Java](https://www.youtube.com/watch?v=6iCHf7OZn6c&list=PL6Zs6LgrJj3tDXv8a_elC6eT_4R5gfX4d)
+21.[Data Structures Easy to Advanced Course-FreeCodeCamp](https://www.youtube.com/watch?v=RBSGKlAvoiM)
+22.[Data structures All topics with question](https://www.youtube.com/c/TECHDOSE4u/playlists)
 
 ## EE Resources <a name="education"></a>
 
@@ -106,9 +106,9 @@ If the PR is not according to the guidelines then it will not be accepted.
 7. [Mechanics of Materials Playlist](https://www.youtube.com/watch?v=RkS8DjzvEvM&list=PLRqDfxcafc21wlI3E56IkDmRJ-33apMjv).
 8. [Mechanical Engineering: Friction Playlist](https://www.youtube.com/watch?v=aJp2g1BKXVc&list=PLX2gX-ftPVXU59ggWS3t0sThVF18h5ME2).
 9. [Thermodynamics: Intro to Heat & Temp Playlist](https://www.youtube.com/watch?v=zd-FjMksimw&list=PLX2gX-ftPVXXJUbbkyV6PoMPYM0gosaAS).
-10. [Heat Transfer Playlist](https://www.youtube.com/watch?v=gihhKTViHW0&list=PL_ZIJMd-rNhUApP0SuawDkIP4muI6QbPV).
-11. [Fluid Mechanics Playlist](https://www.youtube.com/watch?v=DL6QRTySWGs&list=PLj6j6tB7jyr9BBGP6-LRzkgGyz8IYBzQw).
-12. [Dynamic Mechanics](https://www.youtube.com/watch?v=ohgJ9r_N1tk&list=PLk2-n0KUguzJFGp8B00a675OIgfYWoXYk).
+10.[Heat Transfer Playlist](https://www.youtube.com/watch?v=gihhKTViHW0&list=PL_ZIJMd-rNhUApP0SuawDkIP4muI6QbPV).
+11.[Fluid Mechanics Playlist](https://www.youtube.com/watch?v=DL6QRTySWGs&list=PLj6j6tB7jyr9BBGP6-LRzkgGyz8IYBzQw).
+12.[Dynamic Mechanics](https://www.youtube.com/watch?v=ohgJ9r_N1tk&list=PLk2-n0KUguzJFGp8B00a675OIgfYWoXYk).
 
 ## Machine Learning Resources <a name="machine-learning"></a>
 
@@ -121,7 +121,7 @@ If the PR is not according to the guidelines then it will not be accepted.
 7. [Josh Starmer's Machine Learning Playlist](https://www.youtube.com/watch?v=Gv9_4yMHFhI&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF)
 8. [100 Days of Machine Learning](https://www.youtube.com/watch?v=ZftI2fEz0Fw&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH)
 9. [Machine Learning Course by Andrew NG](https://see.stanford.edu/Course/CS229)
-10. [Deep Learning with PyTorch Course](https://www.udacity.com/course/deep-learning-pytorch--ud188)
+10.[Deep Learning with PyTorch Course](https://www.udacity.com/course/deep-learning-pytorch--ud188)
 
 ## Competitive Programming <a name="competitive-programming"></a>
 
@@ -134,19 +134,19 @@ If the PR is not according to the guidelines then it will not be accepted.
 7. [C++ STL(Full Course) by Luv ](https://www.youtube.com/playlist?list=PLauivoElc3gh3RCiQA82MDI-gJfXQQVnn)
 8. [Dynamic Programming (Hindi) by Aditya Verma](https://youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go).
 9. [Graphs by Striver](https://youtube.com/playlist?list=PLgUwDviBIf0rGEWe64KWas0Nryn7SCRWw).
-10. [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1).
-11. [CP Algorithms](https://cp-algorithms.web.app/index.html).
-12. [Hong Kong Olympiad in Informatics Training Material](https://hkoi.org/en/training-materials/2022/).
-12. [Trie Series by take U forward](https://youtube.com/playlist?list=PLgUwDviBIf0pcIDCZnxhv0LkHf5KzG9zp).
-12. [Segment Tree](https://youtube.com/playlist?list=PL-Jc9J83PIiFY1445K_x1M_O3j9kr3FII).
-12. [CSES Problem Set](https://cses.fi/problemset/).
-12. [Number Theory for Competitive Programming](https://youtube.com/playlist?list=PLauivoElc3giVROwL-6g9hO-LlSen_NaV).
-13. [CP Ladder CodeForces](https://earthshakira.github.io/a2oj-clientside/server/Ladders.html)
-14. [Introduction to Programming Contests by Stanford University](https://stanford.edu/class/cs97si/).
-15. [Hitchhiker’s Guide to the Programming Contests](http://comscigate.com/Books/contests/icpc.pdf).
-16. [Competitive Programming Course by Reykjavik University](https://algo.is/competitive-programming-course/)
-17. [Collection of the best tutorials for CP (Codeforces)](http://codeforces.com/blog/entry/57282)
-18. [Algorithms book by Jeff Erickson (University of Illinois)](http://jeffe.cs.illinois.edu/teaching/algorithms/)
+10.[Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1).
+11.[CP Algorithms](https://cp-algorithms.web.app/index.html).
+12.[Hong Kong Olympiad in Informatics Training Material](https://hkoi.org/en/training-materials/2022/).
+12.[Trie Series by take U forward](https://youtube.com/playlist?list=PLgUwDviBIf0pcIDCZnxhv0LkHf5KzG9zp).
+12.[Segment Tree](https://youtube.com/playlist?list=PL-Jc9J83PIiFY1445K_x1M_O3j9kr3FII).
+12.[CSES Problem Set](https://cses.fi/problemset/).
+12.[Number Theory for Competitive Programming](https://youtube.com/playlist?list=PLauivoElc3giVROwL-6g9hO-LlSen_NaV).
+13.[CP Ladder CodeForces](https://earthshakira.github.io/a2oj-clientside/server/Ladders.html)
+14.[Introduction to Programming Contests by Stanford University](https://stanford.edu/class/cs97si/).
+15.[Hitchhiker’s Guide to the Programming Contests](http://comscigate.com/Books/contests/icpc.pdf).
+16.[Competitive Programming Course by Reykjavik University](https://algo.is/competitive-programming-course/)
+17.[Collection of the best tutorials for CP (Codeforces)](http://codeforces.com/blog/entry/57282)
+18.[Algorithms book by Jeff Erickson (University of Illinois)](http://jeffe.cs.illinois.edu/teaching/algorithms/)
 
 ## Web Development <a name="web-development"></a>
 
@@ -321,9 +321,9 @@ If the PR is not according to the guidelines then it will not be accepted.
 7. [Theory of Computation Playlist by Gate Smashers (Hindi)](https://www.youtube.com/playlist?list=PLxCzCOWd7aiFM9Lj5G9G_76adtyb4ef7i)
 8. [Theory of Computation Playlist by Neso Academy (English)](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgp46KUv4ZY69yXmpwKOIev)
 9. [Theory of Computation Playlist by Unacademy (English)](https://www.youtube.com/playlist?list=PLG9aCp4uE-s1P6Z73Gbbh-kdDWwq5Bg7f)
-10. [Programming in MATLAB by NPTEL](https://www.youtube.com/playlist?list=PLRWKj4sFG7-6_Xr9yqg6SMr_F80KdFVhN)
-11. [Software Engineering Playlist by Sanchit Jain (Hindi)](https://www.youtube.com/playlist?list=PLomWmd9eRGvrT9XAfwxdWTnrgACqkSFRD)
-12. [Software Engineering Playlist by Gate Smashers (Hindi)](https://www.youtube.com/playlist?list=PLxCzCOWd7aiEed7SKZBnC6ypFDWYLRvB2)
+10.[Programming in MATLAB by NPTEL](https://www.youtube.com/playlist?list=PLRWKj4sFG7-6_Xr9yqg6SMr_F80KdFVhN)
+11.[Software Engineering Playlist by Sanchit Jain (Hindi)](https://www.youtube.com/playlist?list=PLomWmd9eRGvrT9XAfwxdWTnrgACqkSFRD)
+12.[Software Engineering Playlist by Gate Smashers (Hindi)](https://www.youtube.com/playlist?list=PLxCzCOWd7aiEed7SKZBnC6ypFDWYLRvB2)
 
 ## Cyber Security Resources <a name="cyber-security-resources"></a>
 
@@ -347,12 +347,12 @@ If the PR is not according to the guidelines then it will not be accepted.
 7. [13Cubed](https://www.youtube.com/c/13cubed)<br/>
 8. [Computerphile](https://www.youtube.com/user/Computerphile)<br/>
 9. [TheHackerStuff](https://www.youtube.com/c/TheHackerStuff)<br/>
-10. [HackerSploit](https://www.youtube.com/c/HackerSploit)<br/>
-11. [The Cyber Mentor](https://www.youtube.com/c/TheCyberMentor)<br/>
-12. [Prof.Messer](https://www.youtube.com/c/professormesser)<br/>
-13. [David Bombal](https://www.youtube.com/c/DavidBombal)<br/>
-14. [Boyd Clewis](https://www.youtube.com/c/MrBclewis)<br/>
-15. [Cyber Spatial](https://www.youtube.com/c/Cyberspatial)<br/>
+10.[HackerSploit](https://www.youtube.com/c/HackerSploit)<br/>
+11.[The Cyber Mentor](https://www.youtube.com/c/TheCyberMentor)<br/>
+12.[Prof.Messer](https://www.youtube.com/c/professormesser)<br/>
+13.[David Bombal](https://www.youtube.com/c/DavidBombal)<br/>
+14.[Boyd Clewis](https://www.youtube.com/c/MrBclewis)<br/>
+15.[Cyber Spatial](https://www.youtube.com/c/Cyberspatial)<br/>
 
 ## Shell Scripting <a name="shell-scripting"></a>
 
@@ -375,7 +375,7 @@ If the PR is not according to the guidelines then it will not be accepted.
 
 ## DEV OPS <a name="dev-ops"></a>
 
-1.[Simplilearn 9 hours DevOps Course](https://www.youtube.com/watch?v=lpk7VpGqkKw) <br/>
+1. [Simplilearn 9 hours DevOps Course](https://www.youtube.com/watch?v=lpk7VpGqkKw) <br/>
 2. [freeCodeCamp.org 2 hours DevOps Engineering Course](https://www.youtube.com/watch?v=j5Zsa_eOXeY) <br/>
 3. [Tech World with Nana's Youtube channel](https://www.youtube.com/c/TechWorldwithNana) <br/>
 4. [Learn DevOps playlist by Cloud Advocate](https://www.youtube.com/playlist?list=PLBRBRV08tHh1W6F9ijILxGJZNfzFuytZo) <br/>
@@ -398,7 +398,7 @@ If the PR is not according to the guidelines then it will not be accepted.
 1. [Solidity Full Course](https://www.youtube.com/watch?v=gsaapL1SEqg&list=PLgPmWS2dQHW9u6IXZq5t5GMQTpW7JL33i&ab_channel=CodeEater)
 2. [Solidity and Blockchain in Hindi by Pepcoding](https://www.youtube.com/watch?v=MERRq6GUQrI&list=PL-Jc9J83PIiG6_thChXWzolj9BEG-Y0gh&ab_channel=Pepcoding)
 3. [Truffle Full Course by Code Eater](https://www.youtube.com/watch?v=Zo4dYRw9WSE&list=PLgPmWS2dQHW-cdHYZQmpAalgSp-xv_ewY&index=3&ab_channel=CodeEater)
-4. [Master Web3js Library (Ethereum) by Code Eater](https://www.youtube.com/watch?v=u3PtGMRmGA0&list=PLgPmWS2dQHW-cdHYZQmpAalgSp-xv_ewY&index=5&ab_channel=CodeEater)
+4. [Master Web3js Library (Ethereum) by Code Eater](https://www.youtube.com/watch?v=u3PtGMRmGA0&list=PLgPmWS2dQHW-cdHYZQmpAalgSp-                                      xv_ewY&index=5&ab_channel=CodeEater)
 5. [Create your NFT from Scratch](https://www.youtube.com/watch?v=hKuInl4SxZ8)
 6. [Complete Blockchain Development Roadmap by Anuj Bhaiya](https://www.youtube.com/watch?v=n_5oeZWbseY)
 7. [Build your own Blockchain in 15 minutes](https://www.youtube.com/watch?v=n_5oeZWbseY)
@@ -414,7 +414,7 @@ If the PR is not according to the guidelines then it will not be accepted.
 7. [Object Oriented Programming Using Python(Python) - CodeWithHarry](https://www.youtube.com/watch?v=fpdwRofNMeQ&list=PLu0W_9lII9ahfRrhFcoB-4lpp9YaBmdCP)</br>
 8. [OOPS (python 3)- ProgrammingKnowledge](https://www.youtube.com/watch?v=QOryrmkr1tA&list=PLS1QulWo1RIZ77GWt3rQUggB7vm46ylYO)</br>
 9. [OOPS in Python(Python 3) - Telusko](https://www.youtube.com/watch?v=qiSCMNBIP2g)</br>
-10. [OOPs in JAVA(JAVA) - Telusko](https://www.youtube.com/watch?v=bzRp16p48bY)</br>
+10.[OOPs in JAVA(JAVA) - Telusko](https://www.youtube.com/watch?v=bzRp16p48bY)</br>
 
 
 ## Computer Network <a name="computer-network"></a>
