@@ -80,6 +80,7 @@ If the PR is not according to the guidelines then it will not be accepted.
 19. [Apna College](https://www.youtube.com/c/ApnaCollegeOfficial/playlists).
 20. [Data Structures and Algorithms in Java](https://www.youtube.com/watch?v=6iCHf7OZn6c&list=PL6Zs6LgrJj3tDXv8a_elC6eT_4R5gfX4d)
 21. [Data Structures Easy to Advanced Course-FreeCodeCamp](https://www.youtube.com/watch?v=RBSGKlAvoiM)
+22. [Data structures All topics with question](https://www.youtube.com/c/TECHDOSE4u/playlists)
 
 ## EE Resources <a name="education"></a>
 
@@ -158,6 +159,10 @@ If the PR is not according to the guidelines then it will not be accepted.
 6. [CSS References](https://htmldog.com/references/css/).
 7. [Grid Garden](https://cssgridgarden.com/)
 
+### SASS <a name="sass"></a>
+
+1.[SASS](https://www.youtube.com/watch?v=_a5j7KoflTs&t=774s)
+
 ### Bootstrap <a name="bootstrap"></a>
 
 1. [Bootstrap course for beginners by Free Code Camp](https://www.youtube.com/watch?v=-qfEOE4vtxE&ab_channel=freeCodeCamp.org).
@@ -192,6 +197,10 @@ If the PR is not according to the guidelines then it will not be accepted.
 4.  [React Redux Tutorials by Codevolution](https://www.youtube.com/watch?v=9boMnm5X9ak&list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK).
 5.  [Learn React](https://scrimba.com/learn/learnreact).
 6.  checkout courses on udemy .
+
+### Node.js <a name="node.js"></a>
+
+1.[Node.js full course](https://www.youtube.com/watch?v=VrQgmNY96wo)
 
 ### Git and Github <a name="git-and-github"></a>
 
