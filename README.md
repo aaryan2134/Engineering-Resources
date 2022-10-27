@@ -89,6 +89,8 @@ If the PR is not according to the guidelines then it will not be accepted.
 4. [Network Analysis Playlist](https://www.youtube.com/watch?v=FF-rLTSynBQ&list=PL4zFSWGjyVv5uxvzbVLkn40vV42IQYB3y)
 5. [Signals and Systems Playlist](https://www.youtube.com/watch?v=s8rsR_TStaA&list=PLBlnK6fEyqRhG6s3jYIU48CqsT5cyiDTO)
 6. [digital and Analog Playlist](https://www.youtube.com/watch?v=qhjj6WG7Rgc&list=PLwjK_iyK4LLArUHRm3SvPLT0XWlVhpl4h).
+7. [Basic Electronics Course](https://www.youtube.com/watch?v=lFCMYEmfgzU&list=PLTFMW-rP7fuqMiK174et4SKbbMKd4VjdU)
+8. [MicroElectronics Course](https://www.youtube.com/watch?v=366BVdmcUxk&list=PLLy_2iUCG87C-GS7B4vJ37Iz3fevmYU1h)
 
 ## ME Resources <a name="education"></a>
 
@@ -103,6 +105,7 @@ If the PR is not according to the guidelines then it will not be accepted.
 9. [Thermodynamics: Intro to Heat & Temp Playlist](https://www.youtube.com/watch?v=zd-FjMksimw&list=PLX2gX-ftPVXXJUbbkyV6PoMPYM0gosaAS).
 10. [Heat Transfer Playlist](https://www.youtube.com/watch?v=gihhKTViHW0&list=PL_ZIJMd-rNhUApP0SuawDkIP4muI6QbPV).
 11. [Fluid Mechanics Playlist](https://www.youtube.com/watch?v=DL6QRTySWGs&list=PLj6j6tB7jyr9BBGP6-LRzkgGyz8IYBzQw).
+12. [Dynamic Mechanics](https://www.youtube.com/watch?v=ohgJ9r_N1tk&list=PLk2-n0KUguzJFGp8B00a675OIgfYWoXYk).
 
 ## Machine Learning Resources <a name="machine-learning"></a>
 
@@ -115,6 +118,7 @@ If the PR is not according to the guidelines then it will not be accepted.
 7. [Josh Starmer's Machine Learning Playlist](https://www.youtube.com/watch?v=Gv9_4yMHFhI&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF)
 8. [100 Days of Machine Learning](https://www.youtube.com/watch?v=ZftI2fEz0Fw&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH)
 9. [Machine Learning Course by Andrew NG](https://see.stanford.edu/Course/CS229)
+10. [Deep Learning with PyTorch Course](https://www.udacity.com/course/deep-learning-pytorch--ud188)
 
 ## Competitive Programming <a name="competitive-programming"></a>
 
@@ -134,6 +138,7 @@ If the PR is not according to the guidelines then it will not be accepted.
 12. [Segment Tree](https://youtube.com/playlist?list=PL-Jc9J83PIiFY1445K_x1M_O3j9kr3FII).
 12. [CSES Problem Set](https://cses.fi/problemset/).
 12. [Number Theory for Competitive Programming](https://youtube.com/playlist?list=PLauivoElc3giVROwL-6g9hO-LlSen_NaV).
+13. [CP Ladder CodeForces](https://earthshakira.github.io/a2oj-clientside/server/Ladders.html)
 
 ## Web Development <a name="web-development"></a>
 
@@ -325,6 +330,11 @@ If the PR is not according to the guidelines then it will not be accepted.
 8. [Computerphile](https://www.youtube.com/user/Computerphile)<br/>
 9. [TheHackerStuff](https://www.youtube.com/c/TheHackerStuff)<br/>
 10. [HackerSploit](https://www.youtube.com/c/HackerSploit)<br/>
+11. [The Cyber Mentor](https://www.youtube.com/c/TheCyberMentor)<br/>
+12. [Prof.Messer](https://www.youtube.com/c/professormesser)<br/>
+13. [David Bombal](https://www.youtube.com/c/DavidBombal)<br/>
+14. [Boyd Clewis](https://www.youtube.com/c/MrBclewis)<br/>
+15. [Cyber Spatial](https://www.youtube.com/c/Cyberspatial)<br/>
 
 ## Shell Scripting <a name="shell-scripting"></a>
 
