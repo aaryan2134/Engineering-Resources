@@ -33,7 +33,7 @@ List of resources and project samples for Engineering Students
   - [MySQL <a name="mysql"></a>](#mysql-)
   - [Java Programming <a name="java-programming"></a>](#java-programming-)
   - [Kotlin Programming <a name="kotlin-programming"></a>](#kotlin-programming-)
-  - [Jetpack Componse <a name="jetpack-compose"></a>](#jetpack-compose)
+  - [Jetpack Compose <a name="jetpack-compose"></a>](#jetpack-compose-)
   - [R Programming <a name="r-programming"></a>](#r-programming-)
   - [Cyber Security Resources <a name="cyber-security-resources"></a>](#cyber-security-resources-)
   - [Shell Scripting <a name="shell-scripting"></a>](#shell-scripting-)
