@@ -17,10 +17,12 @@ List of resources and project samples for Engineering Students
   - [Web Development <a name="web-development"></a>](#web-development-)
     - [HTML <a name="html"></a>](#html-)
     - [CSS <a name="css"></a>](#css-)
+    - [SASS <a name="sass"></a>](#sass-)
     - [Bootstrap <a name="bootstrap"></a>](#bootstrap-)
     - [Tailwind CSS <a name="tailwind-css"></a>](#tailwind-css-)
     - [Javascript <a name="javascript"></a>](#javascript-)
     - [React <a name="react"></a>](#react-)
+    - [Node.js <a name="node.js"></a>](#node.js)
     - [Git and Github <a name="git-and-github"></a>](#git-and-github-)
     - [SQL <a name="sql"></a>](#sql-)
     - [API <a name="api"></a>](#api-)
@@ -163,7 +165,7 @@ If the PR is not according to the guidelines then it will not be accepted.
 
 ### SASS <a name="sass"></a>
 
-1.[SASS](https://www.youtube.com/watch?v=_a5j7KoflTs&t=774s)
+1. [SASS full playlist](https://www.youtube.com/playlist?list=PL0b6OzIxLPbwX4_pV5V2E8q0_RAZqOOMv)
 
 ### Bootstrap <a name="bootstrap"></a>
 
@@ -202,7 +204,7 @@ If the PR is not according to the guidelines then it will not be accepted.
 
 ### Node.js <a name="node.js"></a>
 
-1.[Node.js full course](https://www.youtube.com/watch?v=VrQgmNY96wo)
+1. [Node.js full course](https://www.youtube.com/watch?v=VrQgmNY96wo)
 
 ### Git and Github <a name="git-and-github"></a>
 
