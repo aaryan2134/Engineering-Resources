@@ -23,6 +23,8 @@ List of resources and project samples for Engineering Students
     - [Javascript <a name="javascript"></a>](#javascript-)
     - [React <a name="react"></a>](#react-)
     - [Node.js <a name="node.js"></a>](#nodejs-)
+    - [Express.js <a name="express.js"></a>](#expressjs-)
+    - [MongoDB <a name="mongodb"></a>](#mongodb-)
     - [Git and Github <a name="git-and-github"></a>](#git-and-github-)
     - [SQL <a name="sql"></a>](#sql-)
     - [API <a name="api"></a>](#api-)
@@ -197,6 +199,7 @@ If the PR is not according to the guidelines then it will not be accepted.
 5. [fullstack open](https://fullstackopen.com/en/)
 6. [You Dont Know JS yet](https://github.com/getify/You-Dont-Know-JS)
 7. [JavaScript Beginner Tutorial](https://htmldog.com/guides/javascript/).
+8. [JavaScript Full course](https://www.youtube.com/playlist?list=PLu0W_9lII9ahR1blWXxgSlL4y9iQBnLpR)
 
 ### React <a name="react"></a>
 
@@ -206,10 +209,19 @@ If the PR is not according to the guidelines then it will not be accepted.
 4.  [React Redux Tutorials by Codevolution](https://www.youtube.com/watch?v=9boMnm5X9ak&list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK).
 5.  [Learn React](https://scrimba.com/learn/learnreact).
 6.  checkout courses on udemy .
+7.  [React.js Full course](https://www.youtube.com/playlist?list=PLu0W_9lII9agx66oZnT6IyhcMIbUMNMdt)
 
 ### Node.js <a name="node.js"></a>
 
 1. [Node.js full course](https://www.youtube.com/watch?v=VrQgmNY96wo)
+
+### Express.js <a name="express.js"></a>
+
+1. [Express.js full course](https://www.youtube.com/playlist?list=PLbGui_ZYuhigerSlDF_v1t1mM2iGomXnq)
+
+### MongoDB <a name="mongodb"></a>
+
+1. [MongoDB full course](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOFJ9JcVW9u4PlSWO-VFoao)
 
 ### Git and Github <a name="git-and-github"></a>
 
@@ -233,6 +245,7 @@ If the PR is not according to the guidelines then it will not be accepted.
 2.  [Next.js tutorial (freeCodeCamp.org)](https://www.youtube.com/watch?v=1WmNXEVia8I).
 3.  [Next.js tutorial for Beginners](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH).
 4.  [Next.js tutorial in Hindi](https://www.youtube.com/playlist?list=PLwGdqUZWnOp2rDbpfKAeUi9f8qZMS7_cv).
+5.  [Next.js full course](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH).
 
 ### AngularJS <a name="angularjs"></a>
 
