@@ -148,6 +148,7 @@ If the PR is not according to the guidelines then it will not be accepted.
 1. [Learn HTML](https://www.youtube.com/watch?v=kUMe1FH4CHE).
 2. [Step-by-step guide to learn HTML](https://htmldog.com/guides/html/).
 3. [HTML References](https://htmldog.com/references/html/).
+4. [HTML Full course](https://www.youtube.com/watch?v=BsDoLVMnmZs)
 
 ### CSS <a name="css"></a>
 
@@ -158,6 +159,7 @@ If the PR is not according to the guidelines then it will not be accepted.
 5. [Step-by-step guide to learn CSS](https://htmldog.com/guides/css/).
 6. [CSS References](https://htmldog.com/references/css/).
 7. [Grid Garden](https://cssgridgarden.com/)
+8. [CSS Full course](https://www.youtube.com/watch?v=Edsxf_NBFrw&t=17808s)
 
 ### SASS <a name="sass"></a>
 
