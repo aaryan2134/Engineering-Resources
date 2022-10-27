@@ -17,10 +17,12 @@ List of resources and project samples for Engineering Students
   - [Web Development <a name="web-development"></a>](#web-development-)
     - [HTML <a name="html"></a>](#html-)
     - [CSS <a name="css"></a>](#css-)
+    - [SASS <a name="sass"></a>](#sass-)
     - [Bootstrap <a name="bootstrap"></a>](#bootstrap-)
     - [Tailwind CSS <a name="tailwind-css"></a>](#tailwind-css-)
     - [Javascript <a name="javascript"></a>](#javascript-)
     - [React <a name="react"></a>](#react-)
+    - [Node.js <a name="node.js"></a>](#nodejs-)
     - [Git and Github <a name="git-and-github"></a>](#git-and-github-)
     - [SQL <a name="sql"></a>](#sql-)
     - [API <a name="api"></a>](#api-)
@@ -80,6 +82,7 @@ If the PR is not according to the guidelines then it will not be accepted.
 19. [Apna College](https://www.youtube.com/c/ApnaCollegeOfficial/playlists).
 20. [Data Structures and Algorithms in Java](https://www.youtube.com/watch?v=6iCHf7OZn6c&list=PL6Zs6LgrJj3tDXv8a_elC6eT_4R5gfX4d)
 21. [Data Structures Easy to Advanced Course-FreeCodeCamp](https://www.youtube.com/watch?v=RBSGKlAvoiM)
+22. [Data structures All topics with question](https://www.youtube.com/c/TECHDOSE4u/playlists)
 
 ## EE Resources <a name="education"></a>
 
@@ -152,6 +155,7 @@ If the PR is not according to the guidelines then it will not be accepted.
 1. [Learn HTML](https://www.youtube.com/watch?v=kUMe1FH4CHE).
 2. [Step-by-step guide to learn HTML](https://htmldog.com/guides/html/).
 3. [HTML References](https://htmldog.com/references/html/).
+4. [HTML Full course](https://www.youtube.com/watch?v=BsDoLVMnmZs)
 
 ### CSS <a name="css"></a>
 
@@ -162,6 +166,11 @@ If the PR is not according to the guidelines then it will not be accepted.
 5. [Step-by-step guide to learn CSS](https://htmldog.com/guides/css/).
 6. [CSS References](https://htmldog.com/references/css/).
 7. [Grid Garden](https://cssgridgarden.com/)
+8. [CSS Full course](https://www.youtube.com/watch?v=Edsxf_NBFrw&t=17808s)
+
+### SASS <a name="sass"></a>
+
+1. [SASS full playlist](https://www.youtube.com/playlist?list=PL0b6OzIxLPbwX4_pV5V2E8q0_RAZqOOMv)
 
 ### Bootstrap <a name="bootstrap"></a>
 
@@ -197,6 +206,10 @@ If the PR is not according to the guidelines then it will not be accepted.
 4.  [React Redux Tutorials by Codevolution](https://www.youtube.com/watch?v=9boMnm5X9ak&list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK).
 5.  [Learn React](https://scrimba.com/learn/learnreact).
 6.  checkout courses on udemy .
+
+### Node.js <a name="node.js"></a>
+
+1. [Node.js full course](https://www.youtube.com/watch?v=VrQgmNY96wo)
 
 ### Git and Github <a name="git-and-github"></a>
 
