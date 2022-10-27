@@ -22,7 +22,7 @@ List of resources and project samples for Engineering Students
     - [Tailwind CSS <a name="tailwind-css"></a>](#tailwind-css-)
     - [Javascript <a name="javascript"></a>](#javascript-)
     - [React <a name="react"></a>](#react-)
-    - [Node.js <a name="node.js"></a>](#node.js)
+    - [Node.js <a name="node.js"></a>](#node.js-)
     - [Git and Github <a name="git-and-github"></a>](#git-and-github-)
     - [SQL <a name="sql"></a>](#sql-)
     - [API <a name="api"></a>](#api-)
