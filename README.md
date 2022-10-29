@@ -171,6 +171,7 @@ If the PR is not according to the guidelines then it will not be accepted.
 2. [Step-by-step guide to learn HTML](https://htmldog.com/guides/html/).
 3. [HTML References](https://htmldog.com/references/html/).
 4. [HTML Full course](https://www.youtube.com/watch?v=BsDoLVMnmZs)
+5. [Learn HTML, CSS and JavaScript through project-based learning.](https://frontendmasters.com/bootcamp/#joinBC)
 
 ### CSS <a name="css"></a>
 
