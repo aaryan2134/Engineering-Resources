@@ -37,6 +37,7 @@ List of resources and project samples for Engineering Students
   - [MySQL <a name="mysql"></a>](#mysql-)
   - [Java Programming <a name="java-programming"></a>](#java-programming-)
   - [Kotlin Programming <a name="kotlin-programming"></a>](#kotlin-programming-)
+  - [Jetpack Compose <a name="jetpack-compose"></a>](#jetpack-compose-)
   - [R Programming <a name="r-programming"></a>](#r-programming-)
   - [Cyber Security Resources <a name="cyber-security-resources"></a>](#cyber-security-resources-)
   - [Shell Scripting <a name="shell-scripting"></a>](#shell-scripting-)
@@ -317,6 +318,18 @@ If the PR is not according to the guidelines then it will not be accepted.
 4. [Kotlin Multiplatform Tutorial](https://www.youtube.com/watch?v=l_tK1Zf4c64)
 5. [Kotlin for server-side Development](https://www.youtube.com/playlist?list=PLlFc5cFwUnmx-dpq9nkdaVJX0GnrM1Mp1)
 6. [Android Application Development using Kotlin: Beginners Tutorials](https://www.youtube.com/playlist?list=PLlxmoA0rQ-Lw5k_QCqVl3rsoJOnb_00UV)
+
+
+## Jetpack Compose <a name="jetpack-compose"></a>
+
+1. [Jetpack Compose Documentation](https://developer.android.com/jetpack/compose/documentation)<br/>
+2. [Build better apps faster with Jetpack Compose](https://developer.android.com/jetpack/compose)<br/>
+2. [Jetpack Compose Tutorial for Android: Getting Started](https://www.kodeco.com/15361077-jetpack-compose-tutorial-for-android-getting-started#toc-anchor-008)<br/>
+3. [Android Programming Course - Kotlin, Jetpack Compose UI](https://youtu.be/bo_LP6QOUio)<br/>
+4. [Building An Andoid App With Jetpack Compose And Firebase](https://appdevcon.nl/building-an-android-app-with-jetpack-compose-and-firebase/)<br/>
+5. [Complete Jetpack Compose Tutorial For Beginners](https://appdevnotes.com/complete-jetpack-compose-tutorial-for-beginners/)<br/>
+6. [Jetpack Compose + Material Design](https://m3.material.io/develop/android/jetpack-compose)<br/>
+7. [Jetpack Compose Samples](https://github.com/android/compose-samples)<br/>
 
 ## R Programming <a name="r-programming"></a>
 
