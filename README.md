@@ -17,10 +17,14 @@ List of resources and project samples for Engineering Students
   - [Web Development <a name="web-development"></a>](#web-development-)
     - [HTML <a name="html"></a>](#html-)
     - [CSS <a name="css"></a>](#css-)
+    - [SASS <a name="sass"></a>](#sass-)
     - [Bootstrap <a name="bootstrap"></a>](#bootstrap-)
     - [Tailwind CSS <a name="tailwind-css"></a>](#tailwind-css-)
     - [Javascript <a name="javascript"></a>](#javascript-)
     - [React <a name="react"></a>](#react-)
+    - [Node.js <a name="node.js"></a>](#nodejs-)
+    - [Express.js <a name="express.js"></a>](#expressjs-)
+    - [MongoDB <a name="mongodb"></a>](#mongodb-)
     - [Git and Github <a name="git-and-github"></a>](#git-and-github-)
     - [SQL <a name="sql"></a>](#sql-)
     - [API <a name="api"></a>](#api-)
@@ -82,6 +86,10 @@ If the PR is not according to the guidelines then it will not be accepted.
 21. [Data Structures Easy to Advanced Course-FreeCodeCamp](https://www.youtube.com/watch?v=RBSGKlAvoiM).
 22. [Programming and Data Structures - NPTELHRD](https://youtube.com/playlist?list=PLD9781AC5EBC9FA16).
 
+23. [Data Structures Easy to Advanced Course-FreeCodeCamp](https://www.youtube.com/watch?v=RBSGKlAvoiM)
+24. [Data structures All topics with question](https://www.youtube.com/c/TECHDOSE4u/playlists)
+
+
 ## EE Resources <a name="education"></a>
 
 1. [Electrical Machines Playlist](https://www.youtube.com/watch?v=PmBqB-4hgW4&list=PLs5_Rtf2P2r5YY5b23uDGrtpo42ezMmGp).
@@ -90,10 +98,13 @@ If the PR is not according to the guidelines then it will not be accepted.
 4. [Network Analysis Playlist](https://www.youtube.com/watch?v=FF-rLTSynBQ&list=PL4zFSWGjyVv5uxvzbVLkn40vV42IQYB3y)
 5. [Signals and Systems Playlist](https://www.youtube.com/watch?v=s8rsR_TStaA&list=PLBlnK6fEyqRhG6s3jYIU48CqsT5cyiDTO)
 6. [digital and Analog Playlist](https://www.youtube.com/watch?v=qhjj6WG7Rgc&list=PLwjK_iyK4LLArUHRm3SvPLT0XWlVhpl4h).
-7. [Basics of Electrical Engineering](https://youtube.com/playlist?list=PLRU_w6H3xAm67fhJ88oX2z07-AgEv1eYf).
-8. [Introduction to Electronics](https://youtube.com/playlist?list=PLTFMW-rP7fuqMiK174et4SKbbMKd4VjdU).
-9. [Machine Learning for signal Processing](https://youtube.com/playlist?list=PLbtAaXHMto-sQHH1qrYn8_D9Fze_D1KhE).
-10. [Speech Signal Processing](https://youtube.com/playlist?list=PLbtAaXHMto-vzaMTNKdCAUlDbnVkGSazj).
+
+9. [Basics of Electrical Engineering](https://youtube.com/playlist?list=PLRU_w6H3xAm67fhJ88oX2z07-AgEv1eYf).
+10. [Introduction to Electronics](https://youtube.com/playlist?list=PLTFMW-rP7fuqMiK174et4SKbbMKd4VjdU).
+11. [Machine Learning for signal Processing](https://youtube.com/playlist?list=PLbtAaXHMto-sQHH1qrYn8_D9Fze_D1KhE).
+12. [Speech Signal Processing](https://youtube.com/playlist?list=PLbtAaXHMto-vzaMTNKdCAUlDbnVkGSazj).
+7. [Basic Electronics Course](https://www.youtube.com/watch?v=lFCMYEmfgzU&list=PLTFMW-rP7fuqMiK174et4SKbbMKd4VjdU)
+8. [MicroElectronics Course](https://www.youtube.com/watch?v=366BVdmcUxk&list=PLLy_2iUCG87C-GS7B4vJ37Iz3fevmYU1h)
 
 ## ME Resources <a name="education"></a>
 
@@ -108,7 +119,10 @@ If the PR is not according to the guidelines then it will not be accepted.
 9. [Thermodynamics: Intro to Heat & Temp Playlist](https://www.youtube.com/watch?v=zd-FjMksimw&list=PLX2gX-ftPVXXJUbbkyV6PoMPYM0gosaAS).
 10. [Heat Transfer Playlist](https://www.youtube.com/watch?v=gihhKTViHW0&list=PL_ZIJMd-rNhUApP0SuawDkIP4muI6QbPV).
 11. [Fluid Mechanics Playlist](https://www.youtube.com/watch?v=DL6QRTySWGs&list=PLj6j6tB7jyr9BBGP6-LRzkgGyz8IYBzQw).
-12. [Engineering Drawing](https://youtube.com/playlist?list=PLbMVogVj5nJRgBjyxu0PfH3Ucdq_mDo4o).
+12. [Dynamic Mechanics](https://www.youtube.com/watch?v=ohgJ9r_N1tk&list=PLk2-n0KUguzJFGp8B00a675OIgfYWoXYk).
+13. [Engineering Drawing](https://youtube.com/playlist?list=PLbMVogVj5nJRgBjyxu0PfH3Ucdq_mDo4o).
+
+
 
 ## Machine Learning Resources <a name="machine-learning"></a>
 
@@ -121,6 +135,7 @@ If the PR is not according to the guidelines then it will not be accepted.
 7. [Josh Starmer's Machine Learning Playlist](https://www.youtube.com/watch?v=Gv9_4yMHFhI&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF)
 8. [100 Days of Machine Learning](https://www.youtube.com/watch?v=ZftI2fEz0Fw&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH)
 9. [Machine Learning Course by Andrew NG](https://see.stanford.edu/Course/CS229)
+10. [Deep Learning with PyTorch Course](https://www.udacity.com/course/deep-learning-pytorch--ud188)
 
 ## Competitive Programming <a name="competitive-programming"></a>
 
@@ -140,6 +155,12 @@ If the PR is not according to the guidelines then it will not be accepted.
 12. [Segment Tree](https://youtube.com/playlist?list=PL-Jc9J83PIiFY1445K_x1M_O3j9kr3FII).
 12. [CSES Problem Set](https://cses.fi/problemset/).
 12. [Number Theory for Competitive Programming](https://youtube.com/playlist?list=PLauivoElc3giVROwL-6g9hO-LlSen_NaV).
+13. [CP Ladder CodeForces](https://earthshakira.github.io/a2oj-clientside/server/Ladders.html)
+14. [Introduction to Programming Contests by Stanford University](https://stanford.edu/class/cs97si/).
+15. [Hitchhiker’s Guide to the Programming Contests](http://comscigate.com/Books/contests/icpc.pdf).
+16. [Competitive Programming Course by Reykjavik University](https://algo.is/competitive-programming-course/)
+17. [Collection of the best tutorials for CP (Codeforces)](http://codeforces.com/blog/entry/57282)
+18. [Algorithms book by Jeff Erickson (University of Illinois)](http://jeffe.cs.illinois.edu/teaching/algorithms/)
 
 ## Web Development <a name="web-development"></a>
 
@@ -148,6 +169,7 @@ If the PR is not according to the guidelines then it will not be accepted.
 1. [Learn HTML](https://www.youtube.com/watch?v=kUMe1FH4CHE).
 2. [Step-by-step guide to learn HTML](https://htmldog.com/guides/html/).
 3. [HTML References](https://htmldog.com/references/html/).
+4. [HTML Full course](https://www.youtube.com/watch?v=BsDoLVMnmZs)
 
 ### CSS <a name="css"></a>
 
@@ -158,6 +180,11 @@ If the PR is not according to the guidelines then it will not be accepted.
 5. [Step-by-step guide to learn CSS](https://htmldog.com/guides/css/).
 6. [CSS References](https://htmldog.com/references/css/).
 7. [Grid Garden](https://cssgridgarden.com/)
+8. [CSS Full course](https://www.youtube.com/watch?v=Edsxf_NBFrw&t=17808s)
+
+### SASS <a name="sass"></a>
+
+1. [SASS full playlist](https://www.youtube.com/playlist?list=PL0b6OzIxLPbwX4_pV5V2E8q0_RAZqOOMv)
 
 ### Bootstrap <a name="bootstrap"></a>
 
@@ -184,6 +211,7 @@ If the PR is not according to the guidelines then it will not be accepted.
 5. [fullstack open](https://fullstackopen.com/en/)
 6. [You Dont Know JS yet](https://github.com/getify/You-Dont-Know-JS)
 7. [JavaScript Beginner Tutorial](https://htmldog.com/guides/javascript/).
+8. [JavaScript Full course](https://www.youtube.com/playlist?list=PLu0W_9lII9ahR1blWXxgSlL4y9iQBnLpR)
 
 ### React <a name="react"></a>
 
@@ -193,6 +221,19 @@ If the PR is not according to the guidelines then it will not be accepted.
 4.  [React Redux Tutorials by Codevolution](https://www.youtube.com/watch?v=9boMnm5X9ak&list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK).
 5.  [Learn React](https://scrimba.com/learn/learnreact).
 6.  checkout courses on udemy .
+7.  [React.js Full course](https://www.youtube.com/playlist?list=PLu0W_9lII9agx66oZnT6IyhcMIbUMNMdt)
+
+### Node.js <a name="node.js"></a>
+
+1. [Node.js full course](https://www.youtube.com/watch?v=VrQgmNY96wo)
+
+### Express.js <a name="express.js"></a>
+
+1. [Express.js full course](https://www.youtube.com/playlist?list=PLbGui_ZYuhigerSlDF_v1t1mM2iGomXnq)
+
+### MongoDB <a name="mongodb"></a>
+
+1. [MongoDB full course](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOFJ9JcVW9u4PlSWO-VFoao)
 
 ### Git and Github <a name="git-and-github"></a>
 
@@ -216,6 +257,7 @@ If the PR is not according to the guidelines then it will not be accepted.
 2.  [Next.js tutorial (freeCodeCamp.org)](https://www.youtube.com/watch?v=1WmNXEVia8I).
 3.  [Next.js tutorial for Beginners](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH).
 4.  [Next.js tutorial in Hindi](https://www.youtube.com/playlist?list=PLwGdqUZWnOp2rDbpfKAeUi9f8qZMS7_cv).
+5.  [Next.js full course](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH).
 
 ### AngularJS <a name="angularjs"></a>
 
@@ -331,6 +373,11 @@ If the PR is not according to the guidelines then it will not be accepted.
 8. [Computerphile](https://www.youtube.com/user/Computerphile)<br/>
 9. [TheHackerStuff](https://www.youtube.com/c/TheHackerStuff)<br/>
 10. [HackerSploit](https://www.youtube.com/c/HackerSploit)<br/>
+11. [The Cyber Mentor](https://www.youtube.com/c/TheCyberMentor)<br/>
+12. [Prof.Messer](https://www.youtube.com/c/professormesser)<br/>
+13. [David Bombal](https://www.youtube.com/c/DavidBombal)<br/>
+14. [Boyd Clewis](https://www.youtube.com/c/MrBclewis)<br/>
+15. [Cyber Spatial](https://www.youtube.com/c/Cyberspatial)<br/>
 
 ## Shell Scripting <a name="shell-scripting"></a>
 
