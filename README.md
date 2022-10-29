@@ -9,7 +9,6 @@ List of resources and project samples for Engineering Students
   - [Introduction](#introduction)
   - [Student Offers <a name="student-programs"></a>](#student-offers-)
   - [CS Resources <a name="education"></a>](#cs-resources-)
-  - [Core Subject of CSE <a name="education"></a>](#cse-resources-)
   - [EE Resources <a name="education"></a>](#ee-resources-)
   - [ME Resources <a name="education"></a>](#me-resources-)
   - [CHE Resources <a name="education"></a>](#che-resources-)
@@ -67,14 +66,6 @@ If the PR is not according to the guidelines then it will not be accepted.
 19. [Apna College](https://www.youtube.com/c/ApnaCollegeOfficial/playlists).
 20. [Data Structures and Algorithms in Java](https://www.youtube.com/watch?v=6iCHf7OZn6c&list=PL6Zs6LgrJj3tDXv8a_elC6eT_4R5gfX4d)
 21. [Data Structures Easy to Advanced Course-FreeCodeCamp](https://www.youtube.com/watch?v=RBSGKlAvoiM)
-
-
-## Cse Resources <a name="education"></a>
-1. [Design and analysis of Algorithm](https://youtu.be/twE1eiO7gEE)
-2. [Theory of Computation](https://youtu.be/TpIBUeyOuv8)
-3. [Decrete Mathematics](https://youtube.com/playlist?list=PL0862D1A947252D20)
-4. [Computer graphics](https://youtu.be/VzRIUFEXKko )
-5. [cryptograhy And Network Security](https://youtube.com/playlist?list=PL9FuOtXibFjV77w2eyil4Xzp8eooqsPp8)
 
 
 ## EE Resources <a name="education"></a>
@@ -291,6 +282,18 @@ Flutter
 10. [Programming in MATLAB by NPTEL](https://www.youtube.com/playlist?list=PLRWKj4sFG7-6_Xr9yqg6SMr_F80KdFVhN)
 11. [Software Engineering Playlist by Sanchit Jain (Hindi)](https://www.youtube.com/playlist?list=PLomWmd9eRGvrT9XAfwxdWTnrgACqkSFRD)
 12. [Software Engineering Playlist by Gate Smashers (Hindi)](https://www.youtube.com/playlist?list=PLxCzCOWd7aiEed7SKZBnC6ypFDWYLRvB2)
+13. [Design and analysis of Algorithm](https://youtu.be/twE1eiO7gEE)
+14. [Theory of Computation](https://youtu.be/TpIBUeyOuv8)
+15. [Decrete Mathematics](https://youtube.com/playlist?list=PL0862D1A947252D20)
+16. [Computer graphics](https://youtu.be/VzRIUFEXKko )
+17. [cryptograhy And Network Security](https://youtube.com/playlist?list=PL9FuOtXibFjV77w2eyil4Xzp8eooqsPp8)
+
+
+
+
+
+
+
 
 ## Cyber Security Resources <a name="cyber-security-resources"></a>
 
