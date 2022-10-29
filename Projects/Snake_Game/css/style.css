@@ -1,0 +1,76 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.body{
+    background: url("../bg.jpg");
+    min-height: 100vh;
+    background-size: 100vw 100vh;
+    background-repeat: no-repeat;
+    display: inline;
+    display:flex;
+    justify-content:center;
+    align-items: center
+}
+#board{
+    background:linear-gradient(rgb(0, 0, 0),rgb(0, 0, 0));
+    width: 90vmin;
+    height:90vmin;
+    border:8px solid rgb(255, 239, 239);
+    display:grid;
+    grid-template-rows: repeat(36,18px);
+    grid-template-columns: repeat(36,18px);
+    position: sticky;
+    color:white;
+}
+#btn1{
+  position:absolute;
+  top: 90px;
+  left: 145px;
+  font-size: 50px;
+  border:4px solid black;
+  background-color:white;
+}
+#scorebox{
+    position:absolute;
+    top: 90px;
+    right: 145px;
+    font-size: 50px;
+    border:4px solid black;
+    background-color:white;
+    padding-right: 33px;
+    
+}
+#highscorebox{
+    position:absolute;
+    top: 190px;
+    right: 48px;
+    font-size: 50px;
+    border:4px solid black;
+    background-color:white;
+    padding-right: 33px;
+
+}
+.snakebody{
+    background:rgb(223, 158, 53);
+    border-radius: 4px;
+
+}
+.snakehead{
+    display:inline;
+    background:linear-gradient(yellow,rgb(224, 93, 5));
+    transform:scale(1.15);
+    border-radius: 4px;
+
+}
+
+.food{
+    background:red;
+    border-radius: 8px;
+}
+
+.fun{
+    position:relative;
+    height: 34px;
+    width:34px;
+}
