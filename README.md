@@ -47,6 +47,7 @@ List of resources and project samples for Engineering Students
   - [Object Oriented Programming <a name="object-oriented-programming"></a>](#object-oriented-programming-)
   - [Blockchain <a name="blockchain"></a>](#blockchain-)
   - [Computer Network <a name="computer-network"></a>](#computer-network-)
+  - [Job Updates- Social Media Handles <a name="job-updates"></a>] (#job-updates-)
   
 
 ## Introduction
@@ -466,3 +467,10 @@ If the PR is not according to the guidelines then it will not be accepted.
 6. [Computer Network- Education 4u](https://youtube.com/playlist?list=PLrjkTql3jnm-iqlEOuVTkmCaRP8F2H3-u)<br/>
 7. [Data Communication and Networks - Unacademy Computer Science](https://youtube.com/playlist?list=PLG9aCp4uE-s325FSHTzzD51k2Kl6vt4fT)<br/>
 8. [Data Communication - NPTEL IIT KHARAGPUR](https://youtube.com/playlist?list=PLUtfVcb-iqn8dG1-Cn7NTEdILR3hRVgcN)<br/>
+
+
+## Job Updates- Social Media Handles <a name="job-updates"></a>
+
+1. [jobs_with_sardarji](https://www.instagram.com/jobs_with_sardarji/)
+2. [Shivangi Mishra | Job Updates](https://www.instagram.com/jobs.for.engineers/)
+3. [THE JOB COMPANY | Mansi](https://www.instagram.com/thejob.company/)
