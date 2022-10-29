@@ -224,6 +224,8 @@ If the PR is not according to the guidelines then it will not be accepted.
 5.  [Learn React](https://scrimba.com/learn/learnreact).
 6.  checkout courses on udemy .
 7.  [React.js Full course](https://www.youtube.com/playlist?list=PLu0W_9lII9agx66oZnT6IyhcMIbUMNMdt)
+8.  [React Beta Docs](https://beta.reactjs.org/)
+9.  
 
 ### Node.js <a name="node.js"></a>
 
