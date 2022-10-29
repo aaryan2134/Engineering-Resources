@@ -440,6 +440,8 @@ If the PR is not according to the guidelines then it will not be accepted.
 4. [Master Web3js Library (Ethereum) by Code Eater](https://www.youtube.com/watch?v=u3PtGMRmGA0&list=PLgPmWS2dQHW-cdHYZQmpAalgSp-xv_ewY&index=5&ab_channel=CodeEater)
 5. [Create your NFT from Scratch](https://www.youtube.com/watch?v=hKuInl4SxZ8)
 6. [Complete Blockchain Development Roadmap by Anuj Bhaiya](https://www.youtube.com/watch?v=n_5oeZWbseY)
+7. [Build your own Blockchain in 15 minutes](https://www.youtube.com/watch?v=kaMJi6ezTnI&ab_channel=CodeEater)
+
 
 ## Object Oriented Programming <a name="object-oriented-programming"></a>
 
