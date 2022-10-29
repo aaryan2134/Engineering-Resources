@@ -91,6 +91,7 @@ If the PR is not according to the guidelines then it will not be accepted.
 24. [Data structures All topics with question](https://www.youtube.com/c/TECHDOSE4u/playlists)
 
 
+
 ## EE Resources <a name="education"></a>
 
 1. [Electrical Machines Playlist](https://www.youtube.com/watch?v=PmBqB-4hgW4&list=PLs5_Rtf2P2r5YY5b23uDGrtpo42ezMmGp).
@@ -363,6 +364,18 @@ If the PR is not according to the guidelines then it will not be accepted.
 10. [Programming in MATLAB by NPTEL](https://www.youtube.com/playlist?list=PLRWKj4sFG7-6_Xr9yqg6SMr_F80KdFVhN)
 11. [Software Engineering Playlist by Sanchit Jain (Hindi)](https://www.youtube.com/playlist?list=PLomWmd9eRGvrT9XAfwxdWTnrgACqkSFRD)
 12. [Software Engineering Playlist by Gate Smashers (Hindi)](https://www.youtube.com/playlist?list=PLxCzCOWd7aiEed7SKZBnC6ypFDWYLRvB2)
+13. [Design and analysis of Algorithm](https://youtu.be/twE1eiO7gEE)
+14. [Theory of Computation](https://youtu.be/TpIBUeyOuv8)
+15. [Decrete Mathematics](https://youtube.com/playlist?list=PL0862D1A947252D20)
+16. [Computer graphics](https://youtu.be/VzRIUFEXKko )
+17. [cryptograhy And Network Security](https://youtube.com/playlist?list=PL9FuOtXibFjV77w2eyil4Xzp8eooqsPp8)
+
+
+
+
+
+
+
 
 ## Cyber Security Resources <a name="cyber-security-resources"></a>
 
