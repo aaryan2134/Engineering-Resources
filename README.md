@@ -2,7 +2,7 @@
 
 List of resources and project samples for Engineering Students
 
-## Contents
+  ## Contents
 
   - [Engineering Resources](#engineering-resources)
   - [Contents](#contents)
@@ -46,12 +46,12 @@ List of resources and project samples for Engineering Students
   - [Computer Network <a name="computer-network"></a>](#computer-network-)
   
 
-## Introduction
+   ## Introduction
 
 This is a list of resources for engineering students. This list is maintained by students for students. If you wish to contribute, please read the [contributing guidelines](CONTRIBUTING.md).
 If the PR is not according to the guidelines then it will not be accepted.
 
-## Student Offers <a name="student-programs"></a>
+   ## Student Offers <a name="student-programs"></a>
 
 1. [Github Student Pack](https://education.github.com/pack) - A pack of free software and services for students.
 2. [Jetbrains Student Pack](https://www.jetbrains.com/student/) - A pack of free software and services for students.
@@ -59,7 +59,7 @@ If the PR is not according to the guidelines then it will not be accepted.
 4. [AWS Educate](https://aws.amazon.com/education/awseducate/) - Free AWS credits for students.
 5. [Digital Ocean Student Pack](https://www.digitalocean.com/community/tutorials/how-to-claim-your-free-digitalocean-student-credits) - Free Digital Ocean credits      for students.
 
-## CS Resources <a name="education"></a>
+   ## CS Resources <a name="education"></a>
 
 1. [Data Structures Playlist](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P).
 2. [Harvard CS50x](https://cs50.harvard.edu).
@@ -84,7 +84,7 @@ If the PR is not according to the guidelines then it will not be accepted.
 21.[Data Structures Easy to Advanced Course-FreeCodeCamp](https://www.youtube.com/watch?v=RBSGKlAvoiM)
 22.[Data structures All topics with question](https://www.youtube.com/c/TECHDOSE4u/playlists)
 
-## EE Resources <a name="education"></a>
+   ## EE Resources <a name="education"></a>
 
 1. [Electrical Machines Playlist](https://www.youtube.com/watch?v=PmBqB-4hgW4&list=PLs5_Rtf2P2r5YY5b23uDGrtpo42ezMmGp).
 2. [Power System Playlist](https://www.youtube.com/watch?v=zeSEFsR-jZA&list=PLs5_Rtf2P2r5tl_TgUqApSbUX720qkBTL).
@@ -95,7 +95,7 @@ If the PR is not according to the guidelines then it will not be accepted.
 7. [Basic Electronics Course](https://www.youtube.com/watch?v=lFCMYEmfgzU&list=PLTFMW-rP7fuqMiK174et4SKbbMKd4VjdU)
 8. [MicroElectronics Course](https://www.youtube.com/watch?v=366BVdmcUxk&list=PLLy_2iUCG87C-GS7B4vJ37Iz3fevmYU1h)
 
-## ME Resources <a name="education"></a>
+   ## ME Resources <a name="education"></a>
 
 1. [Engineering Physics Playlist](https://www.youtube.com/watch?v=7anz9qHLbIQ&list=PL-JvKqQx2Atc-7gw0SglqTajukZhc6Azu).
 2. [FLUID MECHANCS PLAYLIST](https://www.youtube.com/watch?v=iTanaNwMDKo&list=PL9RcWoqXmzaLnlGN39w2-1jyFyI_ALVa3).
@@ -110,7 +110,7 @@ If the PR is not according to the guidelines then it will not be accepted.
 11.[Fluid Mechanics Playlist](https://www.youtube.com/watch?v=DL6QRTySWGs&list=PLj6j6tB7jyr9BBGP6-LRzkgGyz8IYBzQw).
 12.[Dynamic Mechanics](https://www.youtube.com/watch?v=ohgJ9r_N1tk&list=PLk2-n0KUguzJFGp8B00a675OIgfYWoXYk).
 
-## Machine Learning Resources <a name="machine-learning"></a>
+   ## Machine Learning Resources <a name="machine-learning"></a>
 
 1. [Google's Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/ml-intro)
 2. [Krish Naik's Machine Learning Playlist](https://www.youtube.com/watch?v=bPrmA1SEN2k&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&ab_channel=KrishNaik)
@@ -123,7 +123,7 @@ If the PR is not according to the guidelines then it will not be accepted.
 9. [Machine Learning Course by Andrew NG](https://see.stanford.edu/Course/CS229)
 10.[Deep Learning with PyTorch Course](https://www.udacity.com/course/deep-learning-pytorch--ud188)
 
-## Competitive Programming <a name="competitive-programming"></a>
+   ## Competitive Programming <a name="competitive-programming"></a>
 
 1. [CP playlist (Hindi) by Luv ](https://www.youtube.com/playlist?list=PLauivoElc3ggagradg8MfOZreCMmXMmJ-)
 2. [CP playlist (English) by ProgrammingWithHarry ](https://www.youtube.com/watch?v=_MF8L7ZxwRE)
@@ -148,16 +148,15 @@ If the PR is not according to the guidelines then it will not be accepted.
 17.[Collection of the best tutorials for CP (Codeforces)](http://codeforces.com/blog/entry/57282)
 18.[Algorithms book by Jeff Erickson (University of Illinois)](http://jeffe.cs.illinois.edu/teaching/algorithms/)
 
-## Web Development <a name="web-development"></a>
-
-### HTML <a name="html"></a>
+   ## Web Development <a name="web-development"></a>
+   ### HTML <a name="html"></a>
 
 1. [Learn HTML](https://www.youtube.com/watch?v=kUMe1FH4CHE).
 2. [Step-by-step guide to learn HTML](https://htmldog.com/guides/html/).
 3. [HTML References](https://htmldog.com/references/html/).
 4. [HTML Full course](https://www.youtube.com/watch?v=BsDoLVMnmZs)
 
-### CSS <a name="css"></a>
+   ### CSS <a name="css"></a>
 
 1. [CSS](https://www.youtube.com/watch?v=1Rs2ND1ryYc&t=15526s).
 2. [CSS for amazing tricks and tips](https://www.youtube.com/kepowob).
@@ -168,11 +167,11 @@ If the PR is not according to the guidelines then it will not be accepted.
 7. [Grid Garden](https://cssgridgarden.com/)
 8. [CSS Full course](https://www.youtube.com/watch?v=Edsxf_NBFrw&t=17808s)
 
-### SASS <a name="sass"></a>
+   ### SASS <a name="sass"></a>
 
 1. [SASS full playlist](https://www.youtube.com/playlist?list=PL0b6OzIxLPbwX4_pV5V2E8q0_RAZqOOMv)
 
-### Bootstrap <a name="bootstrap"></a>
+   ### Bootstrap <a name="bootstrap"></a>
 
 1. [Bootstrap course for beginners by Free Code Camp](https://www.youtube.com/watch?v=-qfEOE4vtxE&ab_channel=freeCodeCamp.org).
 2. [Bootstrap tutorial in hindi by Code With Harry](https://www.youtube.com/watch?v=vpAJ0s5S2t0&ab_channel=CodeWithHarry).
@@ -180,7 +179,7 @@ If the PR is not according to the guidelines then it will not be accepted.
 4. [Bootstrap 5 tutorial by w3schools](https://www.w3schools.com/bootstrap5/index.php).
 5. [Bootstrap docs](https://getbootstrap.com/).
 
-### Tailwind CSS <a name="tailwind-css"></a>
+   ### Tailwind CSS <a name="tailwind-css"></a>
 
 1. [Tailwind crash course by Traversy Media](https://www.youtube.com/watch?v=dFgzHOX84xQ&ab_channel=TraversyMedia).
 2. [Tailwind tutorial in hindi by Code With Harry](https://www.youtube.com/playlist?list=PLu0W_9lII9ahwFDuExCpPFHAK829Wto2O).
@@ -188,7 +187,7 @@ If the PR is not according to the guidelines then it will not be accepted.
 4. [Tailwind CSS by Geeks for Geeks](https://www.geeksforgeeks.org/introduction-to-tailwind-css/).
 5. [Tailwind CSS docs](https://tailwindcss.com/).
 
-### Javascript <a name="javascript"></a>
+   ### Javascript <a name="javascript"></a>
 
 1. [Javascript Documentation](https://javascript.info/)<br/>
 2. [Namaste Javascript by Akshay saini](https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP).
@@ -198,7 +197,7 @@ If the PR is not according to the guidelines then it will not be accepted.
 6. [You Dont Know JS yet](https://github.com/getify/You-Dont-Know-JS)
 7. [JavaScript Beginner Tutorial](https://htmldog.com/guides/javascript/).
 
-### React <a name="react"></a>
+    ### React <a name="react"></a>
 
 1.  [Best React course for beginner highly recommended](https://www.youtube.com/watch?v=bMknfKXIFA8&t=4s&ab_channel=freeCodeCamp.org).
 2.  [React tutorial by code evaluation ](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3).
@@ -207,48 +206,47 @@ If the PR is not according to the guidelines then it will not be accepted.
 5.  [Learn React](https://scrimba.com/learn/learnreact).
 6.  checkout courses on udemy .
 
-### Node.js <a name="node.js"></a>
+   ### Node.js <a name="node.js"></a>
 
 1. [Node.js full course](https://www.youtube.com/watch?v=VrQgmNY96wo)
 
-### Git and Github <a name="git-and-github"></a>
+    ### Git and Github <a name="git-and-github"></a>
 
 1.  [Git for beginners](https://www.youtube.com/playlist?list=PLozRqGzj97d02YjR5JVqDwN2K0cAiT7VK).
 2.  [Git and Github ](https://www.youtube.com/watch?v=apGV9Kg7ics).
 3.  [Git for professional](https://www.youtube.com/watch?v=Uszj_k0DGsg)
 4.  [Git cheatsheet by GitHub](https://education.github.com/git-cheat-sheet-education.pdf)
 
-### SQL <a name="sql"></a>
+    ### SQL <a name="sql"></a>
 
 1.  [PostgreSQL](https://www.youtube.com/watch?v=qw--VYLpxG4).
 2.  [MySQL ](https://www.w3schools.com/mySQl/default.asp).
 
-### API <a name="api"></a>
+    ### API <a name="api"></a>
 
 1.  [PostgreSQL](https://www.youtube.com/watch?v=GZvSYJDk-us).
-
-### NextJS <a name="nextjs"></a>
+ 
+    ### NextJS <a name="nextjs"></a>
 
 1.  [Next.js Documentation](https://www.w3schools.io/learn/nextjs-tutorial/).
 2.  [Next.js tutorial (freeCodeCamp.org)](https://www.youtube.com/watch?v=1WmNXEVia8I).
 3.  [Next.js tutorial for Beginners](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH).
 4.  [Next.js tutorial in Hindi](https://www.youtube.com/playlist?list=PLwGdqUZWnOp2rDbpfKAeUi9f8qZMS7_cv).
 
-### AngularJS <a name="angularjs"></a>
+    ### AngularJS <a name="angularjs"></a>
 
 1.  [Angular.js Documentation](https://docs.angularjs.org/guide).
 2.  [Angular.js tutorial for Beginners (Programming with Mosh)](https://www.youtube.com/watch?v=k5E2AVpwsko).
 3.  [Angular.js tutorial in Hindi](https://www.youtube.com/watch?v=0LhBvp8qpro).
 4.  [Angular.js complete tutorial (freeCodeCamp.org)](https://www.youtube.com/watch?v=2OHbjep_WjQ)
 
-### Django <a name="django"></a>
+    ### Django <a name="django"></a>
 
 1.  [BDjango comprehensive video rsource](https://www.youtube.com/watch?v=F5mRW0jo-U4).
 2.  [Django Documentation ](https://docs.djangoproject.com/en/4.1/).
 3.  checkout courses on udemy .
 
-
-### Flutter <a name="flutter"></a>
+   ### Flutter <a name="flutter"></a>
 
 1. [Flutter original documentation](https://docs.flutter.dev/)
 2. [Dart language](https://www.youtube.com/watch?v=5xlVP04905w)
@@ -258,7 +256,7 @@ If the PR is not according to the guidelines then it will not be accepted.
 6. [Flutter Cheatsheet](https://navoki.com/flutter-commands-a-developer-must-know-cheat-sheet/).
 7. [Flutter Tutorials for Beginners](https://www.youtube.com/watch?v=pTJJsmejUOQ).
 
-## Database Management System <a name="Database-Management-System"></a>
+   ## Database Management System <a name="Database-Management-System"></a>
 
 1. [DBMS playlist (Hindi) by Gate Smasher ](https://www.youtube.com/playlist?list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y)
 2. [DBMS playlist (English) by Neso Academy ](https://www.youtube.com/playlist?list=PLBlnK6fEyqRi_CUQ-FXxgzKQ1dwr_ZJWZ)
@@ -266,7 +264,7 @@ If the PR is not according to the guidelines then it will not be accepted.
 4. [DBMS Cheatsheet by Interviewbit](https://drive.google.com/file/d/1UvK-mULAirwcyT2K2S0DMev_BF40d1mW/view?usp=sharing)
 5. [DBMS Articles by Tutorialspoint](https://www.tutorialspoint.com/dbms/index.htm)
 
-## MySQL <a name="mysql"></a>
+   ## MySQL <a name="mysql"></a>
 
 1. [MySQL Documentation](https://dev.mysql.com/doc/)
 2. [MySQL Tutorial for Beginners (freeCodeCamp.org)](https://www.youtube.com/watch?v=HXV3zeQKqGY)
@@ -275,7 +273,7 @@ If the PR is not according to the guidelines then it will not be accepted.
 5. [MySQL Workbench Tutorial](https://www.youtube.com/watch?v=fUK94jOFwBc)
 6. [MySQL Advanced Tutorial](https://www.youtube.com/playlist?list=PLxQQRFTQ3zeCeFJoolWK2IWq4g8Z1Wemr)
 
-## Java Programming <a name="java-programming"></a>
+   ## Java Programming <a name="java-programming"></a>
 
 1. [Java Documentation](https://dev.java/learn/)<br/>
 2. [Core Java Tutorial for Beginners](https://www.youtube.com/watch?v=8cm1x4bC610)
@@ -284,7 +282,7 @@ If the PR is not according to the guidelines then it will not be accepted.
 5. [Hibernate Tutorial](https://www.youtube.com/playlist?list=PL4AFF701184976B25)
 6. [Spring Boot Quick Start](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTbx8p2oCgcAQGQyqN8XeA1x)
 
-## Kotlin Programming <a name="kotlin-programming"></a>
+   ## Kotlin Programming <a name="kotlin-programming"></a>
 
 1. [Kotlin Documentation](https://kotlinlang.org/docs/home.html)<br/>
 2. [Kotlin Tutorial for beginners (Hindi)](https://www.youtube.com/playlist?list=PLRKyZvuMYSIMW3-rSOGCkPlO1z_IYJy3G)
@@ -293,7 +291,7 @@ If the PR is not according to the guidelines then it will not be accepted.
 5. [Kotlin for server-side Development](https://www.youtube.com/playlist?list=PLlFc5cFwUnmx-dpq9nkdaVJX0GnrM1Mp1)
 6. [Android Application Development using Kotlin: Beginners Tutorials](https://www.youtube.com/playlist?list=PLlxmoA0rQ-Lw5k_QCqVl3rsoJOnb_00UV)
 
-## R Programming <a name="r-programming"></a>
+   ## R Programming <a name="r-programming"></a>
 
 1. [R Documentation](https://www.r-project.org/other-docs.html)<br/>
 2. [R Tutorial for beginners by freeCodeCamp.org](https://www.youtube.com/watch?v=_V8eKsto3Ug)
@@ -302,7 +300,7 @@ If the PR is not according to the guidelines then it will not be accepted.
 5. [Data Science using R](https://www.youtube.com/watch?v=iROHLA_TXQM)
 6. [Basic Analytical Techniques with R](https://www.youtube.com/watch?v=rqrrTfy-z-c)
 
-## Operating-System <a name="Operating-System"></a>
+   ## Operating-System <a name="Operating-System"></a>
 
 1. [Operating System Playlist by Gate Smashers (Hindi) ](https://youtube.com/playlist?list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p)
 2. [Operating System Playlist by Neso Academy (English)](https://youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O)
@@ -310,7 +308,7 @@ If the PR is not according to the guidelines then it will not be accepted.
 4. [Operating System Notes of Gate Smashers Playlist ](https://drive.google.com/file/d/1Qpc_gzY-M0mCLU9Nm6rZdycOkqvHBYPD/view)
 5. [operating System Sheet by Arsh Goyal ](https://docs.google.com/document/d/1QwJwTH85QtxIOq-mRb3kPequDnD5qy54HS_UU_hEbOw/edit)
 
-## Links to College Subjects <a name="college-subjects"></a>
+   ## Links to College Subjects <a name="college-subjects"></a>
 
 1. [Compiler Design Playlist by Neso Academy (English)](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjT3oJxFXRgjPNzeS-LFY-q)
 2. [Compiler Design Playlist by Unacademy (English)](https://www.youtube.com/playlist?list=PLG9aCp4uE-s1NGf_6tQbDBsjLRjquKBE1)
@@ -325,19 +323,21 @@ If the PR is not according to the guidelines then it will not be accepted.
 11.[Software Engineering Playlist by Sanchit Jain (Hindi)](https://www.youtube.com/playlist?list=PLomWmd9eRGvrT9XAfwxdWTnrgACqkSFRD)
 12.[Software Engineering Playlist by Gate Smashers (Hindi)](https://www.youtube.com/playlist?list=PLxCzCOWd7aiEed7SKZBnC6ypFDWYLRvB2)
 
-## Cyber Security Resources <a name="cyber-security-resources"></a>
+   ## Cyber Security Resources <a name="cyber-security-resources"></a>
+   ### Must:
 
-### Must:
 1. [PicoCTF](https://picoctf.org/)<br/>
 2. [The Web in Depth](https://www.hacker101.com/sessions/web_in_depth)<br/>
 3. [Digital Ocean - Networking Basics](https://www.digitalocean.com/community/tutorials/an-introduction-to-networking-terminology-interfaces-and-protocols)
 
-### Free Resources:
+   ### Free Resources:
+   
 1. [TryHackMe](https://tryhackme.com/about)<br/>
 2. [HACKTHEBOX](https://www.hackthebox.com/)<br/>
 3. [CyberAces](https://www.sans.org/cyberaces/)<br/>
 
-### Youtube Playlists:
+   ### Youtube Playlists:
+
 1. [Webroot](https://www.youtube.com/user/WebrootSoftware)<br/>
 2. [The PC Security Channel](https://www.youtube.com/c/thepcsecuritychannel)<br/>
 3. [Kaspersky](https://www.youtube.com/c/KasperskyLab/playlists)<br/>
@@ -354,7 +354,7 @@ If the PR is not according to the guidelines then it will not be accepted.
 14.[Boyd Clewis](https://www.youtube.com/c/MrBclewis)<br/>
 15.[Cyber Spatial](https://www.youtube.com/c/Cyberspatial)<br/>
 
-## Shell Scripting <a name="shell-scripting"></a>
+   ## Shell Scripting <a name="shell-scripting"></a>
 
 1. [Shell Scripting Tutorial for Beginners](https://www.youtube.com/watch?v=cQepf9fY6cE&list=PLS1QulWo1RIYmaxcEqw5JhK3b-6rgdWO_)<br/>
 2. [Basic Shell Scripting by Hackerspoilt](https://www.youtube.com/playlist?list=PLBf0hzazHTGMJzHon4YXGscxUvsFpxrZT)<br/>
@@ -365,7 +365,7 @@ If the PR is not according to the guidelines then it will not be accepted.
 7. [Shell Script Tutorials by Gaurav Sharma](https://www.youtube.com/playlist?list=PL6XT0grm_TfgvfQH58GEoEZrTyVl0ABnH)<br/>
 8. [Shell Script Complete Tutorials CyberSpoilt](https://www.youtube.com/playlist?list=PL9A0tISr5Ow5nZSY8-ICNAyXHJKesl_XL)<br/>
 
-## App Development <a name="app-development"></a>
+   ## App Development <a name="app-development"></a>
 
 1. [Android App Development for Beginners by Free Code Camp](https://www.youtube.com/watch?v=fis26HvvDII&ab_channel=freeCodeCamp.org)
 2. [Android Development Tutorials in Hindi by Code with Harry](https://www.youtube.com/playlist?list=PLu0W_9lII9aiL0kysYlfSOUgY5rNlOhUd)
@@ -373,7 +373,7 @@ If the PR is not according to the guidelines then it will not be accepted.
 4. [Learn Android Application Development by Udemy](https://www.udemy.com/course/learn-android-application-development-y/)
 5. [Developing Android Apps by Udacity](https://www.udacity.com/course/new-android-fundamentals--ud851)
 
-## DEV OPS <a name="dev-ops"></a>
+   ## DEV OPS <a name="dev-ops"></a>
 
 1. [Simplilearn 9 hours DevOps Course](https://www.youtube.com/watch?v=lpk7VpGqkKw) <br/>
 2. [freeCodeCamp.org 2 hours DevOps Engineering Course](https://www.youtube.com/watch?v=j5Zsa_eOXeY) <br/>
@@ -382,7 +382,7 @@ If the PR is not according to the guidelines then it will not be accepted.
 5. [Kunal Kushwaha's DevOps Bootcamp](https://www.youtube.com/playlist?list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak) <br/>
 6. [Computer Networking 4 hours Course](https://www.youtube.com/watch?v=IPvYjXCsTg8)<br/>
 
-## Python <a name="python"></a>
+   ## Python <a name="python"></a>
 
 1. [Python tutorial by Programming with Mosh](https://www.youtube.com/watch?v=_uQrJ0TkZlc&ab_channel=ProgrammingwithMosh)
 2. [Python Tutorial for Beginners in Hindi by Code with Harry](https://www.youtube.com/watch?v=gfDE2a7MKjA&ab_channel=CodeWithHarry)
@@ -393,7 +393,7 @@ If the PR is not according to the guidelines then it will not be accepted.
 7. [Python Beginners guide](https://wiki.python.org/moin/BeginnersGuide/Programmers)
 
 
-## Blockchain <a name="blockchain"></a>
+    ## Blockchain <a name="blockchain"></a>
 
 1. [Solidity Full Course](https://www.youtube.com/watch?v=gsaapL1SEqg&list=PLgPmWS2dQHW9u6IXZq5t5GMQTpW7JL33i&ab_channel=CodeEater)
 2. [Solidity and Blockchain in Hindi by Pepcoding](https://www.youtube.com/watch?v=MERRq6GUQrI&list=PL-Jc9J83PIiG6_thChXWzolj9BEG-Y0gh&ab_channel=Pepcoding)
@@ -403,7 +403,7 @@ If the PR is not according to the guidelines then it will not be accepted.
 6. [Complete Blockchain Development Roadmap by Anuj Bhaiya](https://www.youtube.com/watch?v=n_5oeZWbseY)
 7. [Build your own Blockchain in 15 minutes](https://www.youtube.com/watch?v=n_5oeZWbseY)
 
-## Object Oriented Programming <a name="object-oriented-programming"></a>
+   ## Object Oriented Programming <a name="object-oriented-programming"></a>
 
 1. [Object Oriented Programming (JAVA)-Kunal Kushwaha](https://www.youtube.com/watch?v=BSVKUk58K6U&list=PL9gnSGHSqcno1G3XjUbwzXHL8_EttOuKk)</br>
 2. [OOPS for Interview(C++) - Helping Tutorials](https://www.youtube.com/watch?v=-TQ4c0ILhlA&list=PLCZJSEiJwWZ4XZFDktKqSV3vcAiau4xpV)<br/>
@@ -417,7 +417,7 @@ If the PR is not according to the guidelines then it will not be accepted.
 10.[OOPs in JAVA(JAVA) - Telusko](https://www.youtube.com/watch?v=bzRp16p48bY)</br>
 
 
-## Computer Network <a name="computer-network"></a>
+   ## Computer Network <a name="computer-network"></a>
 
 1. [Data communication and networking - Quick Learning](https://youtube.com/playlist?list=PLZQgf2pQtimlhO3UY6UJzIC7JVBzSbXXQ)<br/>
 2. [Data communication in networking - Learn Coding](https://youtu.be/QFjAY6yzMgo)<br/>
