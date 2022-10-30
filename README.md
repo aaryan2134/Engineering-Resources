@@ -20,6 +20,7 @@ List of resources and project samples for Engineering Students
     - [SASS <a name="sass"></a>](#sass-)
     - [Bootstrap <a name="bootstrap"></a>](#bootstrap-)
     - [Tailwind CSS <a name="tailwind-css"></a>](#tailwind-css-)
+    - [Material UI <a name="material-ui"></a>](#material-ui-)
     - [Javascript <a name="javascript"></a>](#javascript-)
     - [React <a name="react"></a>](#react-)
     - [Node.js <a name="node.js"></a>](#nodejs-)
@@ -47,7 +48,6 @@ List of resources and project samples for Engineering Students
   - [Object Oriented Programming <a name="object-oriented-programming"></a>](#object-oriented-programming-)
   - [Blockchain <a name="blockchain"></a>](#blockchain-)
   - [Computer Network <a name="computer-network"></a>](#computer-network-)
-  
 
 ## Introduction
 
@@ -153,16 +153,16 @@ If the PR is not according to the guidelines then it will not be accepted.
 10. [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1).
 11. [CP Algorithms](https://cp-algorithms.web.app/index.html).
 12. [Hong Kong Olympiad in Informatics Training Material](https://hkoi.org/en/training-materials/2022/).
-12. [Trie Series by take U forward](https://youtube.com/playlist?list=PLgUwDviBIf0pcIDCZnxhv0LkHf5KzG9zp).
-12. [Segment Tree](https://youtube.com/playlist?list=PL-Jc9J83PIiFY1445K_x1M_O3j9kr3FII).
-12. [CSES Problem Set](https://cses.fi/problemset/).
-12. [Number Theory for Competitive Programming](https://youtube.com/playlist?list=PLauivoElc3giVROwL-6g9hO-LlSen_NaV).
-13. [CP Ladder CodeForces](https://earthshakira.github.io/a2oj-clientside/server/Ladders.html)
-14. [Introduction to Programming Contests by Stanford University](https://stanford.edu/class/cs97si/).
-15. [Hitchhiker’s Guide to the Programming Contests](http://comscigate.com/Books/contests/icpc.pdf).
-16. [Competitive Programming Course by Reykjavik University](https://algo.is/competitive-programming-course/)
-17. [Collection of the best tutorials for CP (Codeforces)](http://codeforces.com/blog/entry/57282)
-18. [Algorithms book by Jeff Erickson (University of Illinois)](http://jeffe.cs.illinois.edu/teaching/algorithms/)
+13. [Trie Series by take U forward](https://youtube.com/playlist?list=PLgUwDviBIf0pcIDCZnxhv0LkHf5KzG9zp).
+14. [Segment Tree](https://youtube.com/playlist?list=PL-Jc9J83PIiFY1445K_x1M_O3j9kr3FII).
+15. [CSES Problem Set](https://cses.fi/problemset/).
+16. [Number Theory for Competitive Programming](https://youtube.com/playlist?list=PLauivoElc3giVROwL-6g9hO-LlSen_NaV).
+17. [CP Ladder CodeForces](https://earthshakira.github.io/a2oj-clientside/server/Ladders.html)
+18. [Introduction to Programming Contests by Stanford University](https://stanford.edu/class/cs97si/).
+19. [Hitchhiker’s Guide to the Programming Contests](http://comscigate.com/Books/contests/icpc.pdf).
+20. [Competitive Programming Course by Reykjavik University](https://algo.is/competitive-programming-course/)
+21. [Collection of the best tutorials for CP (Codeforces)](http://codeforces.com/blog/entry/57282)
+22. [Algorithms book by Jeff Erickson (University of Illinois)](http://jeffe.cs.illinois.edu/teaching/algorithms/)
 
 ## Web Development <a name="web-development"></a>
 
@@ -204,6 +204,15 @@ If the PR is not according to the guidelines then it will not be accepted.
 3. [Tailwind CSS tutorial by Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw).
 4. [Tailwind CSS by Geeks for Geeks](https://www.geeksforgeeks.org/introduction-to-tailwind-css/).
 5. [Tailwind CSS docs](https://tailwindcss.com/).
+
+### Material UI <a name="material-ui"></a>
+
+1. [Material UI (Official Website)](https://mui.com/).
+2. [Material UI (Official Documentation)](https://mui.com/material-ui/getting-started/overview/).
+3. [Material UI Notes by Tutorialspoint](https://www.tutorialspoint.com/reactjs/reactjs_material_ui.htm).
+4. [Material UI React Tutorial by Traversy Media](https://youtu.be/vyJU9efvUtQ).
+5. [Material UI Tutorial by JavaScript Mastery](https://www.youtube.com/watch?v=Xoz31I1FuiY).
+6. [Material UI Tutorial by Code Step By Step (in Hindi)](https://www.youtube.com/watch?v=GE9bRdg4NTQ&list=PL8p2I9GklV4722H3_nosmpdjNXIPuBUXm).
 
 ### Javascript <a name="javascript"></a>
 
@@ -275,7 +284,6 @@ If the PR is not according to the guidelines then it will not be accepted.
 1.  [BDjango comprehensive video rsource](https://www.youtube.com/watch?v=F5mRW0jo-U4).
 2.  [Django Documentation ](https://docs.djangoproject.com/en/4.1/).
 3.  checkout courses on udemy .
-
 
 ### Flutter <a name="flutter"></a>
 
@@ -381,16 +389,19 @@ If the PR is not according to the guidelines then it will not be accepted.
 ## Cyber Security Resources <a name="cyber-security-resources"></a>
 
 ### Must:
+
 1. [PicoCTF](https://picoctf.org/)<br/>
 2. [The Web in Depth](https://www.hacker101.com/sessions/web_in_depth)<br/>
 3. [Digital Ocean - Networking Basics](https://www.digitalocean.com/community/tutorials/an-introduction-to-networking-terminology-interfaces-and-protocols)
 
 ### Free Resources:
+
 1. [TryHackMe](https://tryhackme.com/about)<br/>
 2. [HACKTHEBOX](https://www.hackthebox.com/)<br/>
 3. [CyberAces](https://www.sans.org/cyberaces/)<br/>
 
 ### Youtube Playlists:
+
 1. [Webroot](https://www.youtube.com/user/WebrootSoftware)<br/>
 2. [The PC Security Channel](https://www.youtube.com/c/thepcsecuritychannel)<br/>
 3. [Kaspersky](https://www.youtube.com/c/KasperskyLab/playlists)<br/>
@@ -428,12 +439,7 @@ If the PR is not according to the guidelines then it will not be accepted.
 
 ## DEV OPS <a name="dev-ops"></a>
 
-1.[Simplilearn 9 hours DevOps Course](https://www.youtube.com/watch?v=lpk7VpGqkKw) <br/>
-2. [freeCodeCamp.org 2 hours DevOps Engineering Course](https://www.youtube.com/watch?v=j5Zsa_eOXeY) <br/>
-3. [Tech World with Nana's Youtube channel](https://www.youtube.com/c/TechWorldwithNana) <br/>
-4. [Learn DevOps playlist by Cloud Advocate](https://www.youtube.com/playlist?list=PLBRBRV08tHh1W6F9ijILxGJZNfzFuytZo) <br/>
-5. [Kunal Kushwaha's DevOps Bootcamp](https://www.youtube.com/playlist?list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak) <br/>
-6. [Computer Networking 4 hours Course](https://www.youtube.com/watch?v=IPvYjXCsTg8)<br/>
+1.[Simplilearn 9 hours DevOps Course](https://www.youtube.com/watch?v=lpk7VpGqkKw) <br/> 2. [freeCodeCamp.org 2 hours DevOps Engineering Course](https://www.youtube.com/watch?v=j5Zsa_eOXeY) <br/> 3. [Tech World with Nana's Youtube channel](https://www.youtube.com/c/TechWorldwithNana) <br/> 4. [Learn DevOps playlist by Cloud Advocate](https://www.youtube.com/playlist?list=PLBRBRV08tHh1W6F9ijILxGJZNfzFuytZo) <br/> 5. [Kunal Kushwaha's DevOps Bootcamp](https://www.youtube.com/playlist?list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak) <br/> 6. [Computer Networking 4 hours Course](https://www.youtube.com/watch?v=IPvYjXCsTg8)<br/>
 
 ## Python <a name="python"></a>
 
@@ -444,7 +450,6 @@ If the PR is not according to the guidelines then it will not be accepted.
 5. [A Byte of Python](https://python.swaroopch.com/)
 6. [A beginner-friendly Python tutorial](https://python.land/python-tutorial)
 7. [Python Beginners guide](https://wiki.python.org/moin/BeginnersGuide/Programmers)
-
 
 ## Blockchain <a name="blockchain"></a>
 
@@ -462,14 +467,13 @@ If the PR is not according to the guidelines then it will not be accepted.
 1. [Object Oriented Programming (JAVA)-Kunal Kushwaha](https://www.youtube.com/watch?v=BSVKUk58K6U&list=PL9gnSGHSqcno1G3XjUbwzXHL8_EttOuKk)</br>
 2. [OOPS for Interview(C++) - Helping Tutorials](https://www.youtube.com/watch?v=-TQ4c0ILhlA&list=PLCZJSEiJwWZ4XZFDktKqSV3vcAiau4xpV)<br/>
 3. [Object Oriented Programming(C++) - Easy Code](https://www.youtube.com/watch?v=ncMo5au4nXU&list=PLA8BpojmT5JF4KKQCEIqURc71z6nvYXEK)</br>
-4. [OOPS in C++ -  Codehelp by Babbar](https://www.youtube.com/watch?v=i_5pvt7ag7E&list=PLDzeHZWIZsTqouGFa8IyE8K-5hbtAppCC)</br>
+4. [OOPS in C++ - Codehelp by Babbar](https://www.youtube.com/watch?v=i_5pvt7ag7E&list=PLDzeHZWIZsTqouGFa8IyE8K-5hbtAppCC)</br>
 5. [JAVA OOPs(JAVA) - Learn Coding](https://www.youtube.com/watch?v=AEo4KgwKYoU&list=PLqleLpAMfxGCbdaJ6SoExDfHrTfRDeWeG)</br>
 6. [Object Oriented Programming (C++) - Education 4u](https://www.youtube.com/watch?v=AGrcyWV7hL8&list=PLrjkTql3jnm-Voi7giH4JITCi6cuZSN42)</br>
 7. [Object Oriented Programming Using Python(Python) - CodeWithHarry](https://www.youtube.com/watch?v=fpdwRofNMeQ&list=PLu0W_9lII9ahfRrhFcoB-4lpp9YaBmdCP)</br>
 8. [OOPS (python 3)- ProgrammingKnowledge](https://www.youtube.com/watch?v=QOryrmkr1tA&list=PLS1QulWo1RIZ77GWt3rQUggB7vm46ylYO)</br>
 9. [OOPS in Python(Python 3) - Telusko](https://www.youtube.com/watch?v=qiSCMNBIP2g)</br>
 10. [OOPs in JAVA(JAVA) - Telusko](https://www.youtube.com/watch?v=bzRp16p48bY)</br>
-
 
 ## Computer Network <a name="computer-network"></a>
 
