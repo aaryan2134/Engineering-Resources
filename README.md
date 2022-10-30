@@ -229,11 +229,13 @@ If the PR is not according to the guidelines then it will not be accepted.
 8.  [Code 15 React Projects - Complete Course](https://www.youtube.com/watch?v=a_7Z7C_JCyo)
 
 ### Vue <a name="vue"></a>
-1.[Workshops on contribute to a Civic Tech Project using Vue](https://programequity.notion.site/ProgramEquity-Open-Source-Fellows-5f4dfc06109842779b81e8166c056334).
-2.[Vue tutorial in Vue Docs] (https://vuejs.org/tutorial/#step-1).
-3.[Vue.js Crash Course by Brad Traversy] (https://www.youtube.com/watch?v=qZXt1Aom3Cs&t=2s).
-4.[Vue.js Fast Crash Course Udemy] (https://www.udemy.com/course/vuejs-fast-crash-course/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-4NPKXYWnBfUDKiDxWclM2A&LSNPUBID=JVFxdTr9V80&utm_source=aff-campaign&utm_medium=udemyads).
-5.[Vue.js-Complete Course for Beginners] (https://www.udemy.com/course/vuejs-complete-course-for-beginners/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-owuZbU39st7F_HCNDdJ5Vg&utm_source=aff-campaign&LSNPUBID=JVFxdTr9V80&utm_medium=udemyads).
+
+1.  [Workshops on contribute to a Civic Tech Project using Vue](https://programequity.notion.site/ProgramEquity-Open-Source-Fellows-5f4dfc06109842779b81e8166c056334).
+2.  [Vue tutorial in Vue Docs](https://vuejs.org/tutorial/#step-1).
+3.  [Vue.js Crash Course by Brad Traversy](https://www.youtube.com/watch?v=qZXt1Aom3Cs&t=2s).
+4.  [Vue.js Fast Crash Course Udemy](https://www.udemy.com/course/vuejs-fast-crash-course/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-4NPKXYWnBfUDKiDxWclM2A&LSNPUBID=JVFxdTr9V80&utm_source=aff-campaign&utm_medium=udemyads).
+5.  [Vue.js-Complete Course for Beginners](https://www.udemy.com/course/vuejs-complete-course-for-beginners/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-owuZbU39st7F_HCNDdJ5Vg&utm_source=aff-campaign&LSNPUBID=JVFxdTr9V80&utm_medium=udemyads).
+
  
 ### Node.js <a name="node.js"></a>
 
