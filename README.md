@@ -20,7 +20,7 @@ List of resources and project samples for Engineering Students
     - [SASS <a name="sass"></a>](#sass-)
     - [Bootstrap <a name="bootstrap"></a>](#bootstrap-)
     - [Tailwind CSS <a name="tailwind-css"></a>](#tailwind-css-)
-    - [Material UI <a name="material-ui"></a>](#material-ui)
+    - [Material UI <a name="material-ui"></a>](#material-ui-)
     - [Javascript <a name="javascript"></a>](#javascript-)
     - [React <a name="react"></a>](#react-)
     - [Node.js <a name="node.js"></a>](#nodejs-)
