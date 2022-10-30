@@ -13,6 +13,7 @@ Samples of projects for engineering students. This list is maintained by student
 3. [Online Blood Donor](./OnlineBloodDonor/README.md) - A DBMS based mini project made using HTML, CSS, PHP, MYSQL.
 4. [Typing Speed Game](./Typing_speed_game/README.md) - A Typing speed game, made using python.It can be used to find the users typing speed,or can be played for fun.
 5. [Snake_game](./Snake_Game/README.md)- This game made by using HTML, CSS, JavaScript. It can be used for fun purpose.
+6. [TicTacToe_Game](./TicTacToe_Game/README.md) - This game is made using HTML, CSS, JavaScript. It can be played for refreshment from daily work.
 
 ## Note
 Project **MUST** be related to the curriculum and should help students in their learning process. If you are adding a project, it must be created by you or your team and must include a proper description of the project and how it was used in your curriculum.
