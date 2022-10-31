@@ -11,7 +11,6 @@ List of resources and project samples for Engineering Students
   - [CS Resources <a name="education"></a>](#cs-resources-)
   - [EE Resources <a name="education"></a>](#ee-resources-)
   - [ME Resources <a name="education"></a>](#me-resources-)
-  - [CHE Resources <a name="education"></a>](#che-resources-)
   - [Machine Learning Resources <a name="machine-learning"></a>](#machine-learning-resources-)
   - [Competitive Programming <a name="competitive-programming"></a>](#competitive-programming-)
   - [Web Development <a name="web-development"></a>](#web-development-)
