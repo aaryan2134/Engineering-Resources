@@ -38,6 +38,7 @@ List of resources and project samples for Engineering Students
   - [Shell Scripting <a name="shell-scripting"></a>](#shell-scripting-)
   - [App Development <a name="app-development"></a>](#app-development-)
   - [DEV OPS <a name="dev-ops"></a>](#dev-ops-)
+  - [Game Development](#game-development)
   
 
 ## Introduction
@@ -329,3 +330,10 @@ If the PR is not according to the guidelines then it will not be accepted.
 5. [Kunal Kushwaha's DevOps Bootcamp](https://www.youtube.com/playlist?list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak) <br/>
 6. [Computer Networking 4 hours Course](https://www.youtube.com/watch?v=IPvYjXCsTg8)<br/>
 
+## Game Development <a name="game-development"></a>
+
+1. [Unity Game Development](https://www.youtube.com/watch?v=gB1F9G0JXOo) <br/>
+2. [Unity 3D Game Development](https://www.youtube.com/playlist?list=PLGmYIROty-5bpzKQNK3mRMi4pmh_LinV4) <br/>
+3. [Unity Game Development (Hindi)](https://www.youtube.com/c/TechWorldwithNana) <br/>
+4. [Unreal Engine Game Development](https://www.youtube.com/watch?v=6luTavBJ3gw) <br/>
+5. [Unreal Engine Game Development with C++](https://www.youtube.com/watch?v=LsNW4FPHuZE) <br/>
