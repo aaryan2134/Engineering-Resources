@@ -303,12 +303,12 @@ If the PR is not according to the guidelines then it will not be accepted.
 4. [Flutter - Beginner to Advanced](https://www.youtube.com/playlist?list=PL6yRaaP0WPkVtoeNIGqILtRAgd3h2CNpT)
 5. [Flutter Statemanagement](https://www.youtube.com/playlist?list=PL6yRaaP0WPkUf-ff1OX99DVSL1cynLHxO)
 6. [Flutter & Firebase](https://www.youtube.com/playlist?list=PL4cUxeGkcC9j--TKIdkb3ISfRbJeJYQwC)
-7. [Flutter guide repo](https://github.com/onecompiler/cheatsheets/blob/master/flutter.md)
-8. [Flutter projects](https://www.youtube.com/watch?v=YEJPg2jwzI8&list=PLxUBb2A_UUy8OlaNZpS2mfL8xpHcnd_Af)
-9. [Flutter Cheatsheet](https://navoki.com/flutter-commands-a-developer-must-know-cheat-sheet/)
-10. [Flutter tutorial (Hindi)](https://www.youtube.com/watch?v=j-LOab_PzzU&t=21985s&ab_channel=Codepur)
-11. [Flutter Tutorials for Beginners](https://www.youtube.com/watch?v=pTJJsmejUOQ)
-12. [Flutter Packages](https://pub.dev/)
+7. [Flutter tutorial (Hindi)](https://www.youtube.com/watch?v=j-LOab_PzzU&t=21985s&ab_channel=Codepur)
+8. [Flutter Tutorials for Beginners](https://www.youtube.com/watch?v=pTJJsmejUOQ)
+9. [Flutter projects](https://www.youtube.com/watch?v=YEJPg2jwzI8&list=PLxUBb2A_UUy8OlaNZpS2mfL8xpHcnd_Af)
+10. [Flutter Packages](https://pub.dev/)
+11. [Flutter Cheatsheet](https://navoki.com/flutter-commands-a-developer-must-know-cheat-sheet/)
+12. [Flutter guide repo](https://github.com/onecompiler/cheatsheets/blob/master/flutter.md)
 
 
 ## Database Management System <a name="Database-Management-System"></a>
