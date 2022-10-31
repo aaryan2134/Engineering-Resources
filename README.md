@@ -300,7 +300,7 @@ If the PR is not according to the guidelines then it will not be accepted.
 1. [Flutter original documentation](https://docs.flutter.dev/)
 2. [Flutter Cookbook](https://docs.flutter.dev/cookbook)
 3. [Dart language](https://www.youtube.com/watch?v=5xlVP04905w)
-4. [Flutter - Beginner to Advanced](https://www.youtube.com/playlist?list=PL6yRaaP0WPkVtoeNIGqILtRAgd3h2CNpT)
+4. [Flutter - Beginner to Advance](https://www.youtube.com/playlist?list=PL6yRaaP0WPkVtoeNIGqILtRAgd3h2CNpT)
 5. [Flutter Statemanagement](https://www.youtube.com/playlist?list=PL6yRaaP0WPkUf-ff1OX99DVSL1cynLHxO)
 6. [Flutter & Firebase](https://www.youtube.com/playlist?list=PL4cUxeGkcC9j--TKIdkb3ISfRbJeJYQwC)
 7. [Flutter tutorial (Hindi)](https://www.youtube.com/watch?v=j-LOab_PzzU&t=21985s&ab_channel=Codepur)
