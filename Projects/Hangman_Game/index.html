@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel = "icon" href = "icon.png" type = "image/x-icon">
+    <link rel="stylesheet" href="style.css" />
+    <script defer src="script.js"></script>
+    <title>Hangman Game</title>
+  </head>
+  <body>
+    <div class="wrapper">
+      <h1>Javascript Hangman Game</h1>
+      <h3>Choose the alphabet below to guess the word.</h3>
+      <div class="letter-div"></div>
+      <p>Get a hint if you need any help</p>
+      <div class="hint-div hidden">
+        <p>Hint:-</p>
+        <p class="hint-txt">Sample Hint for test</p>
+      </div>
+      <div class="word-div"></div>
+      <h3>Remaining Lives: <span class="lives">5</span></h3>
+      <div class="row hint-div">
+        <button class="hint-btn">Hint</button>
+        <button class="reset-btn">Reset</button>
+      </div>
+    </div>
+    <div class="notif hidden">
+      <h2>Game Over !!</h2>
+      <h3 class="notif-content">You won</h3>
+      <h4>Correct Word: <span class="notif-span"></span></h4>
+      <button class="notif-btn">Play again</button>
+    </div>
+  </body>
+</html>
