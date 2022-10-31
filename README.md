@@ -386,8 +386,16 @@ If the PR is not according to the guidelines then it will not be accepted.
 13. [Design and analysis of Algorithm](https://youtu.be/twE1eiO7gEE)
 14. [Theory of Computation](https://youtu.be/TpIBUeyOuv8)
 15. [Decrete Mathematics](https://youtube.com/playlist?list=PL0862D1A947252D20)
-16. [Computer graphics](https://youtu.be/VzRIUFEXKko )
-17. [cryptograhy And Network Security](https://youtube.com/playlist?list=PL9FuOtXibFjV77w2eyil4Xzp8eooqsPp8)
+16. [Computer graphics](https://youtu.be/VzRIUFEXKko )<br/>
+17. [cryptograhy And Network Security](https://youtube.com/playlist?list=PL9FuOtXibFjV77w2eyil4Xzp8eooqsPp8)<br/>
+18. [Theory of computation - Knowledge Gate](https://youtube.com/playlist?list=PLmXKhU9FNesSdCsn6YQqu9DmXRMsYdZ2T)<br/>
+19. [Theory of computation - Education 4u](https://youtube.com/playlist?list=PLfc1-isKPs7IOxDLdI-HKHpaWs964RpIu)<br/>
+20. [Design and Analysis of Algorithm-Gate Smashers](https://youtube.com/playlist?list=PLxCzCOWd7aiHcmS4i14bI0VrMbZTUvlTa)<br/>
+21. [Algorithms-Abdul Bari](https://youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)<br/>
+22. [Data Communcation-Learn Coding](https://youtube.com/playlist?list=PLqleLpAMfxGCUpDRFUnLKeDrgBsPOwTQK)<br/>
+23. [Data Communcation-Quick learn](https://youtube.com/playlist?list=PLZQgf2pQtimlhO3UY6UJzIC7JVBzSbXXQ)<br/>
+24. [Computer networks-Neso Academy](https://youtube.com/playlist?list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx)<br/>
+25. [Computer networks-Gate Smashers](https://youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_)<br/>
 
 
 
