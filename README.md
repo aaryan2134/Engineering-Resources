@@ -44,6 +44,7 @@ List of resources and project samples for Engineering Students
   - [Shell Scripting ](#shell-scripting)
   - [App Development ](#app-development)
   - [DEV OPS ](#dev-ops)
+  - [Game Development](#game-development)
   - [Python ](#python)
   - [Object Oriented Programming ](#object-oriented-programming)
   - [Blockchain ](#blockchain)
@@ -403,13 +404,6 @@ If the PR is not according to the guidelines then it will not be accepted.
 24. [Computer networks-Neso Academy](https://youtube.com/playlist?list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx)<br/>
 25. [Computer networks-Gate Smashers](https://youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_)<br/>
 
-
-
-
-
-
-
-
 ## Cyber Security Resources 
 
 ### Must:
@@ -463,19 +457,27 @@ If the PR is not according to the guidelines then it will not be accepted.
 
 ## DEV OPS 
 
-1. [Simplilearn 9 hours DevOps Course](https://www.youtube.com/watch?v=lpk7VpGqkKw) <br/> 
-2. [freeCodeCamp.org 2 hours DevOps Engineering Course](https://www.youtube.com/watch?v=j5Zsa_eOXeY) <br/> 
-3. [Tech World with Nana's Youtube channel](https://www.youtube.com/c/TechWorldwithNana) <br/> 
-4. [Learn DevOps playlist by Cloud Advocate](https://www.youtube.com/playlist?list=PLBRBRV08tHh1W6F9ijILxGJZNfzFuytZo) <br/> 
-5. [Kunal Kushwaha's DevOps Bootcamp](https://www.youtube.com/playlist?list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak) <br/> 
-6. [Computer Networking 4 hours Course](https://www.youtube.com/watch?v=IPvYjXCsTg8) <br/> 
+1.[Simplilearn 9 hours DevOps Course](https://www.youtube.com/watch?v=lpk7VpGqkKw) <br/>
+2. [freeCodeCamp.org 2 hours DevOps Engineering Course](https://www.youtube.com/watch?v=j5Zsa_eOXeY) <br/>
+3. [Tech World with Nana's Youtube channel](https://www.youtube.com/c/TechWorldwithNana) <br/>
+4. [Learn DevOps playlist by Cloud Advocate](https://www.youtube.com/playlist?list=PLBRBRV08tHh1W6F9ijILxGJZNfzFuytZo) <br/>
+5. [Kunal Kushwaha's DevOps Bootcamp](https://www.youtube.com/playlist?list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak) <br/>
+6. [Computer Networking 4 hours Course](https://www.youtube.com/watch?v=IPvYjXCsTg8)<br/>
 7. [Kubernetes for beginners](https://github.com/collabnix/dockerlabs/blob/master/kubernetes/README.md) <br/> 
 8. [Kubernetes Workshop](https://github.com/collabnix/dockerlabs/blob/master/kubernetes/workshop/README.md) <br/>
 9. [Docker Swarm for beginners](https://docs.docker.com/engine/swarm/swarm-tutorial/) <br/> 
 10. [Jenkins Guided Tour](https://www.jenkins.io/doc/tutorials/) <br/> 
 11. [Travis CI](https://docs.travis-ci.com/user/tutorial/)<br/>
 
-## Python 
+## Game Development
+
+1. [Unity Game Development](https://www.youtube.com/watch?v=gB1F9G0JXOo) <br/>
+2. [Unity 3D Game Development](https://www.youtube.com/playlist?list=PLGmYIROty-5bpzKQNK3mRMi4pmh_LinV4) <br/>
+3. [Unity Game Development (Hindi)](https://www.youtube.com/c/TechWorldwithNana) <br/>
+4. [Unreal Engine Game Development](https://www.youtube.com/watch?v=6luTavBJ3gw) <br/>
+5. [Unreal Engine Game Development with C++](https://www.youtube.com/watch?v=LsNW4FPHuZE) <br/>
+
+## Python
 
 1. [Python tutorial by Programming with Mosh](https://www.youtube.com/watch?v=_uQrJ0TkZlc&ab_channel=ProgrammingwithMosh)
 2. [Python Tutorial for Beginners in Hindi by Code with Harry](https://www.youtube.com/watch?v=gfDE2a7MKjA&ab_channel=CodeWithHarry)
