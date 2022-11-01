@@ -11,7 +11,6 @@ List of resources and project samples for Engineering Students
   - [CS Resources <a name="education"></a>](#cs-resources-)
   - [EE Resources <a name="education"></a>](#ee-resources-)
   - [ME Resources <a name="education"></a>](#me-resources-)
-  - [CHE Resources <a name="education"></a>](#che-resources-)
   - [Machine Learning Resources <a name="machine-learning"></a>](#machine-learning-resources-)
   - [Competitive Programming <a name="competitive-programming"></a>](#competitive-programming-)
   - [Web Development <a name="web-development"></a>](#web-development-)
@@ -237,6 +236,7 @@ If the PR is not according to the guidelines then it will not be accepted.
 6.  checkout courses on udemy .
 7.  [React.js Full course](https://www.youtube.com/playlist?list=PLu0W_9lII9agx66oZnT6IyhcMIbUMNMdt)
 8.  [Code 15 React Projects - Complete Course](https://www.youtube.com/watch?v=a_7Z7C_JCyo)
+9.  [React Query](https://youtube.com/playlist?list=PLC3y8-rFHvwjTELCrPrcZlo6blLBUspd2)
 
 ### Vue <a name="vue"></a>
 
@@ -299,12 +299,18 @@ If the PR is not according to the guidelines then it will not be accepted.
 ### Flutter <a name="flutter"></a>
 
 1. [Flutter original documentation](https://docs.flutter.dev/)
-2. [Dart language](https://www.youtube.com/watch?v=5xlVP04905w)
-3. [Flutter edureka tutorial](https://www.youtube.com/watch?v=9XMt2hChbRo)
-4. [Flutter guide repo](https://github.com/onecompiler/cheatsheets/blob/master/flutter.md)
-5. [Flutter projects](https://www.youtube.com/watch?v=YEJPg2jwzI8&list=PLxUBb2A_UUy8OlaNZpS2mfL8xpHcnd_Af)
-6. [Flutter Cheatsheet](https://navoki.com/flutter-commands-a-developer-must-know-cheat-sheet/).
-7. [Flutter Tutorials for Beginners](https://www.youtube.com/watch?v=pTJJsmejUOQ).
+2. [Flutter Cookbook](https://docs.flutter.dev/cookbook)
+3. [Dart language](https://www.youtube.com/watch?v=5xlVP04905w)
+4. [Flutter - Beginner to Advance](https://www.youtube.com/playlist?list=PL6yRaaP0WPkVtoeNIGqILtRAgd3h2CNpT)
+5. [Flutter Statemanagement](https://www.youtube.com/playlist?list=PL6yRaaP0WPkUf-ff1OX99DVSL1cynLHxO)
+6. [Flutter & Firebase](https://www.youtube.com/playlist?list=PL4cUxeGkcC9j--TKIdkb3ISfRbJeJYQwC)
+7. [Flutter tutorial (Hindi)](https://www.youtube.com/watch?v=j-LOab_PzzU&t=21985s&ab_channel=Codepur)
+8. [Flutter Tutorials for Beginners](https://www.youtube.com/watch?v=pTJJsmejUOQ)
+9. [Flutter projects](https://www.youtube.com/watch?v=YEJPg2jwzI8&list=PLxUBb2A_UUy8OlaNZpS2mfL8xpHcnd_Af)
+10. [Flutter Packages](https://pub.dev/)
+11. [Flutter Cheatsheet](https://navoki.com/flutter-commands-a-developer-must-know-cheat-sheet/)
+12. [Flutter guide repo](https://github.com/onecompiler/cheatsheets/blob/master/flutter.md)
+
 
 ## Database Management System <a name="Database-Management-System"></a>
 
@@ -387,8 +393,16 @@ If the PR is not according to the guidelines then it will not be accepted.
 13. [Design and analysis of Algorithm](https://youtu.be/twE1eiO7gEE)
 14. [Theory of Computation](https://youtu.be/TpIBUeyOuv8)
 15. [Decrete Mathematics](https://youtube.com/playlist?list=PL0862D1A947252D20)
-16. [Computer graphics](https://youtu.be/VzRIUFEXKko )
-17. [cryptograhy And Network Security](https://youtube.com/playlist?list=PL9FuOtXibFjV77w2eyil4Xzp8eooqsPp8)
+16. [Computer graphics](https://youtu.be/VzRIUFEXKko )<br/>
+17. [cryptograhy And Network Security](https://youtube.com/playlist?list=PL9FuOtXibFjV77w2eyil4Xzp8eooqsPp8)<br/>
+18. [Theory of computation - Knowledge Gate](https://youtube.com/playlist?list=PLmXKhU9FNesSdCsn6YQqu9DmXRMsYdZ2T)<br/>
+19. [Theory of computation - Education 4u](https://youtube.com/playlist?list=PLfc1-isKPs7IOxDLdI-HKHpaWs964RpIu)<br/>
+20. [Design and Analysis of Algorithm-Gate Smashers](https://youtube.com/playlist?list=PLxCzCOWd7aiHcmS4i14bI0VrMbZTUvlTa)<br/>
+21. [Algorithms-Abdul Bari](https://youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)<br/>
+22. [Data Communcation-Learn Coding](https://youtube.com/playlist?list=PLqleLpAMfxGCUpDRFUnLKeDrgBsPOwTQK)<br/>
+23. [Data Communcation-Quick learn](https://youtube.com/playlist?list=PLZQgf2pQtimlhO3UY6UJzIC7JVBzSbXXQ)<br/>
+24. [Computer networks-Neso Academy](https://youtube.com/playlist?list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx)<br/>
+25. [Computer networks-Gate Smashers](https://youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_)<br/>
 
 ## Cyber Security Resources <a name="cyber-security-resources"></a>
 
@@ -449,6 +463,11 @@ If the PR is not according to the guidelines then it will not be accepted.
 4. [Learn DevOps playlist by Cloud Advocate](https://www.youtube.com/playlist?list=PLBRBRV08tHh1W6F9ijILxGJZNfzFuytZo) <br/>
 5. [Kunal Kushwaha's DevOps Bootcamp](https://www.youtube.com/playlist?list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak) <br/>
 6. [Computer Networking 4 hours Course](https://www.youtube.com/watch?v=IPvYjXCsTg8)<br/>
+7. [Kubernetes for beginners](https://github.com/collabnix/dockerlabs/blob/master/kubernetes/README.md) <br/> 
+8. [Kubernetes Workshop](https://github.com/collabnix/dockerlabs/blob/master/kubernetes/workshop/README.md) <br/>
+9. [Docker Swarm for beginners](https://docs.docker.com/engine/swarm/swarm-tutorial/) <br/> 
+10. [Jenkins Guided Tour](https://www.jenkins.io/doc/tutorials/) <br/> 
+11. [Travis CI](https://docs.travis-ci.com/user/tutorial/)<br/>
 
 ## Game Development <a name="game-development"></a>
 
